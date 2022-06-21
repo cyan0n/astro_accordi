@@ -1,0 +1,61 @@
+{{ CATEGORY = 1.3 }}
+{{ KEY = DO }}
+Intro:
+       DO  SOL/SI LAm  FA  SOL  DO  FA  SOL   LAm  SOL/SI
+  
+DO                           MIm
+Vorrei poterti ricordare così, con quel sorriso  acceso d'amore
+LAm                                      FA             SOL
+Come se fosse uscita di colpo lì, un'occhiata di sole
+DO                            MIm
+Vorrei poterti ricordare lo sai, come una storia  importante davvero
+LAm                                              FA             DO
+Anche se ha mosso il sentimento che hai, solo un canto leggero
+
+SOL               DO/MI     FA  SOL                 LAm  FA
+Sto pensando a parole di addio che, danno un dispiacere
+SOL                  DO/MI    FA     REm7          SOL4  SOL   
+Ma  nel deserto che lasciano dietro sé, trovano da bere
+{{ KEY = RE }}
+RE                LA/DO#  SIm              SOL
+Certi amori regalano,        un'emozione per sempre
+LA               RE   SOL  LA                SIm  LA/DO#
+Momenti che restano così,    impressi nella mente
+RE                  LA/DO# SIm             SOL
+Certi amori ti lasciano,     una canzone per sempre
+LA              RE   SOL  LA                 SIm
+Parole che restano così,    nel cuore della gente
+
+STRUM:
+       RE   LA/DO# SIm   SOL    LA   RE SOL LA   SIm   LA
+
+RE                             FA#m
+Vorrei poterti dedicare di più, più di quel tempo che ti posso dare
+SIm                                        SOL              RE
+Ma nel mio mondo non ci sei solo tu, io perciò devo andare
+
+LA                RE/FA#   SOL   LA              SIm
+Ci sono mari e ci sono colline che, voglio rivedere
+LA                  RE/FA#    SOL   MIm7                LA4  LA
+Ci sono amici che aspettano ancora me, per giocare insieme
+{{ KEY = MI }}
+MI               SI/RE#  DO#m            LA
+Certi amori regalano,      un'emozione per sempre
+SI              MI   LA  SI              DO#m
+Momenti che restano così,   impressi nella mente
+MI                  SI/RE# DO#m            LA
+Certi amori ti lasciano,     una canzone per sempre
+SI             MI   LA  SI               DO#m
+Parole che restano così,   nel cuore della gente
+MI           SI/RE# DO#m  LA  SI  MI LA  SI  DO#m
+   nel cuore della   gente
+
+MI               SI/RE#  DO#m            LA
+Certi amori regalano,      un'emozione per sempre
+SI              MI   LA  SI              DO#m
+Momenti che restano così,   impressi nella mente
+
+MI           SI/RE# DO#m  LA
+
+SI                MI   LA  SI              DO#m
+Di quelli che restano così,  nel cuore della gente

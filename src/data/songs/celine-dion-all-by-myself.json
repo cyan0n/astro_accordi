@@ -1,0 +1,420 @@
+{
+  "title": "All By Myself",
+  "artist": "Celine Dion",
+  "slug": "celine-dion-all-by-myself",
+  "category": "1",
+  "sub_category": "3",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "1. When I was young "
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I never needed anyone "
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "              ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "and making love was just for fun. "
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "               ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "     Those days are gone"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "2. Livin’ alone "
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I think of all the friends I’ve known. "
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "When I dial the telephone "
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "            ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "        nobody’s home. "
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Rit. All by myself "
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "don’t wanna be "
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "       all by myself "
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "anymore."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "3. Hard to be sure"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sometimes I feel so insecure"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "and love so distant and obscure"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "             ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "      remains the cure."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Rit. All by myself …    (2 volte)\r"
+    },
+    {
+      "type": "empty"
+    }
+  ]
+}

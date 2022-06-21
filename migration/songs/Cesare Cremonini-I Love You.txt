@@ -1,0 +1,104 @@
+{{ CATEGORY = 1.3 }}
+{{ KEY = FA }}
+Intro:
+       FA7+  SIb7+  FA7+  SIb7+
+
+       FA7+  SIb7+  SOL7  DO
+
+       DO
+    Un giorno, non so dirti quando
+                REm7
+    ci rincontreremo io e te!
+    FA                   FAm
+    Tu per la strada coi dischi, la spesa
+         DO
+    io ancora ubriaco al caffè
+
+    Occhi negli occhi,
+                        REm7
+    diremo qualcosa sul tempo che va
+    FA                     FAm
+    senza il coraggio di chiederci
+                DO7+          DO
+    quanto è costata la felicità
+
+    FA     REm7    MIm7  
+    Non so più chi sei...
+    
+    DO
+    Sai, certe volte ci passo il mio
+                  REm7
+    tempo a invecchiare con te
+    FA               FAm
+    vivere per le abitudini
+                DO
+    come due inglesi all'ora del the,
+
+       FA                     SIb7+
+    pensare per un attimo di averti ancora
+        FA7+                SIb7+
+    se avessimo una vita in più,
+        FA                     SIb7+
+    chiamarti prima di dormire come allora,
+    SOL7                SIb
+    solo per dirti una volta in più:
+           FA    SIb
+    I love you!
+           FA    SIb
+    I love you!
+           FA    SIb
+    I love you!
+        DO       
+    I love you!
+
+  DO                                       REm7
+    Quante domande impaurite ci siamo scambiati io e te?
+     FA                 FAm
+    Quante risposte smarrite in un attimo
+    DO7+   
+    senza capire il perché
+       DO
+    Un uomo e una donna
+                          REm7
+    non sanno pensare una vita a metà
+        FA               FAm
+    ma quando finisce davvero l'amore
+      MIm7           DO
+    ancora nessuno lo sa!
+
+       FA                     SIb7+
+    pensare per un attimo di averti ancora
+        FA7+                SIb7+
+    se avessimo una vita in più,
+        FA                     SIb7+
+    chiamarti prima di dormire come allora,
+    SOL7                SIb
+    solo per dirti una volta in più:
+           FA    SIb
+    I love you!
+           FA    SIb
+    I love you!
+           FA    SIb
+    I love you!
+        DO       
+    I love you!
+    
+       DO
+    Un giorno, non so dirti quando,
+              REm7
+    ci rincontreremo io e te
+    FA7+            FAm                 DO7+
+    forse ridendo davanti alle stesse parole…
+
+  FA7+      SIb7+
+    I love you, 
+  FA7+      SIb7+
+    I love you!
+  FA7+      SIb7+
+    I love you, 
+  FA7+      SIb7+
+    I love you!
+  FA7+      SIb7+
+    I love you, 
+  FA7+      SIb7+
+    I love you!...

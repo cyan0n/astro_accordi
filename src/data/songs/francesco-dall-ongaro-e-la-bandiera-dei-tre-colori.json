@@ -1,0 +1,579 @@
+{
+  "title": "E La Bandiera dei Tre Colori",
+  "artist": "Francesco Dall'Ongaro",
+  "slug": "francesco-dall-ongaro-e-la-bandiera-dei-tre-colori",
+  "category": "6",
+  "sub_category": "2",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "1. E la bandiera di tre colori "
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "                      ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sempre è stata la più bella: "
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "noi vogliamo sempre quella,"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "noi vogliam la libertà!"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "noi vogliamo sempre quella,"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "noi vogliam la libertà!"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "2. E la bandiera gialla e nera "
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "qui ha finito di regnare, "
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "         ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "la bandiera gialla e nera "
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "      ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "qui ha finito di regnare."
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "         ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "la bandiera gialla e nera "
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "      ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "qui ha finito di regnare."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "3. Tutti uniti in un sol patto,"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "                          ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "stretti intorno alla bandiera, "
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "griderem mattina e sera: "
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "         ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "viva, viva i tre color!!"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "griderem mattina e sera: "
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "         ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "viva, viva i tre color!!"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    }
+  ]
+}

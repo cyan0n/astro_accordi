@@ -1,0 +1,46 @@
+{{ CATEGORY = 4 }}
+{{ KEY = RE }}
+Intro:
+       RE  LA7  RE  LA7  RE
+
+         RE       LA   RE
+Allons enfants de la Patrie,
+           SOL MIm     LA7 RE
+Le jour de gloire est arri-vé!
+                      LA7
+Contre nous de la tyrannie,
+                          RE
+L'étendard sanglant est levé!
+      RE/LA              LA7                        
+L'étendard sanglant est levé!
+         LA/SOL        RE/FA#
+Entendez-vous dans les campagnes
+SI7/9- MIm   MI7      LA
+Mugir  ces féroces soldats?
+{{ KEY = FA }}
+    REm                      DO6
+Ils viennent jusque dans nos bras
+            SIb6           LA7
+Egorger nos fils et nos compagnes!
+{{ KEY = RE }}
+    RE         LA
+Aux armes, citoyens!
+   RE            LA
+Formez vos bataillons!
+   RE     LA/DO# RE/DO
+Marchons! Mar----chons!
+SOL/SI RE/LA MI7/SOL# LA7
+Qu'un sang   im------pur
+  RE/FA# LA7   RE
+Abreuve nos sillons!
+
+    RE         LA
+Aux armes, citoyens!
+   RE            LA
+Formez vos bataillons!
+   RE     LA/DO# RE/DO
+Marchons! Mar----chons!
+SOL/SI RE/LA MI7/SOL# LA7
+Qu'un sang   im------pur
+  RE/FA# LA7   RE
+Abreuve nos sillons!

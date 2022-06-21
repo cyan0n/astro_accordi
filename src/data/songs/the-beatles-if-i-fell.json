@@ -1,0 +1,776 @@
+{
+  "title": "If I Fell",
+  "artist": "The Beatles",
+  "slug": "the-beatles-if-i-fell",
+  "category": "1",
+  "sub_category": "1",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "If I fell in love with you "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "would you promise to be true "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "and help me understand?"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Cause I’ve been in love before "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "and I found that love was more "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "than just holding hands."
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "1. If I  give  my   heart to you, "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I must be sure "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": " ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "      ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "from the ve___ry   start that you"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "              ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "would love me more than her. "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "2. If I trust in  you oh  please, "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "don’t run and hide "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": " ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "If I love you  too oh please "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "               ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "don’t hurt my pride like her, "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "                           ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "cause I couldn’t stand the pain "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "and I, "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "                        ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "would be sad if our new love, "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "was in vain. "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": " ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "3. So I hope you  see that I, "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "would love to love you, "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": " ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "and  that she will cry "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "                   ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "when she learns we are two"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "                           ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "cause I couldn’t stand the pain "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "and I, "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "                        ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "would be sad if our new love, "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "was in vain. "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": " ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "4. So I hope you  see that I, "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "would love to love you, "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "and that she will cry "
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "              ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "when she learns we are two"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "If I fell in love with you."
+    }
+  ]
+}

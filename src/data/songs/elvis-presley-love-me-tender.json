@@ -1,0 +1,703 @@
+{
+  "title": "Love Me Tender",
+  "artist": "Elvis Presley",
+  "slug": "elvis-presley-love-me-tender",
+  "category": "1",
+  "sub_category": "1",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Love me tender.. love me sweet"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Never let me go"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "You have made my life complete"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And I love you so"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "7",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "mod": "7",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Love me tender..... love me true"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "6",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "All my dreams fulfilled"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "For my darling.. I love you"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And I always will"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Love me tender.. love me long"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Take me to your heart"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "For it's there that I belong"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And will never part"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "7",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "mod": "7",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Love me tender..... love me true"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "6",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "All my dreams fulfilled"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "For my darling.. I love you"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And I always will"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Love me tender.. love me dear"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Tell me you are mine"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                  ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I'll be yours through all the years"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Till the end of time"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "7",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "mod": "7",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Love me tender..... love me true"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "6",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "All my dreams fulfilled"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "For my darling.. I love you"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And I always will"
+    }
+  ]
+}

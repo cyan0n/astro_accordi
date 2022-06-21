@@ -1,0 +1,1114 @@
+{
+  "title": "Fotografia",
+  "artist": "C. Brave, F. Michielin, Fabri Fibra",
+  "slug": "c-brave-f-michielin-fabri-fibra-fotografia",
+  "category": "2",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7/9",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "lei fa m’ama non m’ama con un quadrifoglio (ok)"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "noi testardi come onde su uno scoglio (si)"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e tu vieni ma poi non rimani mai (eh)"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "eravamo quercia mo siamo bonsai (eh)"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "ascolto il ticchettio di pioggia sul tettino (si)"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7/9",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "in lontananza le sirene “nino nino” (eh)"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "l’allarme della cinta suona all’infinito"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "una sigaretta affoga in un tombino"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "il tevere pare l’oceano"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "noi che viviamo a notte fonda e al mare ci tuffiamo a bomba"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "il mio amico che si apre giuro che sarò una tomba"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "la chiamo un’altra volta e un altra volta “tim informa…”"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "su una rotonda alberto tomba"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7/9",
+          "value": 0
+        },
+        {
+          "padding": "                                    ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "suora tua-dalla prua-di un toyota belli andanti fai manovra (eee)"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "qua non si campa d’aria"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "non si torna indietro come ha fatto Minala"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Voglio un’ora d’aria in una nuova serie"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "fammi una foto e non vedere come viene"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ti dico “ciao” sopra ad un ciao"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "smezziamoci una margherita ed usciamo a bere"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "ho i tuoi occhi rossi in tasca sul rullino"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7/9",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "piango senza parabrezza in motorino"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "               ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ma tanto io e te dai negativi si"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "ne usciamo fuori bene"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "come una fotografia"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "come una fotografia"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                    ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "come una fotografia"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "come una fotografia"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "esco di casa solo se ho cose da fare"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "perché fuori perdo sempre il mio cellulare"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "tengo sotto controllo il problema è normale"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "so che dovrei cambiare sistema solare"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "il mondo è pieno di hater e gia lo sai"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7/9",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sorridi in foto così li confonderai"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " nessuno crede veramente in ciò che fai"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " spero che Dio mi tenga lontano dai guai"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                                           ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "quanto stai bene con quella maglietta Fila"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                                        ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ho preso un disco solo per la copertina"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                                        ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "mille messaggi sempre la stessa faccina"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "ma se non usi i social nessuno si fida"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                                   ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7/9",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "la moda è bella ma ci rende tutti uguali"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                                         ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "chissene frega guarda ho preso questi occhiali"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                                         ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "restiamo qui a parlare di arte e di film vari"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "finchè Marte non ci separi"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Voglio un’ora d’aria in una nuova serie"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "fammi una foto e non vedere come viene"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ti dico “ciao” sopra ad un ciao"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "smezziamoci una margherita ed usciamo a bere"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "ho i tuoi occhi rossi in tasca sul rullino"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7/9",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "piango senza parabrezza in motorino"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "               ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ma tanto io e te dai negativi si"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "ne usciamo fuori bene"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "                                ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " e se non me lo dici ti lancio un 3310 "
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                                             ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "come un sasso in un laghetto dentro la città"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                                                   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "andiamo al cinema all’aperto con il cuore un pò scoperto "
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "e con un polaretto sciolto nella macchina"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                                      ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7/9",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e mentre non mi guardi ti scatto una foto"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                                         ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e quando poi ti sposti ti do un bacio a vuoto"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                    ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "come una fotografia"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                    ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "come una fotografia"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                    ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "come una fotografia"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "come una fotografia"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7/9",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "fotografia"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "fotografia"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "fotografia"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "fotografia"
+    }
+  ]
+}

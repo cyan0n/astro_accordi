@@ -1,0 +1,159 @@
+{{ CATEGORY = 2 }}
+{{ KEY = DO }}
+Intro:
+       FA  SOL6  LAm7  DO DO/MI
+
+       FA  SOL6  LAm  
+    La vita no non è uno scherzo
+
+    Ma ha la sua ironia
+
+    Io sorridevo per mestiere
+
+    Ma era una bugia
+  DO
+    E più che una famiglia
+    MIm
+    Io volevo l'anarchia
+  LAm                                    SOL
+    Ma adesso asciugo tutti con la tua fotografia
+
+  DO                          MIm   
+    Avevo perduto fiducia nel mondo
+                             LAm7
+    Senza nemmeno rendermene conto
+                              
+    Il lavoro andava a gonfie vele
+                SOL                    DO
+    La casa una barca che andava giù a fondo
+                                     MIm
+    Sai che la mamma aspettava un bambino
+
+    Ma dopo l'ha perso
+       LAm
+    Io paralizzato come un brutto sogno
+                                
+    Mentre lei piangeva e cadeva in ginocchio
+  FA                          SOL6                   LAm7
+    E in quel momento mi si è rotto qualche cosa dentro
+                       DO         DO/MI
+    Per la prima volta mi sono sentito vecchio
+  FA                  SOL6
+    Vittima di una fattura una stregoneria
+  LAm7
+    Tu hai rotto il sortilegio
+
+    Perché sei una magia
+
+  DO          MIm    
+    E ti porterò lontano
+  LAm7                 SOL   DO
+    Con la forza di un missile
+               MIm
+    E ti prenderò per mano
+  LAm7              SOL        FA
+    Ti porterò a giocare su un prato
+           SOL6           LAm7
+    E il telefono l'ho buttato
+            DO      DO/MI FA
+    E ho buttato tutte le pare
+           SOL                  LAm7
+    Per fortuna assomigli a tua madre
+     
+    Per fortuna sei tutto tua madre
+     
+  DO
+    Quand'è che ci fate un figlio?
+  MIm
+    Tutti la stessa domanda
+  LAm7
+    Io trattenevo la rabbia
+                            SOL
+    Perché avrei voluto spaccargli la faccia
+  DO                        MIm
+    Avevo perso da mò la speranza
+                                  LAm7
+    Non sopportavo più tutto quel dramma
+       
+    Ad avere coraggio ci pensava mamma
+                                 DO
+    Tra medicine e le punture in pancia
+
+    Messo alle corde anch'io
+    MIm
+    Pensavo alla religione
+                 LAm7
+    Se un figlio è un dono di Dio
+                                SOL
+    Forse questa era la mia punizione
+       DO
+    Ma quelli che mi amano
+                         MIm
+    Con il biglietto per il mio spettacolo
+
+    Chissà se immaginano
+  LAm7
+    Che hanno pagano le cure
+                                 SOL
+    Ed i dottori che hanno realizzato il miracolo
+  FA                     SOL6                     LAm
+    Ora so che dietro il caos c'è un senso più profondo
+                        DO        DO/MI
+    Sei nato a febbraio lo stesso giorno del nonno
+  FA                  SOL6                     LAm
+    Mamma incredula temeva che fosse un miraggio
+                                     
+    E i primi mesi ti ha tenuto giorno e notte in braccio
+
+  DO          MIm    
+    E ti porterò lontano
+  LAm7                 SOL   DO
+    Con la forza di un missile
+               MIm
+    E ti prenderò per mano
+  LAm7              SOL        FA
+    Ti porterò a giocare su un prato
+           SOL6           LAm7
+    E il telefono l'ho buttato
+            DO      DO/MI FA
+    E ho buttato tutte le pare
+           SOL                  LAm7
+    Per fortuna assomigli a tua madre
+     
+    Per fortuna sei tutto tua madre
+     
+  REm 
+    Da mamma hai preso il nasino
+  REm/DO          
+    La forma degli occhi e del viso
+        FA
+    E l'abilità di cambiarmi l'umore
+ 
+    Soltanto facendo un sorriso
+               REm7
+    Quando non dormi mai fino al mattino
+                   DO
+    O quando fai casino rido perché
+             FA
+    La testa dura e la voglia di urlare
+
+    Quelle le hai prese da me
+                    DO
+    Le hai prese da me
+     
+              MIm    
+    E ti porterò lontano
+  LAm7                 SOL   DO
+    Con la forza di un missile
+               MIm
+    E ti prenderò per mano
+  LAm7              SOL        FA
+    Ti porterò a giocare su un prato
+           SOL6           LAm7
+    E il telefono l'ho buttato
+            DO      DO/MI FA
+    E ho buttato tutte le pare
+           SOL                  LAm7
+    Per fortuna assomigli a tua madre
+                              DO    MIm  LAm   SOL DO
+    Per fortuna sei tutto tua madre

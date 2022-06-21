@@ -1,0 +1,660 @@
+{
+  "title": "La Marseillaise",
+  "artist": "Francia",
+  "slug": "francia-la-marseillaise",
+  "category": "4",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Allons enfants de la Patrie,"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Le jour de gloire est arri-vé!"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "                      ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Contre nous de la tyrannie,"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "                          ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "L'étendard sanglant est levé!"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "            ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "L'étendard sanglant est levé!"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Entendez-vous dans les campagnes"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "7/9-",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Mugir  ces féroces soldats?"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                    ",
+          "tone": "DO",
+          "mod": "6",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ils viennent jusque dans nos bras"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "6",
+          "value": 10
+        },
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Egorger nos fils et nos compagnes!"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Aux armes, citoyens!"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Formez vos bataillons!"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Marchons! Mar----chons!"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "7",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Qu'un sang   im------pur"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Abreuve nos sillons!"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Aux armes, citoyens!"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Formez vos bataillons!"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Marchons! Mar----chons!"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "7",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Qu'un sang   im------pur"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Abreuve nos sillons!"
+    }
+  ]
+}

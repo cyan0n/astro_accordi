@@ -1,0 +1,1239 @@
+{
+  "title": "Last Christmas",
+  "artist": "Wham!",
+  "slug": "wham-last-christmas",
+  "category": "5",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Last Christmas"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I gave you my heart,"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "But the very next day you gave it away"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "This year to save me from tears"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        },
+        {
+          "padding": "             ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I'll give it to someone special"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Last Christmas"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I gave you my heart,"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "But the very next day you gave it away"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "This year to save me from tears"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        },
+        {
+          "padding": "             ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I'll give it to someone special"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                   ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " Once bitten and twice shy"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " I keep my distance,"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                       ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "But you still catch my eye"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Tell me, baby, do you recognize me?"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " Well, it's been a year,"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It doesn't surprise me"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " Merry Christmas"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                    ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I wrapped it up and sent it"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "With a note saying \"I love you\" i meant it"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Now I know what a fool I've been,"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "But if you kissed me now"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I know you'd fool me again"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Last Christmas"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I gave you my heart,"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "But the very next day you gave it away"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "This year to save me from tears"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        },
+        {
+          "padding": "             ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I'll give it to someone special"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Last Christmas"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I gave you my heart,"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "But the very next day you gave it away"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "This year to save me from tears"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        },
+        {
+          "padding": "             ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I'll give it to someone special"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh, oh,  baby"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " A crowded room"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                    ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Friends with tired eyes"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " I'm hiding from you"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "And your soul of ice"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " My god, I thought you were someone to rely on"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        },
+        {
+          "padding": "              ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Me? I guess I was a shoulder to cry on"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                               ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "A face on a lover with a fire in his heart"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "                            ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "A man under cover, but you tore me apart"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Now I've found a real love "
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "You'll never fool me again"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Last Christmas"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I gave you my heart,"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "But the very next day you gave it away"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "This year to save me from tears"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        },
+        {
+          "padding": "             ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I'll give it to someone special"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Last Christmas"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I gave you my heart,"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "But the very next day you gave it away"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "This year to save me from tears"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        },
+        {
+          "padding": "             ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I'll give it to someone special"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "A face on a lover with a fire in his heart"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "I gave you my heart"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "A man under cover, but you tore him apart"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " Maybe next year I'll give it to someone"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        },
+        {
+          "padding": "             ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I'll give it to someone special..."
+    }
+  ]
+}

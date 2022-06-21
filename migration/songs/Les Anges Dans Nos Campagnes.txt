@@ -1,0 +1,48 @@
+{{ CATEGORY = 5 }}
+{{ KEY = DO }}
+   DO             SOL DO
+1. Les anges dans nos campagnes 
+                SOL     DO
+ont entonné l'hymne des cieux
+              SOL    DO
+et l'écho des nos montagnes
+                 SOL  DO
+redit ce chant mélo___dieux
+
+     DO  LAm  REm  SOL  DI  FA  SOL  
+Rit. Glo________________________ria
+DO            SOL
+in excelsis Deo.
+DO  LAm  REm  SOL  DO  FA  SOL
+Glo________________________ria
+DO              SOL  DO
+in excelsis De_____   o.
+
+   DO                SOL   DO
+2. Bergers, pour qui cette fete?
+                    SOL       DO
+Quel est l'objet de touts ces chant?
+                    SOL   DO
+Quel vainqueur, quelle conquete
+                  SOL  DO
+méritent ces cris triomphants?
+
+
+     DO  LAm  REm  SOL  DO  FA  SOL  
+Rit. Glo________________________ria
+DO            SOL
+in excelsis Deo.
+DO  LAm  REm  SOL  DO  FA  SOL
+Glo________________________ria
+DO              SOL  DO
+in excelsis De_____   o.
+
+
+DO  LAm  REm  SOL  DO  FA  SOL 
+Gloria
+DO          SOL
+in excelsis Deo.
+DO  LAm  REm  SOL  DO  FA  SOL 
+Gloria
+DO              SOL  DO
+in excelsis De_____   o.

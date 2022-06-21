@@ -1,0 +1,986 @@
+{
+  "title": "Clocks",
+  "artist": "Coldplay",
+  "slug": "coldplay-clocks",
+  "category": "1",
+  "sub_category": "3",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "               ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "                               ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Lights go out and I can't be saved, tides that I tried to swim against"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "             ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "                  ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " Brought me down upon my knees, oh I beg I beg and plead singing"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "           ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "                       ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Come out of the things unsaid, shoot an apple off my head  and a"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "                        ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "trouble that can't be named, tigers waiting to be tamed  singing"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  ye  hooooooooh  aahh       "
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  ye  hooooooooh  aahh"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "                        ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Confusion never stops, closing walls and ticking clocks  gonna"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "                             ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " come back and take you home, I could not stop the tune now known singing"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "                        ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " Come out upon my seas, curse missed opportunities  am I"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "                     ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " a part of the cure, or am I a part of the disease?  singing"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  ye  hooooooooh  aahh       "
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  ye  hooooooooh  aahh"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  ye  hooooooooh  aahh       "
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  ye  hooooooooh  aahh"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "7+",
+          "value": 5
+        },
+        {
+          "padding": "           ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "    ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  and nothing else compares"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "7+",
+          "value": 5
+        },
+        {
+          "padding": "          ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  oh nothing else compares"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "7+",
+          "value": 5
+        },
+        {
+          "padding": "           ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  and nothing else compares"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "                ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Home, home, where I wanted to go"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "                ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Home, home, where I wanted to go"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "                ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Home, home, where I wanted to go"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "                ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Home, home, where I wanted to go"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    }
+  ]
+}

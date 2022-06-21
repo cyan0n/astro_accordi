@@ -1,0 +1,83 @@
+{{ CATEGORY = 1.1 }}
+{{ KEY = RE }}
+    RE                  LA
+Hey Jude, don’t make it bad
+       LA7                  RE
+take a sad song and make it better
+  SOL                         RE
+Remember to let her into your heart
+             LA       LA7     RE
+then you can start to make it better
+    RE              LA
+Hey Jude, don’t be afraid
+         LA7                RE
+you were made to go out and get her 
+    SOL                           RE
+The minute you let her under your skin
+           LA     LA7     RE
+then you begin to make it better
+
+RE7                        SOL       SIm     MIm
+  And anytime you feel the pain, hey Jude, refrain
+                LA7             RE
+don’t carry the world upon your shoulders
+RE7                             SOL      SIm      MIm
+  For well you know that it's a fool who plays it cool
+              LA7            RE
+by making his world a little colder
+
+         RE7   LA7
+Da da da da da da da da
+
+    RE                 LA
+Hey Jude, don’t let me down
+         LA7                   RE
+you have found her, now go and get her
+  SOL                         RE
+Remember to let her into your heart
+             LA       LA7     RE
+then you can start to make it better
+
+RE7                          SOL    SIm     MIm
+  So let it out and let it in,  hey Jude, begin
+                   LA7           RE
+you're waiting for someone to perform with
+RE7
+  And don’t you know that it's just
+SOL      SIm          MIm
+you, hey Jude, you'll do
+                 LA7             RE
+the movement you need is on your shoulders
+
+         RE7   LA7
+Da da da da da da da da
+
+    RE                  LA
+Hey Jude, don’t make it bad
+       LA7                  RE
+take a sad song and make it better
+  SOL                         RE
+Remember to let her into your heart
+             LA       LA7     RE
+then you can start to make it better
+{{ KEY = SOL }}
+RE       DO         SOL              RE
+Na na na na na na na na na na na, hey Jude
+RE       DO         SOL              RE
+Na na na na na na na na na na na, hey Jude
+RE       DO         SOL              RE
+Na na na na na na na na na na na, hey Jude
+RE       DO         SOL              RE
+Na na na na na na na na na na na, hey Jude
+RE       DO         SOL              RE
+Na na na na na na na na na na na, hey Jude
+RE       DO         SOL              RE
+Na na na na na na na na na na na, hey Jude
+RE       DO         SOL              RE
+Na na na na na na na na na na na, hey Jude
+RE       DO         SOL              RE
+Na na na na na na na na na na na, hey Jude
+RE       DO         SOL              RE
+Na na na na na na na na na na na, hey Jude
+RE       DO         SOL              RE
+Na na na na na na na na na na na, hey Jude

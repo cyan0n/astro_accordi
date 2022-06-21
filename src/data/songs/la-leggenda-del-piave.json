@@ -1,0 +1,1319 @@
+{
+  "title": "La Leggenda del Piave",
+  "slug": "la-leggenda-del-piave",
+  "category": "6",
+  "sub_category": "2",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "mod": "7",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Il Piave mormorava,"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "calmo e placido, al passaggio"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "dei primi fanti, il ventiquattro maggio"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "LA",
+          "mod": "7",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "l'esercito marciava"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "per raggiunger la frontiera"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "mod": "7",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "per far contro il nemico una barriera..."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Muti passaron quella notte i fanti"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "tacere bisognava, e andare avanti!"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                    ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "S'udiva intanto dalle amate sponde,"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "                                   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sommesso e lieve il tripudiar dell'onde"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "                              ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Era un presagio dolce e lusinghiero,"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "mod": "6",
+          "value": 7
+        },
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "il Piave mormorò:"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "«Non passa lo straniero!»"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "mod": "7",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma in una notte trista"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "si parlò di un fosco evento,"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e il Piave udiva l'ira e lo sgomento..."
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "                     ",
+          "tone": "LA",
+          "mod": "7",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ahi, quanta gente ha vista"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "         ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "venir giù, lasciare il tetto,"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "mod": "7",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "poi che il nemico irruppe a Caporetto!"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Profughi ovunque! Dai lontani monti"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Venivan a gremir tutti i suoi ponti!"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                     ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "S'udiva allor, dalle violate sponde,"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "                                   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sommesso e triste il mormorio de l'onde"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "                                     ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "come un singhiozzo, in quell'autunno nero,"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "mod": "6",
+          "value": 7
+        },
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "il Piave mormorò:"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "«Ritorna lo straniero!»"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "mod": "7",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E ritornò il nemico"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "per l'orgoglio e per la fame"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "volea sfogare tutte le sue brame..."
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "mod": "7",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Vedeva il piano aprico,"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "di lassù: voleva ancora"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "mod": "7",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sfamarsi e tripudiare come allora..."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "«No!», disse il Piave «No!», dissero i fanti,"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "«Mai più il nemico faccia un passo avanti!»"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                      ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Si vide il Piave rigonfiar le sponde,"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "                             ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e come i fanti combatteron l'onde..."
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Rosso di sangue del nemico altero,"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "mod": "6",
+          "value": 7
+        },
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "il Piave comandò:"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "«Indietro va', straniero!»"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "           ",
+          "tone": "LA",
+          "mod": "7",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Indietreggiò il nemico"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "fino a Trieste, fino a Trento..."
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "                      ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E la vittoria sciolse le ali al vento!"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "            ",
+          "tone": "LA",
+          "mod": "7",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Fu sacro il patto antico:"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "tra le schiere, furon visti"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "mod": "7",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Risorgere Oberdan, Sauro, Battisti..."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Infranse, alfin, l'italico valore"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "le forche e l'armi dell'Impiccatore!"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                    ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Sicure l'Alpi... Libere le sponde..."
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "                                 ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E tacque il Piave: si placaron l'onde..."
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "                                  ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Sul patrio suolo, vinti i torvi Imperi,"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "mod": "6",
+          "value": 7
+        },
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "la Pace non trovò"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "né oppressi, né stranieri"
+    }
+  ]
+}

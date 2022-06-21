@@ -1,0 +1,1794 @@
+{
+  "title": "Oh, Vita!",
+  "artist": "Jovanotti",
+  "slug": "jovanotti-oh-vita",
+  "category": "2",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Qui non è il Mississipi"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E nemmeno Atlanta"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Ma non so che cosa c'è"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Nella mia pelle bianca"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E a 14 anni mi ha fatto sentire come"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Nato a Hollis, Queens"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Ma sotto falso nome"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Ho il passaporto italiano"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E un cuore mediterraneo"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Working class hero"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Con un amore spontaneo"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Per la botte piena"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E per la moglie ubriaca"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    La base aerospaziale nel centro di Aracataca"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "                   ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Gabo Marquez, Valentino Rossi ed Happy Days"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "               ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Diego Velasquez, Saturday Night Fever, Walk This Way"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "                 ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E quando senti il richiamo nella foresta"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E la mia musica"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E' la tua festa"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Come posso io"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Non celebrarti vita"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Oh vita"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Oh vita"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Skin skin dai"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    So-socializza"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Ritmo mozzarella pomodoro"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Ecco una pizza"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Supercalifragilissimeespiralitoso"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Uomo paleolitico di impatto mostruoso"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "              ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Non sono laureato ma posso insegnare ad Harvard"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "                     ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Ed improvviso sul tempo meglio che al Village Vanguard"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Ormai sono uno standard"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Un grande classico"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "               ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Quickstone rock'n'roll, Mister Fantastico"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Se esiste un dio, forse si forse no, boh"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "                  ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Ma ascolto le storie disposto a crederci un po'"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Che siamo figli di qualcuna"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Il resto è tutto da fare"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Non ho radici, ma piedi per camminare"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Come posso io"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Non celebrarti vita"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Oh vita"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Oh vita"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Come posso io"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Non celebrarti vita"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Oh vita"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Oh vita"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                     ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Ho il flow di un jazzista"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                      ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E il mood di un barista"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "                ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Le ossa rotte e riparate a forza di stare in pista"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Con la pistola ad acqua"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Rapino la banca"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    La mossa del cavallo a elle"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Che la via che spalanca"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Verso lo scacco al re"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Verso la rivoluzione"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "                ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Un cantautore con la lingua come una percussione"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "                 ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Che batte dove duole il dente, dove passa la gente"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Alcatraz, Razzmatazz"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Precipitevolissimevolmente"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Coraggio la fantasia in viaggio"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "                   ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E tocco il centro esatto del cuore selvaggio"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    La foce dell'Orinoco"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    La poesia, il gioco"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Sento un calore baby, è il Sacro Fuoco"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Come posso io"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Non celebrarti vita"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Oh vita"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Oh vita"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Come posso io"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Non celebrarti vita"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Oh vita"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Oh vita"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Boom boom boom boom"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Ritmo della vita"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    La barzelletta di una natura addomesticata"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Ah beh sì beh vacci a credere te"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E' tutto sempre relativo come piace a me"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "               ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Non sono qui per il gusto, per la ricompensa"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "                      ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Ma per tuffarmi da uno scoglio dentro all'esistenza"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Sono un migrante"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Sono un cantate"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Un panettiere a Damasco"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Una stella distante"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "                  ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Un pianoforte scordato dentro una sagrestia"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "                     ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    L'avanguardia di guardia davanti alla retrovia"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Nel tempo della paura, aspetto la fioritura"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E se è una femmina si chiamerà"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Futura..."
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Come posso io"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Non celebrarti vita"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Oh vita"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Oh vita"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Come posso io"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Non celebrarti vita"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Oh vita"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Oh vita     "
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Oh vita"
+    }
+  ]
+}

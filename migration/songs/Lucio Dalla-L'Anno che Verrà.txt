@@ -1,0 +1,86 @@
+{{ CATEGORY = 1.2 }}
+{{ KEY = SOL }}
+SOL             DO      RE                   SOL  MIm
+ Caro amico ti scrivo così mi distraggo un po'
+              LAm7              RE                SOL
+e siccome sei molto lontano più forte ti scriverò
+                 DO          RE           SOL  MIm
+Da quando sei partito c'è una grossa novità
+                   LAm7
+l'anno vecchio è finito ormai
+       RE7                  SOL
+ma qualcosa ancora qui non va
+                DO     RE              SOL    MIm
+Si esce poco la sera compreso quando è festa
+                       LAm7               RE7          SOL
+e c'è chi ha messo dei sacchi di sabbia vicino alla finestra
+                  DO        RE           SOL   MIm
+e si sta senza parlare per intere settimane
+                     LAm7
+e a quelli che hanno niente da dire
+    RE7           SOL     LA
+del tempo ne rimane
+{{ KEY = LA }}
+            RE       MI                 LA    FA#m
+Ma la televisione ha detto che il nuovo anno
+               SIm7
+porterà una trasformazione
+        MI7                        LA   
+e tutti quanti stiamo già aspettando
+                 RE     MI             LA     FA#m          
+sarà tre volte Natale e festa tutto il giorno
+                  SIm7
+ogni Cristo scenderà dalla croce
+            MI7               LA
+anche gli uccelli faranno ritorno
+              RE      MI           LA    FA#m
+Ci sarà da mangiare e luce tutto l'anno
+                SIm7
+anche i muti potranno parlare
+         MI7            LA    DO
+mentre i sordi già lo fanno
+{{ KEY = DO }}
+             FA    SOL              DO  LAm
+E si farà l'amore ognuno come gli va
+                REm7 
+anche i preti potranno sposarsi
+      SOL7                  DO
+ma soltanto a una certa età
+                 FA6        SOL         DO  LAm
+e senza grandi disturbi qualcuno sparirà
+                REm7 
+saranno forse i troppo furbi
+       SOL7           DO     DO7
+e i cretini di ogni età
+
+FA7+                                SOL/FA
+Vedi caro amico cosa ti scrivo e ti dico
+               MIm
+e come sono contento
+                          MI     
+di essere qui in questo momento
+
+vedi, vedi, vedi, vedi,
+FA7+                              SOL/FA
+vedi caro amico cosa si deve inventare
+                   MIm
+per poterci ridere sopra
+                    MI 
+per continuare a sperare
+                       FA7+     
+E se quest'anno poi passasse in un istante
+SOL/FA
+vedi amico mio
+                  MIm
+come diventa importante
+                                 MI    DO
+che in questo istante ci sia anch'io
+
+                   FA
+L'anno che sta arrivando
+       SOL        DO  LAm
+tra un anno passerà
+               REm7
+io mi sto preparando
+   SOL7          DO
+è questa la novità

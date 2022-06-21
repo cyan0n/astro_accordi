@@ -1,0 +1,647 @@
+{
+  "title": "Les Anges Dans Nos Campagnes",
+  "slug": "les-anges-dans-nos-campagnes",
+  "category": "5",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "           ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "1. Les anges dans nos campagnes "
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ont entonné l'hymne des cieux"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "et l'écho des nos montagnes"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "redit ce chant mélo___dieux"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "     DO  LAm  REm  SOL  DI  FA  SOL  "
+    },
+    {
+      "type": "lyric",
+      "lyric": "Rit. Glo________________________ria"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "          ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "in excelsis Deo."
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Glo________________________ria"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "            ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "in excelsis De_____   o."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "              ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "2. Bergers, pour qui cette fete?"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                    ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "      ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Quel est l'objet de touts ces chant?"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                    ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Quel vainqueur, quelle conquete"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                  ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "méritent ces cris triomphants?"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Rit. Glo________________________ria"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "          ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "in excelsis Deo."
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Glo________________________ria"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "            ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "in excelsis De_____   o.\r"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Gloria\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "in excelsis Deo.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Gloria\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "            ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "in excelsis De_____   o."
+    }
+  ]
+}

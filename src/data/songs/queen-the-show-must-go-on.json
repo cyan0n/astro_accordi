@@ -1,0 +1,883 @@
+{
+  "title": "The Show Must Go On",
+  "artist": "Queen",
+  "slug": "queen-the-show-must-go-on",
+  "category": "1",
+  "sub_category": "3",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "     ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Empty spaces - what are we living for"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "abandoned places - I guess we know the score"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "            ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "                    ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "on and on, does anybody know what we are looking for?"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Another hero, another mindless crime"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "behind the curtain, in the pantomime"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "                ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "                   ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "hold the line, does anybody want to take it anymore?"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "The show must go on, the show must go on, yeah,"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "inside my heart is breaking"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "my make-up may be flaking"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "but my smile   still stays on."
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Whatever happens, I'll leave it all to chance"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "another heartache, another failed romance"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "          ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "                   ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "on and on, does anybody know what we are living for?"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I guess I'm learning, I must be warmer now,"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I'll soon be turning, round the corner now"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "outside the dawn is breaking"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "                        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "but inside in the dark I'm aching to be free.  "
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "The show must go on, the show must go on, yeah,"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "inside my heart is breaking"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "my make-up may be flaking"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "but my smile   still stays on."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Strumentale:"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "          ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "             ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "           ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  My soul is painted like the wings of butterflies"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "           ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "           ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "           ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "fairytales of yesterday will grow but never die"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "mod": "4",
+          "value": 5
+        },
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I can fly - my friends."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "The show must go on, the show must go on, yeah,"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I'll face it with a grin"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I'm never giving in"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "          ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "on with the show."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Strumentale:"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I'll top the bill, I'll overkill,"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "                            ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I have to find the will to carry on (with the show, with..)"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Show..."
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "The show must go on."
+    }
+  ]
+}

@@ -1,0 +1,1097 @@
+{
+  "title": "When You're Gone",
+  "artist": "Avril Lavigne",
+  "slug": "avril-lavigne-when-you-re-gone",
+  "category": "1",
+  "sub_category": "3",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I always needed time on my own"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "                  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "mod": "7+",
+          "value": 0
+        },
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "4",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I never thought i'd need you there when I cry"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "and the days feel like years when im alone"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "                      ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                    ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "and the bed where you lie its made up on your side"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "                     ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "when you walk away i count the steps that you take"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                          ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "do you see how much i need you right now"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "mod": "7+",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "when you're gone the pieces of my heart are missing you"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "mod": "7+",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "when you're gone the face that came to know is missing to"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "when you're gone the words i need to hear"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "to always get me through the day and make it okay"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "i miss you"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I've never felt this way   before"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "                  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "7+",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Everything that I do, reminds me of you"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "               ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And the clothes you left that lied on the floor"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "                         ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                            ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And they smell just like you, I love the things that you do"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "                     ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "when you walk away i count the steps that you take"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                          ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "do you see how much i need you right now"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "mod": "7+",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "when you're gone the pieces of my heart are missing you"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "mod": "7+",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "when you're gone the face that came to know is missing to"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "when you're gone the words i need to hear"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "to always get me through the day and make it okay"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "i miss you"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "                      ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "              ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "We were made for each other, Out here forever"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I know we were yeahh!!!"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I know I ever wanted was for you to know"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Everything I do I give my heart and soul"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "                                           ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I can hardly breathe I need to feel you here with me yeahh!!!"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "mod": "7+",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "when you're gone the pieces of my heart are missing you"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "mod": "7+",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "when you're gone the face that came to know is missing to"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "when you're gone the words i need to hear"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "to always get me through the day and make it okay"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "i miss you"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    }
+  ]
+}

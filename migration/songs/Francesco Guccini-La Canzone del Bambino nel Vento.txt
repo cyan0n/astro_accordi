@@ -1,0 +1,66 @@
+{{ CATEGORY = 6.1 }}
+{{ KEY = DO }}
+Intro:
+DO DO4 DO9 DO
+
+    DO              LAm        FA              DO
+Son morto con altri cento, son morto ch' ero bambino,
+   SIb  SOL7          DO      SIb   SOL7          DO
+passato    per il camino e adesso    sono nel vento
+SIb      SOL7           DO
+e adesso     sono nel vento...
+SIb   SOL7       DO
+
+SIb SOL7
+
+   DO                 LAm      FA         DO
+Ad Auschwitz c'era la neve, il fumo saliva lento
+    SIb   SOL7           DO       SIb   SOL7       DO
+nel freddo giorno d' inverno e adesso sono nel vento,
+ SIb   SOL7       DO
+adesso sono nel vento...
+
+SIb SOL7
+
+   DO                 LAm         FA           DO
+Ad Auschwitz tante persone, ma un solo grande silenzio:
+  SIb    SOL7           DO        SIb    SOL7      DO
+è strano non riesco ancora a sorridere qui nel vento,
+     SIb    SOL7      DO
+a sorridere qui nel vento...
+
+SIb SOL7
+
+   DO                 LAm    FA              DO
+Io chiedo come può un uomo uccidere un suo fratello
+  SIb  SOL7        DO       SIb     SOL7      DO
+eppure siamo a milioni in polvere qui nel vento,
+   SIb     SOL7      DO
+in polvere qui nel vento...
+
+SIb SOL7
+
+  DO               LAm     FA           DO
+Ancora tuona il cannone, ancora non è contento
+   SIb    SOL7        DO       SIb  SOL7          DO
+di sangue la belva umana e ancora ci porta il vento
+    SIb  SOL7          DO
+e ancora ci porta il vento...
+
+SIb SOL7
+
+   DO              LAm       FA            DO
+Io chiedo quando sarà che l' uomo potrà imparare
+  SIb    SOL7         DO        SIb   SOL7     DO
+a vivere senza ammazzare e il vento si poserà
+     SIb   SOL7     DO
+e il vento si poserà...
+
+SIb SOL7
+
+   DO              LAm       FA          DO
+Io chiedo quando sarà che l' uomo potrà imparare
+  SIb    SOL7         DO        SIb   SOL7     DO
+a vivere senza ammazzare e il vento si poserà
+     SIb   SOL7     DO      SIb   SOL7     DO
+e il vento si poserà e il vento si poserà...

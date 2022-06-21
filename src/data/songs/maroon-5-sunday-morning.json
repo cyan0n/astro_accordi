@@ -1,0 +1,1293 @@
+{
+  "title": "Sunday Morning",
+  "artist": "Maroon 5",
+  "slug": "maroon-5-sunday-morning",
+  "category": "1",
+  "sub_category": "3",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "9",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "13",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "9",
+          "value": 4
+        },
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "mod": "13",
+          "value": 9
+        },
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "mod": "add9",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Sunday morning, rain is falling,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  steal some covers, share some skin"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "9",
+          "value": 4
+        },
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "mod": "13",
+          "value": 9
+        },
+        {
+          "padding": "         ",
+          "tone": "RE",
+          "mod": "add9",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Clouds are shrouding us in moments unforgettable,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "           ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "you twist to fit the mold that I am in"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "             ",
+          "tone": "LA",
+          "mod": "13",
+          "value": 9
+        },
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "mod": "add9",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "But things just get so crazy, living life gets hard to do,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "and I would gladly hit the road, get up and go if I knew,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "9",
+          "value": 4
+        },
+        {
+          "padding": "           ",
+          "tone": "LA",
+          "mod": "13",
+          "value": 9
+        },
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "mod": "add9",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "that someday it would lead me back to you,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "           ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "that someday it would lead me back to you"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "7/6",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "That may be all... I...  need,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "7/6",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "In darkness she is all... I...   see"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "mod": "7/6",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Come and rest your bones... with... me"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                       ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Driving slow on Sunday morning,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "mod": "7/6",
+          "value": 9
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "and I never want to leave"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "9",
+          "value": 4
+        },
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "mod": "7/5+",
+          "value": 9
+        },
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Fingers trace your every outline, oh yeah, yeah,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  paint a picture with my hands"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "9",
+          "value": 4
+        },
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "mod": "13",
+          "value": 9
+        },
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "mod": "add9",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Back and forth, we sway like branches in a storm,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "           ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  change the weather, still together when it ends"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "7/6",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "That may be all... I...  need,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "7/6",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "In darkness she is all... I...   see"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "mod": "7/6",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Come and rest your bones... with... me"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                       ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Driving slow on Sunday morning,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "mod": "7/6",
+          "value": 9
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "and I never want to leave"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 6
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7/5-",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 6
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7/5-",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "dim",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "9",
+          "value": 4
+        },
+        {
+          "padding": "             ",
+          "tone": "LA",
+          "mod": "7/5+",
+          "value": 9
+        },
+        {
+          "padding": "      ",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "But things just get so crazy, living life gets hard to do,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "           ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Sunday morning, rain is falling, and I'm calling out to you"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "9",
+          "value": 4
+        },
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "mod": "13",
+          "value": 9
+        },
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "mod": "add9",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Singing someday it'll bring me back to you,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "find a way to bring myself back home to you"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "7/6",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "That may be all... I...  need,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "7/6",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "In darkness she is all... I...   see"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "mod": "7/6",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Come and rest your bones... with... me"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                       ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Driving slow on Sunday morning,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "mod": "7/6",
+          "value": 9
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "and I never want to leave"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "7/6",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "That may be all... I...  need,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "7/6",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "In darkness she is all... I...   see"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "mod": "7/6",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Come and rest your bones... with... me"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7/6",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "7/6",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "That may be all... I...  need,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "7/6",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "In darkness she is all... I...   see"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "mod": "7/6",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Come and rest your bones... with... me..."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7/6",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "7+",
+          "value": 2
+        }
+      ]
+    }
+  ]
+}

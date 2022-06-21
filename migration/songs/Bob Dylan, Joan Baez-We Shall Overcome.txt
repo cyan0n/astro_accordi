@@ -1,0 +1,85 @@
+{{ CATEGORY = 1.1 }}
+{{ KEY = LA }}
+   LA	    RE  LA
+1. We shall overcome,
+LA	 RE  LA
+we shall overcome,
+LA	 RE  LA    SI   MI
+we shall overcome, some day.
+
+         RE         LA
+Rit. Oh, deep in my heart.
+RE     FA#min
+I do believe.
+LA       RE  LA    MI   LA
+We shall overcome, some day.
+
+   LA	    RE   LA
+2. We shall be alright,
+LA       RE   LA
+we shall be alright,
+LA	 RE   LA     SI   MI
+we shall be alright, some day.
+
+         RE         LA
+Rit. Oh, deep in my heart.
+RE     FA#min
+I do believe.
+LA       RE  LA    MI   LA
+We shall overcome, some day.
+
+   LA         RE      LA
+3. We’ll walk hand in hand,
+LA         RE     LA
+we’ll walk hand in hand,
+LA         RE      LA    SI   MI   
+we’ll walk hand in hand, some day.
+
+         RE         LA
+Rit. Oh, deep in my heart.
+RE     FA#min
+I do believe.
+LA       RE  LA    MI   LA
+We shall overcome, some day.
+
+   LA       RE      LA
+4. We shall live in peace,
+LA       RE      LA
+we shall live in peace,
+LA       RE      LA     SI   LA
+we shall live in peace, some day.
+
+         RE         LA
+Rit. Oh, deep in my heart.
+RE     FA#min
+I do believe.
+LA       RE  LA    MI   LA
+We shall overcome, some day.
+
+   LA       RE     LA
+5. We shall all be free,
+LA       RE     LA
+we shall all be free,
+LA       RE     LA    SI   MI
+we shall all be free, some day.
+
+         RE         LA
+Rit. Oh, deep in my heart.
+RE     FA#min
+I do believe.
+LA       RE  LA    MI   LA
+We shall overcome, some day.
+
+   LA     RE   LA
+6. We are not afraid,
+LA     RE   LA
+we are not afraid,
+LA     RE   LA     SI MI
+we are not afraid, to_day.
+
+         RE         LA
+Rit. Oh, deep in my heart.
+RE     FA#min
+I do believe.
+LA       RE  LA    MI   LA
+We shall overcome, some day.

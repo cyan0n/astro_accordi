@@ -1,0 +1,1150 @@
+{
+  "title": "C'è Chi Dice No",
+  "artist": "Vasco Rossi",
+  "slug": "vasco-rossi-c-e-chi-dice-no",
+  "category": "1",
+  "sub_category": "2",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "C'è qualcosa che non va, in questo cielo"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "c'è qualcuno che non sa, più che ore sono"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "             ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "C'è chi dice qua, c'è chi dice là"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "        Io non mi muovo"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "             ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "C'è chi dice qua, c'è chi dice là"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "        Io non ci sono"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "       ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "                 ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Tanta gente è convinta che ci sia nell'aldilà"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "qualche cosa chissà,"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "      ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  quanta gente comunque ci sa-rà"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "che si accontenterà"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Strumentale:   "
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "C'è qualcuno che non sa"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "        più cos'è un uomo"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "c'è qualcuno che non ha"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "        rispetto per nessuno"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "            ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "C'è chi dice no, c'è chi dice no"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "        Io non ci sono"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "            ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "C'è chi dice no, c'è chi dice no"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "        Io non mi muovo"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "       ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "                 ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Tanta gente è convinta che ci sia nell'aldilà"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "qualche cosa chissà,"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "      ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  quanta gente comunque ci sa-rà"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "che si accontenterà"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "            ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "C'è chi dice no, c'è chi dice no"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "        Io non mi muovo"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "            ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "C'è chi dice no, c'è chi dice no"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "        Io non ci sono"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "            ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "C'è chi dice no, c'è chi dice no"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "        Io non ci credo"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "            ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "C'è chi dice no, c'è chi dice no"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "        Io sono un uomo"
+    }
+  ]
+}

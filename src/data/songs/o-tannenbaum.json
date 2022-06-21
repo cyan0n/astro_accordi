@@ -1,0 +1,150 @@
+{
+  "title": "O Tannenbaum",
+  "slug": "o-tannenbaum",
+  "category": "5",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "O Tannenbaum, O Tannenbaum"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "wie grun sind deine Blatter!"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "O Tannenbaum, O Tannenbaum"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "wie grun sind deine Blatter!"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                  ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Du grunst nur zur Sommerszeit,"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                      ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "nein, auch in Winter, wenn es schneit!"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "O Tannenbaum, O Tannenbaum,"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "wie grun sind deine Blatter!"
+    }
+  ]
+}

@@ -1,0 +1,878 @@
+{
+  "title": "Yesterday",
+  "artist": "The Beatles",
+  "slug": "the-beatles-yesterday",
+  "category": "1",
+  "sub_category": "1",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 8
+        },
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "7",
+          "value": 1
+        },
+        {
+          "padding": "               ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "      ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Yesterday,  All my troubles seemed so far away,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "                    ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Now it looks as though they're here to stay,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh, I believe in yesterday."
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 8
+        },
+        {
+          "padding": "      ",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "7",
+          "value": 1
+        },
+        {
+          "padding": "           ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "       ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Suddenly,  I'm not half the man I used to be"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "           ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  There's a shadow hanging over me,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh, yesterday came suddenly."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "7",
+          "value": 1
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Why   she   had to go,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "6",
+          "value": 11
+        },
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I don't know, she wouldn't say."
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "7",
+          "value": 1
+        },
+        {
+          "padding": " ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I   said something wrong,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "6",
+          "value": 11
+        },
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Now I long for yesterday."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 8
+        },
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "7",
+          "value": 1
+        },
+        {
+          "padding": "         ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "          ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Yesterday,  Love was such an easy game to play,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "            ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Now I need a place to hide away,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh, I believe in yesterday."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "7",
+          "value": 1
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Why   she   had to go,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "6",
+          "value": 11
+        },
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I don't know, she wouldn't say."
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "7",
+          "value": 1
+        },
+        {
+          "padding": " ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I   said something wrong,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "6",
+          "value": 11
+        },
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Now I long for yesterday."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 8
+        },
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "7",
+          "value": 1
+        },
+        {
+          "padding": "         ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "          ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Yesterday,  Love was such an easy game to play,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "            ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Now I need a place to hide away,"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh, I believe in yesterday."
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Humm Hum-mm Humm Humm Humm-mm Humm"
+    }
+  ]
+}

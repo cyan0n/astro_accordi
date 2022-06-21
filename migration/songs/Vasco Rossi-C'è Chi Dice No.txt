@@ -1,0 +1,71 @@
+{{ CATEGORY = 1.2 }}
+{{ KEY = FA }}
+        REm          SIb SOLm  LAm7   REm
+C'è qualcosa che non va, in questo cielo
+        REm          SIb SOLm           REm
+c'è qualcuno che non sa, più che ore sono
+             REm               SIb
+C'è chi dice qua, c'è chi dice là
+SIb/LA SOLm  LAm    REm
+        Io non mi muovo
+             REm               SIb
+C'è chi dice qua, c'è chi dice là
+SIb/LA SOLm  LAm    REm
+        Io non ci sono
+
+SIb      DO         FA                   DO  SIb
+  Tanta gente è convinta che ci sia nell'aldilà
+                 LA7
+qualche cosa chissà,
+SIb       DO      FA       DO SIb
+  quanta gente comunque ci sa-rà
+                 LA7   
+che si accontenterà
+
+Strumentale:   
+             REm  SIb  LAm SOLm   LAm  REm
+
+             REm  SIb  LAm SOLm   LAm  REm
+
+        REm  DO      SIb
+C'è qualcuno che non sa
+SIb/LA SOLm   LAm      REm
+        più cos'è un uomo
+        REm  DO      SIb
+c'è qualcuno che non ha
+SIb/LA SOLm        LAm    REm
+        rispetto per nessuno
+             REm              SIb
+C'è chi dice no, c'è chi dice no
+SIb/LA SOLm  LAm    REm
+        Io non ci sono
+             REm              SIb
+C'è chi dice no, c'è chi dice no
+SIb/LA SOLm  LAm    REm
+        Io non mi muovo
+
+SIb      DO         FA                   DO  SIb
+  Tanta gente è convinta che ci sia nell'aldilà
+                 LA7
+qualche cosa chissà,
+SIb       DO      FA       DO SIb
+  quanta gente comunque ci sa-rà
+                 LA7
+che si accontenterà
+
+             REm              SIb
+C'è chi dice no, c'è chi dice no
+SIb/LA SOLm  LAm    REm
+        Io non mi muovo
+             REm              SIb
+C'è chi dice no, c'è chi dice no
+SIb/LA SOLm  LAm    REm
+        Io non ci sono
+             REm              SIb
+C'è chi dice no, c'è chi dice no
+SIb/LA SOLm  LAm    REm
+        Io non ci credo
+             REm              SIb
+C'è chi dice no, c'è chi dice no
+SIb/LA SOLm  LAm     REm
+        Io sono un uomo

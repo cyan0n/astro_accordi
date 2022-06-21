@@ -1,0 +1,1486 @@
+{
+  "title": "(I Can't Get No) Satisfaction",
+  "artist": "The Rolling Stones",
+  "slug": "the-rolling-stones-i-can-t-get-no-satisfaction",
+  "category": "1",
+  "sub_category": "2",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "             ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  I can't get no.. satisfaction,"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "             ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  I can't get no.. satisfaction."
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": "      ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "      ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "'Cause I try and I try and I try and I try."
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I can't get no,"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I can't get no."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "          ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "When I'm drivin' in my car"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "             ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "and a man comes on the radio"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "and he's tellin' me more and more"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "         ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "about some useless information"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "          ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "supposed to drive my imagination."
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "     ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I can't get no.......  oh no no no."
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " ...Hey hey hey...... that's what I say."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "             ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  I can't get no.. satisfaction,"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "             ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  I can't get no.. satisfaction."
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": "      ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "      ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "'Cause I try and I try and I try and I try."
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I can't get no,"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I can't get no."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "When I'm watchin' my TV"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "            ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "and a man comes on to tell me"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "how white my shirts can be."
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                     ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "But he can't be a man 'cause he doesn't smoke"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "               ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "the same cigarettes as me."
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "     ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I can't get no.......  oh no no no."
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " ...Hey hey hey...... that's what I say."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "             ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  I can't get no.. satisfaction,"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "             ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  I can't get no.. satisfaction."
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": "      ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "      ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "'Cause I try and I try and I try and I try."
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I can't get no,"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I can't get no."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "             ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "When I'm ridin' round the world"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "               ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "and I'm doin' this and I'm signing that"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "and I'm tryin' to make some girl"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "who tells me baby better come back later next week"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "         ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "'cause you see I'm on a losing streak."
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "     ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I can't get no.......  oh no no no."
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " ...Hey hey hey...... that's what I say."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I can't get no,"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I can't get no."
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I can't get no,"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Satisfaction.."
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "No satisfaction.."
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "No satisfaction.."
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "No satisfaction."
+    }
+  ]
+}

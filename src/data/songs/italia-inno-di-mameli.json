@@ -1,0 +1,539 @@
+{
+  "title": "Inno di Mameli",
+  "artist": "Italia",
+  "slug": "italia-inno-di-mameli",
+  "category": "4",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "  ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Fratelli d'Italia,"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "mod": "7/6",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "l'Italia s'è desta,"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "dell'elmo di Scipio"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "SOL",
+          "mod": "7/6",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "s'è cinta la  testa"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Dov'è la vittoria?"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "    ",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Le porga la chio---ma,"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "che schiava di Roma"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SOL",
+          "mod": "7/6",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Iddio la cre--ò"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Fratelli d'Italia,"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "l'Italia s'è desta,"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "dell'elmo di Scipio"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "DO",
+          "mod": "7",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "s'è cinta la testa"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Dov'è la vittoria?"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Le porga la chioma,"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "che schiava di Roma"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Iddio la creò"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Stringiamoci a coorte,"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "siam pronti alla morte"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Siam pronti alla morte,"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "l'Italia chiamò"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Stringiamoci a coorte,"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "siam pronti alla morte"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "FA",
+          "mod": "",
+          "separator": "/",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Siam pronti alla morte,"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "l'Italia chiamò, sì!"
+    }
+  ]
+}

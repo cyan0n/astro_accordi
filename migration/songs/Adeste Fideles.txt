@@ -1,0 +1,38 @@
+{{ CATEGORY = 5 }}
+{{ KEY = RE }}
+    RE      LA
+1. Adeste fideles,
+RE       SOL RE  LA
+laeti trium__phantes,
+  SIm MI    LA          MI  LA
+veni__te, venite in Be ____ thleem!
+RE      SOL RE LA    SIm LA
+Natum vide__te regem angelorum.
+
+       RE    SOL RE             SOL RE LA
+Rit. Venite ado__remus, venite ado__re_mus,
+  SOL  MI LA RE SOL RE LA  RE
+Venite adore_mus__  Do___minum!
+      RE      LA    RE      SOL RE LA
+2. En grege relicto humiles ad  cu_nas
+  SIm MI    LA          MI  LA
+voca__ti pastores adpro___perant...
+RE      SOL RE LA    SIm  LA
+Et nos ovan_ti gradu festinemus.
+
+       RE    SOL RE             SOL RE LA
+Rit. Venite ado__remus, venite ado__re_mus,
+  SOL  MI LA   RE   SOL  RE LA   RE
+Venite adore ______ mus  Do____minum!
+ 
+   RE      LA   RE       SOL RE  LA
+3. Deum de Deo, lumen de___  lumine,
+SIm MI     LA      MI LA
+ges_tant puellae viscera.
+RE   SOL RE  LA  SIm     LA
+Deum ve__rum genitum non factum. 
+
+       RE    SOL RE             SOL RE LA
+Rit. Venite ado__remus, venite ado__re_mus,
+  SOL  MI LA   RE   SOL  RE LA   RE
+Venite adore ______ mus  Do____minum!

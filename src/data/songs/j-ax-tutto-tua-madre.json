@@ -1,0 +1,1486 @@
+{
+  "title": "Tutto Tua Madre",
+  "artist": "J.Ax",
+  "slug": "j-ax-tutto-tua-madre",
+  "category": "2",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "6",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "6",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    La vita no non è uno scherzo"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Ma ha la sua ironia"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Io sorridevo per mestiere"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Ma era una bugia"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E più che una famiglia"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Io volevo l'anarchia"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "                                  ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Ma adesso asciugo tutti con la tua fotografia"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                        ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Avevo perduto fiducia nel mondo"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                             ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Senza nemmeno rendermene conto"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Il lavoro andava a gonfie vele"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "                   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    La casa una barca che andava giù a fondo"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                                     ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Sai che la mamma aspettava un bambino"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Ma dopo l'ha perso"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Io paralizzato come un brutto sogno"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Mentre lei piangeva e cadeva in ginocchio"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "                        ",
+          "tone": "SOL",
+          "mod": "6",
+          "value": 7
+        },
+        {
+          "padding": "                  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E in quel momento mi si è rotto qualche cosa dentro"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                       ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Per la prima volta mi sono sentito vecchio"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "                ",
+          "tone": "SOL",
+          "mod": "6",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Vittima di una fattura una stregoneria"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Tu hai rotto il sortilegio"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Perché sei una magia"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E ti porterò lontano"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "               ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Con la forza di un missile"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E ti prenderò per mano"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "            ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "       ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Ti porterò a giocare su un prato"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "SOL",
+          "mod": "6",
+          "value": 7
+        },
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E il telefono l'ho buttato"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "    ",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E ho buttato tutte le pare"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Per fortuna assomigli a tua madre"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Per fortuna sei tutto tua madre"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Quand'è che ci fate un figlio?"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Tutti la stessa domanda"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Io trattenevo la rabbia"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                            ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Perché avrei voluto spaccargli la faccia"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                      ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Avevo perso da mò la speranza"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                                  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Non sopportavo più tutto quel dramma"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Ad avere coraggio ci pensava mamma"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                                 ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Tra medicine e le punture in pancia"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Messo alle corde anch'io"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Pensavo alla religione"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Se un figlio è un dono di Dio"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                                ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Forse questa era la mia punizione"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Ma quelli che mi amano"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                         ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Con il biglietto per il mio spettacolo"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Chissà se immaginano"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Che hanno pagano le cure"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                                 ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Ed i dottori che hanno realizzato il miracolo"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "                   ",
+          "tone": "SOL",
+          "mod": "6",
+          "value": 7
+        },
+        {
+          "padding": "                    ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Ora so che dietro il caos c'è un senso più profondo"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "      ",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Sei nato a febbraio lo stesso giorno del nonno"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "                ",
+          "tone": "SOL",
+          "mod": "6",
+          "value": 7
+        },
+        {
+          "padding": "                    ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Mamma incredula temeva che fosse un miraggio"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E i primi mesi ti ha tenuto giorno e notte in braccio"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E ti porterò lontano"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "               ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Con la forza di un missile"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E ti prenderò per mano"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "            ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "       ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Ti porterò a giocare su un prato"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "SOL",
+          "mod": "6",
+          "value": 7
+        },
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E il telefono l'ho buttato"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "    ",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E ho buttato tutte le pare"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Per fortuna assomigli a tua madre"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Per fortuna sei tutto tua madre"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Da mamma hai preso il nasino"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    La forma degli occhi e del viso"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E l'abilità di cambiarmi l'umore"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Soltanto facendo un sorriso"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Quando non dormi mai fino al mattino"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    O quando fai casino rido perché"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    La testa dura e la voglia di urlare"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Quelle le hai prese da me"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                    ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Le hai prese da me"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E ti porterò lontano"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "               ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Con la forza di un missile"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E ti prenderò per mano"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "            ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "       ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Ti porterò a giocare su un prato"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "SOL",
+          "mod": "6",
+          "value": 7
+        },
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E il telefono l'ho buttato"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "    ",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    E ho buttato tutte le pare"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Per fortuna assomigli a tua madre"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                              ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "    Per fortuna sei tutto tua madre"
+    }
+  ]
+}

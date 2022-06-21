@@ -1,0 +1,1265 @@
+{
+  "title": "Mamma Mia!",
+  "artist": "Mamma Mia!",
+  "slug": "mamma-mia-mamma-mia",
+  "category": "3",
+  "sub_category": "1",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "5+",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "5+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                    ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  I've been cheated by you, since I don't know when"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                     ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "So I made up my mind, it must come to an end"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "mod": "5+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Look at me now,   will I ever learn?"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "              ",
+          "tone": "RE",
+          "mod": "5+",
+          "value": 2
+        },
+        {
+          "padding": "           ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I don't know how,   but I suddenly lose control"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "There's a fire within my soul"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Just one     look and I can hear a bell ring"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "One more     look and I forget everything.. woo oh"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Mamma mia, here I go again"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "4",
+          "value": 7
+        },
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  My  my, how can I resist you?"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Mamma mia, does it show again?"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "4",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  My my, just how much I've missed you"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "             ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Yes, I've been brokenhearted"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "            ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Blue since the day we parted"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "4",
+          "value": 7
+        },
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Why, why did I ever let you go?"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "         ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Mamma mia,   now I really know,"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "4",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  My my, I could never let you go."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Strumentale:"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "5+",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "5+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                          ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I've been angry and sad about the things that you do"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                           ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I can't count all the times that I've told you we're through"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "mod": "5+",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And when you go,   when you slam the door"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "              ",
+          "tone": "RE",
+          "mod": "5+",
+          "value": 2
+        },
+        {
+          "padding": "               ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I think you know,   that you won't be away too long"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "                  ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "You know that I'm not that strong."
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Just one     look and I can hear a bell ring"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "One more     look and I forget everything.. woo oh"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Mamma mia, here I go again"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "4",
+          "value": 7
+        },
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  My  my, how can I resist you?"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Mamma mia, does it show again?"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "4",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  My my, just how much I've missed you"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "             ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Yes, I've been brokenhearted"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "            ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Blue since the day we parted"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "4",
+          "value": 7
+        },
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Why, why did I ever let you go?"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Mamma mia, even if I say"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "4",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Bye bye, leave me now or never"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Mamma mia, it's a game we play"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "4",
+          "value": 7
+        },
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Bye bye doesn't mean forever"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Mamma mia, here I go again"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "4",
+          "value": 7
+        },
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  My  my, how can I resist you?"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Mamma mia, does it show again?"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "4",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  My my, just how much I've missed you"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "             ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Yes, I've been brokenhearted"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "            ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Blue since the day we parted"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "4",
+          "value": 7
+        },
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Why, why did I ever let you go?"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "         ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Mamma mia,   now I really know,"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "4",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  My my, I could never let you go."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Strumentale:"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "5+",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "5+",
+          "value": 2
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1868 @@
+{
+  "title": "Serenata Rap",
+  "artist": "Jovanotti",
+  "slug": "jovanotti-serenata-rap",
+  "category": "2",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "add9",
+          "value": 3
+        },
+        {
+          "padding": " ",
+          "tone": "FA",
+          "mod": "7/9+",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Se t'incontro per strada non riesco a parlarti"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "                ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "mi si bloccano le parole non riesco a guardarti"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "negli occhi mi sembra di impazzire"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "se potessi amplificare"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                    ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "il battito del mio cuore sentiresti"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "un batterista di una band di metallo pesante"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "               ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  ed è per questo che sono qui davanti"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "add9",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "perché mi viene molto più facile cantarti una canzone"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "mod": "7/9+",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "magari che la sentano i muri e le persone"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "piuttosto che telefonarti e dirti tutto faccia a faccia"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  rischiando di fare una figuraccia"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sono timido ma l'amore mi dà coraggio"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "                    ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "per dirti che da quando io ti ho visto è sempre maggio"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e a maggio il mondo è bello e invitante di colori"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ma ancora sugli alberi ci sono solo fiori"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "add9",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "che prima o poi si dice diverranno pure frutti"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "mod": "7/9+",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e allora tu che fai? golosamente aspetti,"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "aspetti che quel desiderio venga condiviso"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "              ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "io sono qui davanti che ti chiedo un sorriso,"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        },
+        {
+          "padding": "                         ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "affacciati alla finestra amore mio"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Affacciati al balcone rispondimi al citofono"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "                ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sono venuto qui col giradischi e col microfono"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "add9",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "insieme al mio complesso per cantarti il sentimento"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "FA",
+          "mod": "7/9+",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e se tu mi vorrai baciare sarò contento"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e questa serenata è la mia sfida col destino"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "                 ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "vorrei che per la vita noi due fossimo vicino"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "una serenata rap per dirti che di te"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "                  ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "mi piace come mi guardi mi piace come sei con me"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "mi piace quel tuo naso che s'intona con il mondo"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "mi piace il tuo sedere così rotondo"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "add9",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "da rendere satellite ogni essere vivente"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "mod": "7/9+",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "mi piaci perché sei intelligente"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "si vede dalle tue mani come le muovi"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "               ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "mi provochi pensieri e sentimenti sempre nuovi"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "nei tuoi fianchi sono le alpi nei tuoi seni le dolomiti"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "                  ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "mi piace quel tuo gusto nello scegliere i vestiti"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "quel tuo essere al di sopra delle mode del momento"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "                    ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sei un fiore che è cresciuto sull'asfalto e sul cemento"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "add9",
+          "value": 3
+        },
+        {
+          "padding": " ",
+          "tone": "FA",
+          "mod": "7/9+",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        },
+        {
+          "padding": "                        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Affacciati alla finestra amore mio,"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        },
+        {
+          "padding": "                        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "affacciati alla finestra amore mio"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        },
+        {
+          "padding": "                        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "affacciati alla finestra amore mio"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "add9",
+          "value": 3
+        },
+        {
+          "padding": "                      ",
+          "tone": "FA",
+          "mod": "7/9+",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "affacciati alla finestra amore mio"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Serenata rap serenata metropolitana"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "                ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "mettiti con me non sarò un figlio di …"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "non ci credere alle cose che ti dicono di me"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "              ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sono tutti un po' invidiosi chissà perché"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "io non ti prometto storie di passioni da copione"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "di cinema, romanzi e che ne so di una canzone"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "add9",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "io ti offro verità corpo anima e cervello"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": " ",
+          "tone": "FA",
+          "mod": "7/9+",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "amore solamente amore solo solo quello"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        },
+        {
+          "padding": "                        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Affacciati alla finestra amore mio,"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        },
+        {
+          "padding": "                        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "affacciati alla finestra amore mio"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        },
+        {
+          "padding": "                        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "affacciati alla finestra amore mio"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "add9",
+          "value": 3
+        },
+        {
+          "padding": "                      ",
+          "tone": "FA",
+          "mod": "7/9+",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "affacciati alla finestra amore mio"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Amor che a nullo amato amar perdona porco cane"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "lo scriverò sui muri e sulle metropolitane"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "di questa città milioni di abitanti"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "               ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "che giorno dopo giorno ignorandosi vanno avanti"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e poi chissà perché perché chissà"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "per come nessuno sa perché perché chissà"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "add9",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "per come due sguardi in un momento sovrappongono un destino"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "mod": "7/9+",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "palazzi, asfalto e smog si trasformano in giardino"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "persone consacrate dallo scambio di un anello"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e un monolocale che diventerà un castello,"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        },
+        {
+          "padding": "                       ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "affacciati alla finestra amore mio     "
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Nei tuoi fianchi sono le alpi nei tuoi seni le dolomiti"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "                 ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "mi piace quel tuo gusto nello scegliere i vestiti"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "add9",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "questo essere al di sopra delle mode del momento"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "FA",
+          "mod": "7/9+",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sei un fiore che è cresciuto sull'asfalto e sul cemento"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        },
+        {
+          "padding": "                        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Affacciati alla finestra amore mio,"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        },
+        {
+          "padding": "                        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "affacciati alla finestra amore mio"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        },
+        {
+          "padding": "                        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "affacciati alla finestra amore mio"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "add9",
+          "value": 3
+        },
+        {
+          "padding": "                      ",
+          "tone": "FA",
+          "mod": "7/9+",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "affacciati alla finestra amore mio"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        },
+        {
+          "padding": "                        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Affacciati alla finestra amore mio,"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        },
+        {
+          "padding": "                        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "affacciati alla finestra amore mio"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        },
+        {
+          "padding": "                        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "affacciati alla finestra amore mio"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "add9",
+          "value": 3
+        },
+        {
+          "padding": "              ",
+          "tone": "FA",
+          "mod": "7/9+",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "per te da questa sera ci sono io"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    }
+  ]
+}

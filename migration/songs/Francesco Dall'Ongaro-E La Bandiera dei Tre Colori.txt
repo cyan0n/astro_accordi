@@ -1,0 +1,52 @@
+{{ CATEGORY = 6.2 }}
+{{ KEY = RE }}
+             RE   
+1. E la bandiera di tre colori 
+                      LA
+sempre è stata la più bella: 
+         SOL        RE
+noi vogliamo sempre quella,
+         LA         RE
+noi vogliam la libertà!
+         SOL        RE
+noi vogliamo sempre quella,
+         LA         RE
+noi vogliam la libertà!
+
+SOL   RE   LA   RE
+
+SOL   RE   LA   RE
+
+             RE
+2. E la bandiera gialla e nera 
+                   LA
+qui ha finito di regnare, 
+        SOL          RE
+la bandiera gialla e nera 
+         LA        RE
+qui ha finito di regnare.
+        SOL          RE
+la bandiera gialla e nera 
+         LA        RE
+qui ha finito di regnare.
+
+SOL   RE   LA   RE
+
+SOL   RE   LA   RE
+
+          RE
+3. Tutti uniti in un sol patto,
+                          LA
+stretti intorno alla bandiera, 
+     SOL           RE
+griderem mattina e sera: 
+      LA           RE
+viva, viva i tre color!!
+     SOL           RE
+griderem mattina e sera: 
+      LA           RE
+viva, viva i tre color!!
+
+SOL   RE   LA   RE
+
+SOL   RE   LA   RE

@@ -1,0 +1,1352 @@
+{
+  "title": "La Musica Non C'è",
+  "artist": "Coez",
+  "slug": "coez-la-musica-non-c-e",
+  "category": "2",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                      ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Volevo dirti tante cose, ma non so da dove iniziare"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ti vorrei viziare"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                    ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Farti scivolare addosso questo mondo infame"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "              ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "         ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Mettermi fra te e cento lame, mentre cerco il mare"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "                  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Penso non avrebbe senso fare un"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "                 ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "tuffo immenso se non ci sei tu a nuotare"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "                  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E tu che sai colmare, e tu che sai calmare"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "              ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "C'è troppa luce dentro la stanza"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "               ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Questo caldo che avanza e io non dormirò"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "               ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E scusa se non parlo abbastanza"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "                    ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "             ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma ho una scuola di danza nello stomaco"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "    ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E balla senza musica con te"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Sei bella che la musica non c'è"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                     ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "    ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Vorrei farti cento cose, ma non so da dove iniziare"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ti vorrei viziare"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Bella che non ti va di ballare"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                  ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "               ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma bella che se balli le altre ti guardano male"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "                     ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Che c'hai sempre qualcosa da insegnare"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                    ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "                 ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Mi metti in crisi e in questo testo non ti riesco a disegnare"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                    ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Vorrei portarti al mare, anzi portarti il mare"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "              ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "C'è troppa luce dentro la stanza"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "               ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Questo caldo che avanza e io non dormirò"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "               ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E scusa se non parlo abbastanza"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "                    ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "             ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma ho una scuola di danza nello stomaco"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "    ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E balla senza musica con te"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Sei bella che la musica non c'è"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                      ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E in fondo tutto quello che volevo, lo volevo con te"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                      ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "     ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E sembra stupido, ma ci credevo e ci credevi anche te"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "    ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E non è facile trovarsi mai, oh mai, oh mai"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                       ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E tu mi dici: \"Meglio se ora vai, ormai è tardi\""
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "              ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "C'è troppa luce dentro la stanza"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "               ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Questo caldo che avanza e io non dormirò"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "               ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E scusa se non parlo abbastanza"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "                    ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "             ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma ho una scuola di danza nello stomaco"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "    ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E balla senza musica con te"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Sei bella che la musica non c'è"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Sei bella che la musica non c'è"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Sei bella che la musica non c'è"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Sei bella che la musica non c'è"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    }
+  ]
+}

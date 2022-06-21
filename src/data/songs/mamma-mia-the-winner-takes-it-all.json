@@ -1,0 +1,1335 @@
+{
+  "title": "The Winner Takes It All",
+  "artist": "Mamma Mia!",
+  "slug": "mamma-mia-the-winner-takes-it-all",
+  "category": "3",
+  "sub_category": "1",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                 ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I don't wanna talk about the things we've gone through"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                    ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Though it's hurting me now it's history"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                               ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I've played all my cards and that's what you've done too"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Nothing more to say no more ace to play "
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                    ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "The winner takes it all the loser standing small"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "      ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "           ",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Beside the victory  that's her destiny "
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "          ",
+          "tone": "SOL",
+          "mod": "add9",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I was in your arms thinking I belonged there"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                  ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "          ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I figured it made sense -building me a fence"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "              ",
+          "tone": "SOL",
+          "mod": "add9",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Building me a home thinking I'd be strong there"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "But I was a fool playing by the rules "
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "The gods may throw a dice their minds as cold as ice"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "             ",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        },
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And someone way down here loses someone dear"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                    ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "The winner takes it all the loser has to fall"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        },
+        {
+          "padding": "           ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It's simple and it's plain why should i complain "
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                     ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "               ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "But tell me does she kiss Like I used to kiss you?"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "         ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Does it feel the same when she calls your name?"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                  ",
+          "tone": "SOL",
+          "mod": "add9",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Somewhere deep inside you must know I miss you"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "           ",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "But what can I say rules must be obeyed "
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "The judges will decide the likes of me abide"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "         ",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Spectators of the show always staying low"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "The game is on again a lover or a friend"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                     ",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "A big thing or a small the winner takes it all "
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I don't wanna talk if it makes you feel sad"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "               ",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "7/4",
+          "value": 1
+        },
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And I understand you've come to shake my hand"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                ",
+          "tone": "SOL",
+          "mod": "add9",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I apologise if it makes you feel bad"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        },
+        {
+          "padding": "             ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Seeing me so tense  no self-confidence   ..but you see"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                    ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "The winner takes it all..."
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "  ",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "The winner takes it all..."
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " So the winner,      takes it all"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        },
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And the loser,   has to fall"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        },
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    }
+  ]
+}

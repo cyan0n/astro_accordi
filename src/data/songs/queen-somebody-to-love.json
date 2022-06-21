@@ -1,0 +1,1619 @@
+{
+  "title": "Somebody To Love",
+  "artist": "Queen",
+  "slug": "queen-somebody-to-love",
+  "category": "1",
+  "sub_category": "2",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Can a... ny....   bo... dy..."
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "find me... somebody to... love?"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Strumentale:"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Each morning I get up I die a little"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Can barely stand on my feet"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Take a look in the  mirror and cry"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                          ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Lord what you're doing to me"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I have spent all my years in believing you"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "      ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "But I just can't get no relief, Lord!"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Somebody, somebody"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Can any  body     find me...  somebody to love?"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Strumentale:"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "                      ",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "     ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I work hard (he works hard) every day of my life"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I work till I ache my bones"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "At the end (at the end of the day) I take home my "
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "               ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Hard earned pay all on my own"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "      ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I get down on my knees and I start to pray"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "     ",
+          "tone": "SI",
+          "mod": "",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Till the tears run down from my eyes Lord"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Somebody, somebody"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Can any  body     find me...  somebody to love?"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "   He works hard everyday "
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I try and I try and I try"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "But everybody wants to put me down"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "They say I'm goin' crazy"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "They say I got a lot of water in my brain, got no common sense"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                       ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I got nobody left to believe"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "4",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "4",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "4",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "4",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Yeah       Yeah       Yeah       Yeah"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Strumentale:"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Somebody, somebody"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Can any  body     find me...  somebody to love?"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "        Can you find me, find me, someone to love"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "      ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Got no feel      I got no rhythm"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "     ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I just keep losing my beat"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I'm ok, I'm alright  (he's alright)"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "                ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ain't gonna face no defeat"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "     ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I just gotta get out of this prison cell"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "mod": "",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Someday I'm gonna be free, Lord!"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Find me, somebody to love..."
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Find me, somebody to love..."
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Find me, somebody to love..."
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Find me, somebody to love..."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Can any  body     find me...  somebody to love?"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Strumentale:"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    }
+  ]
+}

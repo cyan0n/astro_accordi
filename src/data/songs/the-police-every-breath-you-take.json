@@ -1,0 +1,806 @@
+{
+  "title": "Every Breath You Take",
+  "artist": "The Police",
+  "slug": "the-police-every-breath-you-take",
+  "category": "1",
+  "sub_category": "2",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Every breath you take"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Every move you make"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Every bond you break"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "MI",
+          "mod": "4",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Every step you take"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I'll be watching you"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "mod": "7/4",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Every single.. day"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And every word you say"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Every game you play"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "MI",
+          "mod": "4",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Every night you stay"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I'll be watching you"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh can't you see... you belong to me"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                  ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "                     ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "How my poor heart aches, with every step you take"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "MI",
+          "mod": "7/4",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And every move you make"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                  ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And every vow you break"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Every smile you fake"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "MI",
+          "mod": "4",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Every claim you stake"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I'll be watching you"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "                                       ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Since you've gone I've been lost without a trace"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                                      ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I dream at night, I can only see your face"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                                     ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I look around but it's you I can't replace"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                                     ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I feel so cold and I long for your embrace"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                          ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I keep crying baby, baby, please"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh can't you see... you belong to me"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                  ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "                     ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "How my poor heart aches, with every step you take"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "mod": "7/4",
+          "value": 4
+        },
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Every breath you take"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Every move you make"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Every bond you break"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "MI",
+          "mod": "4",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Every step you take"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I'll be watching you"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "              ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  I'll be watching you  "
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "              ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  I'll be watching you "
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "              ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  I'll be watching you  "
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "              ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  I'll be watching you"
+    }
+  ]
+}

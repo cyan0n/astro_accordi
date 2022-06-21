@@ -1,0 +1,1549 @@
+{
+  "title": "Che Rumore Fa La Felicità",
+  "artist": "Negrita",
+  "slug": "negrita-che-rumore-fa-la-felicita",
+  "category": "1",
+  "sub_category": "3",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        },
+        {
+          "padding": "  ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        },
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Che rumore fa la felicità"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "            ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Come opposti che si attraggono,"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "come amanti che si abbracciano"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "         ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Camminiamo ancora insieme,"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sopra il male sopra il bene,"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "            ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "          ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma i fiumi si attraversano e le vette si conquistano"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "          ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Corri fino a sentir male"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "con la gola secca sotto il sole"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Che rumore fa la felicità"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Mentre i sogni si dissolvono"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e gli inverni si accavallano"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "          ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "quanti spilli sulla pelle"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "dentro il petto sulle spalle,"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "          ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ma vedo il sole dei tuoi occhi neri"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "più del nero opaco dei miei pensieri"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e vivo fino a sentir male"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "con la gola secca sotto il sole"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "           ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Corri amore, corri amore"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        },
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Che rumore fa la felicità"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "               ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Insieme, la vita lo sai bene"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "                  ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "             ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ti viene come viene, ma brucia nelle vene e viverla insieme"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "è un brivido è una cura"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "serenità e paura"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "coraggio ed avventura,"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        },
+        {
+          "padding": "            ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "da vivere insieme, insieme, insieme, insieme … a te"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Strumentale:"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Che rumore fa la felicità"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Due molecole che sbattono"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "come mosche in un barattolo"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "      ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "con le ali ferme senza vento"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "bestemmiando al firmamento"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Mentre il senso delle cose muta"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ed ogni sicurezza è ormai scaduta"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "appassisce lentamente"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "la coscienza della gente"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Che rumore fa la felicità"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "              ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Che sapore ha, quando arriverà sopra i cieli grigi delle città"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "che fingono di essere rifugio per le anime"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "         ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Corri fino a sentir male"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "con la gola secca sotto il sole"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Corri amore, corri amore"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        },
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Che rumore fa la felicità"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "               ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Insieme, la vita lo sai bene"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "                  ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "             ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ti viene come viene, ma brucia nelle vene e viverla insieme"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "è un brivido è una cura"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "serenità e paura"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "coraggio ed avventura,"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        },
+        {
+          "padding": "              ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "da vivere insieme, insieme, insieme, insieme … a te"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "       ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Dove sei ora?"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Come stai ora?"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "       ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Cosa sei ora?"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Cosa sei?"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "      ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Dove sei ora?"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Come sei ora?"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "      ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Cosa sei ora?"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        },
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Cosa sei… cosa sei? ma…"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "               ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Insieme, la vita lo sai bene"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "                  ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "             ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ti viene come viene, ma brucia nelle vene e viverla insieme"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "è un brivido è una cura"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "serenità e paura"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "coraggio ed avventura,"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "mod": "7",
+          "value": 2
+        },
+        {
+          "padding": "              ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "da vivere insieme, insieme, insieme, insieme … a te"
+    }
+  ]
+}

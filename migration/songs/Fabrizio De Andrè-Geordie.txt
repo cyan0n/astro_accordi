@@ -1,0 +1,64 @@
+{{ CATEGORY = 1.1 }}
+{{ KEY = SIb }}
+SOLm            FA  MIb    RE7
+Mentre attraversavo London Bridge
+SOLm         SIb      FA
+  un giorno senza sole
+SOLm        SIb   FA        REm
+  vidi una donna pianger d'amore
+    SOLm      REm   SOLm
+piangeva per il suo Geordie
+
+  SOLm         FA         MIb       RE7
+Impiccheranno Geordie con una corda d'oro
+SOLm         SIb   FA
+  È un privilegio raro
+SOLm        SIb       FA       REm
+  rubò sei cervi nel parco del Re
+   SOLm     REm  SOLm
+vendendoli per denaro
+
+   SOLm           FA         MIb       RE7
+Sellate il suo cavallo dalla bianca criniera
+SOLm      SIb       FA
+  sellatele il suo pony
+SOLm       SIb       FA       REm
+  cavalcherà fino a Londra stasera
+SOLm       REm     SOLm
+  ad implorare per Geordie
+
+SOLm           FA       MIb      RE7
+Geordie non rubò mai neppure per me
+SOLm              SIb   FA
+  un frutto o un fiore raro
+SOLm        SIb       FA       REm
+  rubò sei cervi nel parco del Re
+   SOLm     REm  SOLm
+vendendoli per denaro
+
+   SOLm         FA       MIb           RE7
+Salvate le sue labbra salvate il suo sorriso
+SOLm           SIb    FA
+  non ha vent'anni ancora
+SOLm          SIb         FA          REm
+  cadrà  l'inverno anche sopra il suo viso
+  SOLm        REm    SOLm
+potrete impiccarlo allora
+
+      SOLm           FA         MIb         RE7
+Nè il cuore degli inglesi nè lo scettro del Re
+SOLm         SIb     FA
+  Geordie potran salvare
+SOLm        SIb   FA       REm
+  anche se piangeranno con te
+   SOLm       REm   SOLm
+la legge non può cambiare
+
+  SOLm           FA       MIb       RE7
+Così lo impiccheranno con una corda d'oro
+SOLm         SIb   FA
+  È un privilegio raro
+SOLm        SIb       FA       REm
+  rubò sei cervi nel parco del Re
+   SOLm     REm  SOLm
+vendendoli per denaro

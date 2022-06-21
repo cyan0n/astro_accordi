@@ -1,0 +1,1230 @@
+{
+  "title": "Beautiful Disaster",
+  "artist": "Fedez ft. Mika",
+  "slug": "fedez-ft-mika-beautiful-disaster",
+  "category": "2",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Me lo ripeto in testa giusto per non dormire"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "resta sveglio perché il meglio deve ancora svanire"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "per poi sognare un altro modo per potersi rialzare"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "come la pioggia che cade senza mai farsi male"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "da dove siete usciti dice una voce incerta"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "non lo so ma siamo entrati da una ferita aperta"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "le cicatrici dicono di starcene fra i deboli"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "parliamo col linguaggio dei segni indelebili"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Come ieri tu non c’eri"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "disturbi ereditari sfortunati ereditieri"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "perché spesso chi ti giudica è il primo che poi ti trucida"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "quando lanciare un sasso vale più di una supplica"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ci hanno detto non è tutto ora ciò che luccica"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ma l’hanno detto perché è tutto loro ciò che luccica"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ora, voglio gridare fortissimo, "
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "la vita fa schifo il panorama è bellissimo"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It’s a beautiful disaster"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It’s a beautiful disaster"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                       ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " I get this feeling I can’t miss"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                            ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "you’re getting harder to resist"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                         ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "and maybe by the time I know"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                              ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "it’ll be too late to let you go"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                                 ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "who knew my heart could beat so quick"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                         ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "my life I gave away for this"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                         ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "don’t care what anybody sees"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "I know I am doing this for me"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Prendo quei pezzi di vita che ho vissuto per sbaglio"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "e li cambio in emozioni di piccolo taglio"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "chi vive sempre e comunque chi vive chiuso in un bunker"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "chi vive sotto la luce vede l’inizio del tunnel"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "con il cuore di pietra tu con la coda di paglia"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "7",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "stanchi di nascondere la testa sotto la rabbia"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "mangiare la polvere condirsi la terra"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "noi che cerchiamo la pace a costo di farvi la guerra"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Con 24 mila baci probabilmente Giuda ci avrebbe sterminati"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "sentirsi inadeguati sentirsi uno dei tanti "
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "un’occasione persa fa l’uomo ladro di rimpianti"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " rapaci nati con l’animo colpevole"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "denuncia la tua vita per felicità ingannevole"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e a tutti noi cresciuti dentro camere oscure"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "dove ogni stronzo mente e la verità pure"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It’s a beautiful disaster"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It’s a beautiful disaster"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                       ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " I get this feeling I can’t miss"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                            ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "you’re getting harder to resist"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                         ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "and maybe by the time I know"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                              ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "it’ll be too late to let you go"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                                 ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "who knew my heart could beat so quick"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                         ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "my life I gave away for this"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                         ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "don’t care what anybody sees"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                            ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I know I am doing this for me"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "        ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I can be your butterfly"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                      ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "love you so hard that I could die"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  well, I can make it worth it all"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "              ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  what a beautiful way to fall"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It’s a beautiful disaster"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "...beautiful disaster"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                       ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " I get this feeling I can’t miss"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                            ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "you’re getting harder to resist"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                         ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "and maybe by the time I know"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                              ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "it’ll be too late to let you go"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                                 ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "who knew my heart could beat so quick"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                         ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "my life I gave away for this"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                         ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "don’t care what anybody sees"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "                            ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I know I am doing this for me"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It’s a beautiful disaster"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It’s a beautiful disaster"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It’s a beautiful disaster"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It’s a beautiful disaster"
+    }
+  ]
+}

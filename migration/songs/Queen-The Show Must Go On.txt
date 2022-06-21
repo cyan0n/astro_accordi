@@ -1,0 +1,86 @@
+{{ CATEGORY = 1.3 }}
+{{ KEY = FA }}
+Intro:
+     REm       SIb
+
+     SOLm  LA  SOLm
+
+      REm
+Empty spaces - what are we living for
+          SIb
+abandoned places - I guess we know the score
+SOLm             LA                      SOLm
+on and on, does anybody know what we are looking for?
+        REm
+Another hero, another mindless crime
+           SIb
+behind the curtain, in the pantomime
+SOLm                 LA                     SOLm
+hold the line, does anybody want to take it anymore?
+
+                 REm                  SIb
+The show must go on, the show must go on, yeah,
+  SOLm
+inside my heart is breaking
+   LA
+my make-up may be flaking
+       SOLm   SOLm7    REm
+but my smile   still stays on.
+{{ KEY = SOL }}
+        MIm
+Whatever happens, I'll leave it all to chance
+        DO
+another heartache, another failed romance
+LAm            SI                     LAm
+on and on, does anybody know what we are living for?
+            MIm
+I guess I'm learning, I must be warmer now,
+             DO
+I'll soon be turning, round the corner now
+   LAm
+outside the dawn is breaking
+    SI                          LAm       SOLm
+but inside in the dark I'm aching to be free.  
+{{ KEY = FA }}
+                 REm                  SIb
+The show must go on, the show must go on, yeah,
+  SOLm
+inside my heart is breaking
+   LA
+my make-up may be flaking
+       SOLm   SOLm7    REm
+but my smile   still stays on.
+
+Strumentale:
+     REm  SIb
+
+     SOLm  LA SOLm  MIb7
+{{ KEY = MIb }}
+LAb           SIb              SOLm            DOm
+  My soul is painted like the wings of butterflies
+LAb            SIb            SOLm            DOm
+fairytales of yesterday will grow but never die
+{{ KEY = FA }}
+      MI      FA4     FA
+I can fly - my friends.
+
+                 REm                  SIb
+The show must go on, the show must go on, yeah,
+     SOLm
+I'll face it with a grin
+    LA
+I'm never giving in
+  SOLm           SOLm7  REm
+on with the show.
+
+Strumentale:
+     REm  SIb
+
+     SOLm
+I'll top the bill, I'll overkill,
+LA                              SOLm
+I have to find the will to carry on (with the show, with..)
+SOLm
+Show...
+                 REm
+The show must go on.

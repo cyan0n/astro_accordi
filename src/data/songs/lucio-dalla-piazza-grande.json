@@ -1,0 +1,736 @@
+{
+  "title": "Piazza Grande",
+  "artist": "Lucio Dalla",
+  "slug": "lucio-dalla-piazza-grande",
+  "category": "1",
+  "sub_category": "2",
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                   ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Santi che pagano il mio pranzo non ce n’è"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                         ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sulle panchine in Piazza Grande"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                        ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ma quando ha fame di mercanti come me"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "qui non ce n'è"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                     ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Dormo sull'erba ho molti amici intorno a me"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                         ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "gli innamorati in Piazza Grande"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "                     ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " dei loro guai dei loro amori tutto so"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sbagliati o no."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": "                               ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "A modo mio, avrei bisogno di carezze anch’io"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": "                               ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "a modo mio, avrei bisogno di sognare anch'io"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                    ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Una famiglia vera e propria non ce l'ho"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                     ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "è la mia casa Piazza Grande"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "                     ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "a chi mi crede amore prendo amore do"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "quanto ne ho"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "                ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "7",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Con me di donne generose non ce n'è"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "                       ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "rubo l'amore in Piazza grande"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "                 ",
+          "tone": "MI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " e meno male che briganti come me"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "7",
+          "value": 8
+        },
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " qui non ce n'è"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7",
+          "value": 3
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "7",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "7",
+          "value": 8
+        },
+        {
+          "padding": "                              ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "A modo mio, avrei bisogno di carezze anch'io"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "              ",
+          "tone": "MI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "avrei bisogno di pregare Dio"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "7",
+          "value": 8
+        },
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ma la mia vita non la cambierò"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "mai mai"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "                           ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "a modo mio, quel che sono l'ho voluto io"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "                        ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Lenzuola bianche per coprirmi non ne ho"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "                          ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sotto le stelle in Piazza Grande"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "                    ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "7",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e se la vita non ha sogni io li ho"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e te li do"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E se non ci sarà più gente come me"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "                        ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "voglio morire in Piazza Grande"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "                      ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "tra i gatti che non han padrone come me"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "      ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " attorno a me"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    }
+  ]
+}
