@@ -13,7 +13,11 @@
     "@astrojs/vue": "^0.1.5",
     "astro": "^1.0.0-beta.47",
     "named-js-regexp": "^1.3.5",
+    "sass": "^1.52.3",
     "url-slug": "^3.0.4",
     "vue": "^3.2.37"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1"
   }
 }
