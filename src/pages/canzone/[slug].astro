@@ -1,0 +1,16 @@
+---
+import slugs from '../../data/songs/paths.json'
+import Layout from '../../layouts/Layout.astro';
+
+export function getStaticPaths() {
+	return slugs.map(slug => ({ params: { slug } }))
+}
+
+const { slug } = Astro.params
+const song = await import(`../../data/songs/${slug}.json`)
+---
+
+<Layout>
+	{song.title}
+	{song.artist}
+</Layout>
