@@ -1,0 +1,39 @@
+{
+  "1": {
+    "label": "Unità 2: (Non) sono solo canzonette",
+    "subs": {
+      "1": {
+        "label": "Anni '50 - '60"
+      },
+      "2": {
+        "label": "Anni '70 - '80"
+      },
+      "3": {
+        "label": "Anni '90 - 2000"
+      }
+    }
+  },
+  "2": {
+    "label": "Unità 3: Canta rap"
+  },
+  "3": {
+    "label": "Unità 4: Colonne sonore"
+  },
+  "4": {
+    "label": "Unità 5: Il suono delle nazioni"
+  },
+  "5": {
+    "label": "Unità 7: Brani natalizi"
+  },
+  "6": {
+    "label": "Percorsi di competenze",
+    "subs": {
+      "1": {
+        "label": "Guerra e pace"
+      },
+      "2": {
+        "label": "Le canzoni e la storia d'Italia"
+      }
+    }
+  }
+}

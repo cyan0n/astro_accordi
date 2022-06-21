@@ -1,0 +1,62 @@
+[
+  {
+    "legal": "DO",
+    "type": "tone",
+    "scale": "N"
+  },
+  {
+    "legal": "REb",
+    "type": "semi",
+    "scale": "b"
+  },
+  {
+    "legal": "RE",
+    "type": "tone",
+    "scale": "#"
+  },
+  {
+    "legal": "MIb",
+    "type": "semi",
+    "scale": "b"
+  },
+  {
+    "legal": "MI",
+    "type": "tone",
+    "scale": "#"
+  },
+  {
+    "legal": "FA",
+    "type": "tone",
+    "scale": "b"
+  },
+  {
+    "legal": "FA#",
+    "type": "semi",
+    "scale": "#"
+  },
+  {
+    "legal": "SOL",
+    "type": "tone",
+    "scale": "#"
+  },
+  {
+    "legal": "LAb",
+    "type": "semi",
+    "scale": "b"
+  },
+  {
+    "legal": "LA",
+    "type": "tone",
+    "scale": "#"
+  },
+  {
+    "legal": "SIb",
+    "type": "semi",
+    "scale": "b"
+  },
+  {
+    "legal": "SI",
+    "type": "tone",
+    "scale": "#"
+  }
+]
