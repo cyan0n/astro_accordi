@@ -1,0 +1,82 @@
+{{ CATEGORY = 1.3 }}
+{{ KEY = SIb }}
+Intro:
+      SOLm  SOLm6  SOLm6+  SOLm6
+
+  SOLm          SOLm6
+    Cambia il cielo
+              SOLm6+      DOadd9
+    Cambia la musica dell'anima
+  SOLm     SOLm6          DO
+    Ma tu resti qui con me
+
+     
+  SOLm      SOLm6           SOLm6+         DOadd9
+    Tra lo stomaco e i pensieri più invisibili
+  MIbadd9                 FA4  FA
+    e da li non te ne andrai
+
+     
+       MIb           SOLm         SOLm6
+    La vita cambia idea, cambia le intenzioni
+      MIb          FA4     FA
+    e mai nessuno sa come fa
+
+     
+    SIb         FA     DOm7   MIb
+    Quando una stella muore
+    SIb        FA      DOm7   MIb
+    Che brucia ma non vuole
+       SIb         FA/SIb
+    Un bacio se ne va
+        MIb/SIb              MIb
+    l'universo se ne accorgerà
+     SIb        FA     DOm7   MIb
+    Quando una stella muore 
+          SOLm  SOLm6  SOLm6+
+    fa male, 
+       SOLm6
+    fa male
+
+  SOLm      SOLm6             SOLm6+       DOadd9  
+    Troppe notti sotto agli occhi porto livide
+  SOLm      SOLm6        DO
+    ho imparato a modo mio
+  SOLm    SOLm6       SOLm6+        DOadd9
+    a leccarmi le ferite più invisibili
+  MIbadd9                 FA4  FA
+    perché è così che si fa
+
+     
+          MIb            SOLm         SOLm6
+    Ma la vita cambia idea e cambia le intenzioni
+      MIb          FA4     FA
+    e mai nessuno sa come fa
+
+    SIb         FA     DOm7   MIb
+    Quando una stella muore
+    SIb        FA      DOm7   MIb
+    Che brucia ma non vuole
+       SIb         FA/SIb
+    Un bacio se ne va
+        MIb/SIb              MIb
+    l'universo se ne accorgerà
+     SIb        FA       DOm7   MIb
+    Quando una stella muore 
+          
+    fa male
+     
+  FA                 SOLm          SOLm6   
+    A metà tra il destino e casa mia
+  FA               MIb/SOL                    FA/LA    SIb  FA   DOm7
+    arriverà la certezza che non è mai stata colpa mia
+           MIb         SIb  FA  DOm7  MIb
+    non è stata colpa mia
+       SIb         FA/SIb
+    Un bacio se ne va
+         MIb/SIb             MIb
+    l'universo se ne accorgerà
+     SIb         FA       DOm7  REm7  MIb
+    quando una stella muore
+          SIbadd9
+    fa male

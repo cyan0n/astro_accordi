@@ -1,0 +1,114 @@
+{{ CATEGORY = 1.2 }}
+{{ KEY = DO }}
+Intro:
+        DO  DO/SIb  FA/LA  SOL7/4 SOL7  DO
+
+    DO
+    Spiagge
+      FA/LA       SOL
+    immense ed assolate
+    SOL/FA          DO/MI  FA/LA
+    spiagge già vissute
+                   DO/MI  LAm7
+    amate e poi perdute
+                     REm7  SOL
+    in questa azzurrità
+        SOL7                DO    SOL/SI LAm
+    fra le conchiglie e il sale
+                   REm7  SOL      
+    tanta la gente che
+          SOL              FA6/DO DO    SOL7/4
+    ci ha già lasciato il cuo----re...
+     
+    DO
+    Spiagge
+       FA/LA       SOL
+    di corpi abbandonati
+       SOL/FA    DO/MI  FA/LA
+    di attimi rubati
+                    DO/MI  LAm
+    mentre la pelle brucia
+                  REm7  SOL
+    un'altra vela va
+     SOL7               DO    SOL/SI LAm
+    fino a che non scompare
+                     REm7  SOL
+    quanti i segreti che
+                    FA6/DO DO
+    appartengono al ma-----re...
+      
+               FA   SOL/FA
+    Un'altra estate qui
+               MIm7  LAm
+    e un'altra volta qui
+             REm7           MI7   LAm MI/LAb LAm
+    più disinvolta e più mondana che mai
+               REm7  SOL/FA
+    mille avventure che
+            MIm7 LAm
+    non finiranno se
+                REm7      SOL7/4    SOL7
+    per quegli amori esisteranno nuove...
+
+    DO
+    Spiagge
+       FA/LA        SOL
+    di cocco e di granite
+       SOL/FA       DO/MI  FA/LA
+    di muscoli e bikini
+                        MIm7  LAm
+    di straniere e di bagnini
+                        REm7  SOL
+    quel disco nel juke box
+    SOL7             DO   SOL/SI LAm
+    suona la tua canzone
+                      REm7  SOL
+    per la tua storia che
+                        FA6/DO DO
+    nasce sotto l'ombrellone...
+{{ KEY = RE }}
+    RE      SOL/SI  LA  
+    Spiagge...
+
+    LA/SOL  RE/FA#  SOL/SI  FA#m7  SIm
+
+                MIm7  LA
+    Un'altra vela va
+                       RE   LA/DO# SIm
+    fino a che non scompare
+                     MIm7  LA
+    quanti i segreti che
+                    SOL6/RE RE
+    appartengono al ma-----re...
+     
+               SOL   LA/SOL
+    Un'altra estate qui
+               FA#m7  SIm
+    e un'altra volta qui
+             MIm7         FA#7     SIm FA#/LA# SIm
+    più disinvolta e più puttana che ma----------i
+               MIm7 LA/SOL
+    mille avventure  che
+            FA#m7 SIm
+    non finiranno se
+                MIm7     LA7/4    LA7/9-
+    per quegli amori esisteranno nuove...
+
+    RE  
+    Spiagge
+      SOL/SI        LA
+    dipinte in cartolina
+        LA/SOL      RE/FA#  SOL/SI
+    ti scrivo tu mi scrivi
+                         LA6  SIm
+    poi torna tutto come prima
+                   MIm7  LA
+    l'inverno passerà
+                         RE  SIm
+    fra la noia e le piogge
+                    MIm7  LA
+    ma una speranza c'è
+                       SOL6/RE RE
+    che ci siano nuove spia---gge
+
+    RE  SOL6/RE  RE  SOL6/RE  RE

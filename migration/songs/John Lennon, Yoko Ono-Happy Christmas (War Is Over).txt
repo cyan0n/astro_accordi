@@ -1,0 +1,88 @@
+{{ CATEGORY = 5 }}
+{{ KEY = DO }}
+           DO    DO2   DO4   DO
+So this is Christmas
+                  REm   RE2   RE4   REm
+And what have you done
+             SOL4    SOL    SOL2    SOL
+Another year over
+                     DO    DO2   DO4   DO
+And a new one just begun
+               FA   FA2   FA4   FA
+And so this is Christmas
+                SOLm   SOLmadd9   SOL4   SOLm
+I hope you have fun
+                 DO    DO2   DO4   DO
+The near and the dear ones
+                FA   FA2   FA4   FA
+The old and the young
+{{ KEY = FA }}
+             SIb
+A very Merry Christmas
+                DO
+And a happy New Year
+                  SOLm7
+Let's hope it's a good one
+DO            FA   SOL7
+  Without any fear
+{{ KEY = DO }}
+               DO    DO2   DO4   DO
+And so this is Christmas
+                 REm   RE2   RE4   REm
+For weak and for strong
+                 SOL4    SOL    SOL2    SOL
+The rich and the poor ones
+                DO    DO2   DO4   DO
+The world is so wrong
+             FA   FA2   FA4   FA
+And so Happy Christmas
+                  SOLm   SOLmadd9   SOL4   SOLm
+For black and for white
+               DO    DO2   DO4   DO
+For yellow and red ones
+                   FA   FA2   FA4   FA
+Let's stop all the fight
+{{ KEY = FA }}
+             SIb
+A very Merry Christmas
+                DO
+And a happy New Year
+                  SOLm7
+Let's hope it's a good one
+DO            FA   SOL7
+  Without any fear
+{{ KEY = DO }}
+           DO    DO2   DO4   DO
+So this is Christmas
+                  REm   RE2   RE4   REm
+And what have you done
+             SOL4    SOL    SOL2    SOL
+Another year over
+                     DO    DO2   DO4   DO
+And a new one just begun
+               FA   FA2   FA4   FA
+And so this is Christmas
+                SOLm   SOLmadd9   SOL4   SOLm
+I hope you have fun
+                 DO    DO2   DO4   DO
+The near and the dear ones
+                FA   FA2   FA4   FA
+The old and the young
+{{ KEY = FA }}
+             SIb
+A very Merry Christmas
+                DO
+And a happy New Year
+                  SOLm7
+Let's hope it's a good one
+DO            FA   SOL7
+  Without any fear
+{{ KEY = DO }}
+DO    DO2   DO4    DO
+War - is -  o   -  ver
+REm   RE2   RE4      REm
+If  - you - want  -  it
+SOL4    SOL    SOL2    SOL
+War - is -  o   -  ver
+DO    DO2   DO4    DO
+Now

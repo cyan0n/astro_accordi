@@ -1,0 +1,143 @@
+{{ CATEGORY = 1.3 }}
+{{ KEY = SOL }}
+    SOL                            MIm                
+    Quello che potremmo fare io e te
+    DO
+    senza dar retta a nessuno
+    RE
+    senza pensare a qualcuno
+     SOL                           MIm
+    quello che potremmo fare io e te
+           DO            RE    SOL
+    non lo puoi neanche credere
+
+     
+     SOL                           MIm
+    Quello che potremmo fare io e te
+    DO
+    senza pensare a niente
+    RE
+    senza pensare sempre
+     SOL                           MIm
+    quello che potremmo fare io e te
+           DO           RE      SOL   RE
+    non si può neanche immaginare
+
+     
+    SOL
+    Sai che ho pensato sempre
+    MIm
+    quasi continuamente
+    DO                   RE
+    che non sei mai stata mia
+    SOL
+    me lo ricordo sempre
+    MIm
+    che non è successo niente
+    DO    RE           SOL   RE
+    dovevi sempre andar via
+
+     
+         SOL
+    Io e te
+         MIm
+    io e te
+    DO                         RE
+    dentro un bar a bere e a ridere
+         SOL
+    io e te
+         MIm
+    io e te
+       DO
+    a crescere bambini
+     RE
+    avere dei vicini
+         SOL
+    io e te
+         MIm
+    io e te
+      DO
+    seduti sul divano
+       RE
+    parlar del piu e del meno
+         SOL
+    io e te
+         MIm
+    io e te
+    DO        RE   SOL  RE
+    come nelle favole
+
+    SOL   MIm  DO  RE   SOL   RE 
+    SOL                            MIm
+    Quello che potremmo fare io e te
+    DO
+    non l'ho mai detto a nessuno
+    RE
+    però né sono sicuro
+    SOL                            MIm
+    quello che potremmo fare io e te
+    DO                  RE      SOL  RE
+    non si puó neanche immaginare
+     
+         SOL
+    Io e te
+         MIm
+    io e te
+    DO                      RE
+    dentro un bar a bere e a ridere
+         SOL
+    io e te
+         MIm
+    io e te
+       DO
+    a crescere bambini
+     RE
+    avere dei vicini
+         SOL
+    io e te
+         MIm
+    io e te
+        DO
+    sdraiati sul divano
+       RE
+    parlar del piu e del meno
+         SOL
+    io e te
+         MIm
+    io e te
+    DO        RE   SOL  RE
+    come nelle favole
+    Assolo :
+
+     SOL   MIm  DO  RE  SOL  RE
+
+         SOL
+    Io e te  io e te
+         MIm
+    io e te  io e te
+      DO  
+    a crescere bambini
+     RE
+    avere dei vicini
+         SOL   RE
+    io e te
+         SOL      
+    io e te  io e te
+         MIm
+    io e te  io e te
+        DO
+    sdraiati sul divano
+       RE                     SOL   RE
+    parlar del piu e del meno
+         SOL      
+    io e te  io e te
+         MIm
+    io e te  io e te
+       DO
+    a crescere bambini
+     RE
+    avere dei vicini
+         SOL
+    io e te
+    RE         SOL
+    come favole

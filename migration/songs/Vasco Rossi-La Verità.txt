@@ -1,0 +1,90 @@
+{{ CATEGORY = 1.3 }}
+{{ KEY = FA }}
+Intro:
+       REm  DO  SIb  SOLadd9
+
+     REm
+Si imbosca tra le nuvole
+  DO
+Rimescola le regole
+   SIb                        SOLadd9
+Nessuno sa se viene o se ne va
+    REm
+Non mette in mostra i muscoli
+    DO
+Non crede negli oroscopi
+    SIb   
+Non guarda i film già visti, lei
+    SOLadd9
+Non ama la pubblicità
+  SIb
+E tutti lì a discutere
+  DO
+E tutti a dire: "Chi va là"
+   SIb
+Si chiede la parola d'ordine
+    DO
+Dov'è, come si veste
+
+Quanto costa, che cos'è, che faccia ha
+
+SOLm                            DO
+La verità arriva quando vuole, la verità
+       FA          FA/MI        REm
+La verità non ha bisogno mai di scuse
+SOLm                            DO                       
+La verità, la verità è fatale, la verità
+       FA                          SIb
+La verità è che tutti possono sbagliare
+REm                        SIb
+ Devi sapere da che parte stare
+LAm               REm  SIb  REm  SIb
+ La verità fa male
+
+   REm
+Si cercano i colpevoli
+     DO
+Si ascoltano psicologi
+  SIb                            SOLadd9
+Ognuno sa chi è stato o chi sarà
+   REm
+Si vietano gli alcolici
+    DO
+Proibizionismi isterici
+   SIb                       SOLadd9
+Vietato stare qui e stare là
+  SIb
+E tutti pronti a crederci
+   DO
+Al primo che lo sa
+    SIb
+Per continuare a chiedersi
+    DO
+Dov'è, come si veste
+
+Quanto costa, che cos'è, che faccia ha
+
+SOLm                          DO
+La verità arriva silenziosa, la verità
+       FA           FA/MI           REm
+La verità disturba sempre un po' qualcosa
+SOLm                         DO
+La verità è la televisione, la verità
+       FA                              SIb
+La verità è che ce n'è sempre una migliore
+REm                       SIb
+ La verità può essere un errore
+SOLm                           DO
+La verità arriva sempre sola, la verità
+       FA          FA/MI          REm
+La verità non ha bisogno mai di scuse
+SOLm                          DO
+La verità non è una signora, la verità
+       FA                      SIb
+La verità non è mai vestita di rosa
+REm                         SIb
+ La verità non è neanche una cosa
+LAm              REm  SIb×SIb
+CAMBIA
+  REm  SIb
+ La verità si sposa

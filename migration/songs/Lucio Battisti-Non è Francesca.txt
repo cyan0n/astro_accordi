@@ -1,0 +1,49 @@
+{{ CATEGORY = 1.1 }}
+{{ KEY = DO }}
+             LAm           SOL       DO
+Ti stai sbagliando chi hai visto non è,
+MI7       LAm    MIm  LAm
+non è Francesca
+                          SOL   DO
+Lei è sempre a casa che aspetta me
+MI7       LAm   MIm LAm   SOL
+non è Francesca
+FA          SOL  LAm  SOL         FA     MI7
+Se c'era un uomo poi, no, non può essere lei
+
+          LAm          REm      LAm  MI7
+Francesca non ha mai chiesto di più,
+             LAm       REm       LAm  MI7
+chi sta sbagliando son certo sei tu
+          LAm          REm      LAm
+Francesca non ha mai chiesto di più
+    SOL  MI7
+perché 
+             LAm  SOL  MI
+lei vive per me
+
+           LAm      SOL      DO
+Come quest'altra è bionda, però
+MI7       LAm    MIm  LAm
+non è Francesca
+               SOL       DO
+Era vestita di rosso, lo so,
+MI7       LAm    MIm LAm    SOL
+non è Francesca
+FA            SOL  LAm  SOL         FA     MI7
+Se era abbracciata poi, no, non può essere lei
+
+          LAm          REm      LAm  MI7
+Francesca non ha mai chiesto di più,
+             LAm       REm       LAm  MI7
+chi sta sbagliando son certo sei tu
+          LAm          REm      LAm
+Francesca non ha mai chiesto di più
+    SOL  MI7
+perché 
+             LAm  SOL  MI
+lei vive per me
+             LAm  SOL  MI
+lei vive per me 
+            LAm7/9
+lei vive per me

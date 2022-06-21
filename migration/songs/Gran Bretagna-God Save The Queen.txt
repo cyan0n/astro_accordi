@@ -1,0 +1,53 @@
+{{ CATEGORY = 4 }}
+{{ KEY = DO }}
+Intro:
+       DO DO/MI FA6 SOL7  
+
+       DO LAm FA SOL7/6  MI7 LAm
+
+       FA6 DO/SOL SOL7 DO
+
+DO DO/MI FA6 SOL7
+God save   our  gracious Queen,
+DO  LAm REm DO/SOL MI7 LAm
+Long live our no-----ble Queen,
+FA6 DO/SOL SOL7 DO
+God  save   the Queen!
+     
+Send her victorious,
+SOL7
+Happy and glorious,
+DO     RE9   DO/SOL
+Long to reign over us
+FA DO/SOL SOL7 DO
+God save   the Queen!
+
+DO LAm REm SOL   RE9 SOL7
+O   Lord our God, a---rise,
+DO LAm REm DO/SOL MI7 LAm
+Scatter her  e------ne--mies
+FA6 DO/SOL SOL7  DO
+And  make   them fall
+                  
+Confound their politics,
+SOL7             
+Frustrate their knavish tricks,
+DO FA6    DO/SOL SOL/FA DO/MI   
+On Thee our hopes  we     fix,
+FA6 DO  SOL7 DO
+Oh,  save us  all!
+
+DO LAm REm  SOL7
+Thy choichest gifts in store
+DO LAm FA DO/SOL  MI7 LAm
+On  her  be  pleased to  pour
+FA6 DO/SOL SOL7 DO
+Long may    she reign
+               SOL7 DO
+May she defend our laws,
+SOL7
+And ever give us cause
+DO       RE9 DO/SOL SOL7 DO7
+To sing with  heart and  voice,
+FA DO/SOL SOL7 DO
+God save   the Queen!

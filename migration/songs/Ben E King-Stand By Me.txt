@@ -1,0 +1,51 @@
+{{ CATEGORY = 1.1 }}
+{{ KEY = LA }}
+Intro:
+     LA  FA#m  RE  MI   LA
+
+         LA
+When the night has come
+FA#m
+  And the land is dark
+        RE          MI               LA
+And the moon is the only light we'll see
+     LA                    FA#m
+No I won't be afraid, oh I won't be afraid
+        RE          MI              LA
+Just as long as you stand, stand by me
+
+   LA                                FA#m
+So darlin', darlin', stand by me, oh stand by me 
+   RE    MI           LA
+oh stand,  stand by me, stand by me
+
+       LA
+If the sky that we look upon
+FA#m
+  Should tumble and fall
+        RE               MI             LA
+And the mountains should crumble to the sea
+        LA                     FA#m
+I won't cry, I won't cry, no I won't shed a tear
+        RE          MI              LA
+Just as long as you stand, stand by me
+
+   LA                                FA#m
+So darlin', darlin', stand by me, oh stand by me 
+   RE       MI            LA
+oh stand now, stand by me, stand by me
+
+Strumentale:
+     LA  FA#m  RE  MI   LA
+
+     LA  FA#m  RE  MI   LA
+
+   LA                                FA#m
+So darlin', darlin', stand by me, oh stand by me 
+   RE       MI            LA
+oh stand now, stand by me, stand by me
+
+   LA                               
+Whenever you're in trouble just stand by me
+   FA#m             RE           MI              LA
+oh stand by me, woa stand now oh stand, stand by me

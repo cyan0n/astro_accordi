@@ -1,0 +1,51 @@
+{{ CATEGORY = 1.1 }}
+{{ KEY = LA }}
+Intro:
+     LA 
+
+LA        SOL#m7     DO#7                FA#m       FA#m/MI
+Yesterday,  All my troubles seemed so far away,
+RE      MI                      LA
+  Now it looks as though they're here to stay,
+    FA#m  SI7    RE   LA   
+Oh, I believe in yesterday.
+LA       SOL#m7      DO#7            FA#m        FA#m/MI            
+Suddenly,  I'm not half the man I used to be
+RE         MI             LA
+  There's a shadow hanging over me,
+    FA#m   SI7     RE   LA              
+Oh, yesterday came suddenly.
+
+DO#    DO#7   FA#m MI RE                                 
+Why   she   had to go,
+FA#m     SIm6     MI7      LA
+I don't know, she wouldn't say.
+DO#  DO#7  FA#m MI    RE                           
+I   said something wrong,
+FA#m   SIm6    MI7   LA                    
+Now I long for yesterday.
+
+LA        SOL#m7       DO#7          FA#m           FA#m/MI
+Yesterday,  Love was such an easy game to play,
+RE     MI              LA
+  Now I need a place to hide away,
+    FA#m  SI7    RE   LA
+Oh, I believe in yesterday.
+
+DO#    DO#7   FA#m MI RE                                 
+Why   she   had to go,
+FA#m     SIm6     MI7      LA
+I don't know, she wouldn't say.
+DO#  DO#7  FA#m MI    RE                           
+I   said something wrong,
+FA#m   SIm6    MI7   LA                    
+Now I long for yesterday.
+
+LA        SOL#m7       DO#7          FA#m           FA#m/MI
+Yesterday,  Love was such an easy game to play,
+RE     MI              LA
+  Now I need a place to hide away,
+    FA#m  SI7    RE   LA
+Oh, I believe in yesterday.
+         FA#m     SI7 RE     LA 
+Humm Hum-mm Humm Humm Humm-mm Humm

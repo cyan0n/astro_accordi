@@ -1,0 +1,71 @@
+{{ CATEGORY = 3.1 }}
+{{ KEY = SOL }}
+Intro:
+       SOL  DO/SOL  SOL  DO/SOL  SOL  DO/SOL  
+
+       SOL  RE/FA# DO/MI  SOL/RE
+
+RE             SI7          MIm                    LA7
+You can dance, you can jive, having the time of your life
+DO             LAm7                          SOL            DO/SOL 
+See that girl, watch that scene, digging the dancing queen
+
+SOL   DO/SOL SOL   DO/SOL
+
+SOL                               DO/SOL
+Friday night and the lights are low
+SOL                             MIm
+Looking out for the place to go
+RE                        SOL/RE  RE             SOL/RE
+Where they play the right music, getting in the swing
+                    MIm         RE MIm
+You come in to look for a king
+
+SOL                    DO/SOL
+Anybody could be that guy
+SOL                             MIm
+Night is young and the music’s high
+RE                 SOL/RE  RE            SOL/RE
+With a bit of rock music, everything is fine
+                   MIm          RE MIm
+You’re in the mood for a dance
+             LAm            RE7
+And when you get the chance...
+
+            SOL             DO/SOL                 SOL        DO/SOL
+You are the dancing queen, young and sweet, only seventeen
+SOL             DO/SOL                  SOL       RE/FA# DO/MI SOL/RE
+Dancing queen, feel the beat from the tambourine
+RE             SI7          MIm                    LA7
+You can dance, you can jive, having the time of your life
+DO             LAm                           SOL           DO/SOL  
+See that girl, watch that scene, digging the dancing queen
+
+SOL  DO/SOL
+
+SOL    DO/SOL SOL    DO/SOL
+
+SOL                              DO/SOL
+You’re a teaser, you turn them on
+SOL                                 MIm
+Leave them burning and then you’re gone
+RE              SOL/RE    RE          SOL/RE
+Looking out for another, anyone will do
+                   MIm         RE MIm
+You’re in the mood for a dance
+LAm          RE7
+And when you get the chance...
+
+            SOL             DO/SOL                 SOL       DO/SOL
+You are the dancing queen, young and sweet, only seventeen
+SOL             DO/SOL                  SOL        RE/FA# DO/MI SOL/RE
+Dancing queen, feel the beat from the tambourine
+RE             SI7          MIm                    LA7
+You can dance, you can jive, having the time of your life
+DO             LAm                           SOL            DO/SOL  
+See that girl, watch that scene, digging the dancing queen
+
+SOL  DO/SOL
+
+            SOL         DO/SOL  SOL  DO/SOL
+Digging the dancing queen...

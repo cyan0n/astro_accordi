@@ -1,0 +1,103 @@
+{{ CATEGORY = 3.1 }}
+{{ KEY = RE }}
+Intro:
+     RE  RE5+  RE  RE5+
+
+RE          LA/RE      RE                      SOL
+  I've been cheated by you, since I don't know when
+RE   LA/RE      RE                       SOL
+So I made up my mind, it must come to an end
+RE              RE5+
+Look at me now,   will I ever learn?
+RE                RE5+             SOL
+I don't know how,   but I suddenly lose control
+                   LA
+There's a fire within my soul
+SOL  RE/FA#  LA
+Just one     look and I can hear a bell ring
+SOL  RE/FA#  LA
+One more     look and I forget everything.. woo oh
+
+RE
+  Mamma mia, here I go again
+SOL4      SOL
+  My  my, how can I resist you?
+RE
+Mamma mia, does it show again?
+SOL4     SOL
+  My my, just how much I've missed you
+
+RE               LA/DO#
+  Yes, I've been brokenhearted
+SIm              FA#m/LA
+  Blue since the day we parted
+SOL4       MIm        LA
+  Why, why did I ever let you go?
+RE           SIm
+  Mamma mia,   now I really know,
+SOL4     MIm           LA
+  My my, I could never let you go.
+
+Strumentale:
+     RE  RE5+  RE  RE5+
+
+RE        LA/RE     RE                            SOL
+I've been angry and sad about the things that you do
+RE      LA/RE         RE                             SOL
+I can't count all the times that I've told you we're through
+RE               RE5+
+And when you go,   when you slam the door
+RE                RE5+                 SOL
+I think you know,   that you won't be away too long
+                  LA
+You know that I'm not that strong.
+SOL  RE/FA#  LA
+Just one     look and I can hear a bell ring
+SOL  RE/FA#  LA
+One more     look and I forget everything.. woo oh
+
+RE
+  Mamma mia, here I go again
+SOL4      SOL
+  My  my, how can I resist you?
+RE
+Mamma mia, does it show again?
+SOL4     SOL
+  My my, just how much I've missed you
+
+RE               LA/DO#
+  Yes, I've been brokenhearted
+SIm              FA#m/LA
+  Blue since the day we parted
+SOL4       MIm        LA
+  Why, why did I ever let you go?
+
+RE
+  Mamma mia, even if I say
+SOL4     SOL
+Bye bye, leave me now or never
+RE
+  Mamma mia, it's a game we play
+SOL4    SOL
+Bye bye doesn't mean forever
+RE
+  Mamma mia, here I go again
+SOL4      SOL
+  My  my, how can I resist you?
+RE
+Mamma mia, does it show again?
+SOL4     SOL
+  My my, just how much I've missed you
+RE               LA/DO#
+  Yes, I've been brokenhearted
+SIm              FA#m/LA
+  Blue since the day we parted
+SOL4       MIm        LA
+  Why, why did I ever let you go?
+RE           SIm
+  Mamma mia,   now I really know,
+SOL4     MIm           LA
+  My my, I could never let you go.
+
+Strumentale:
+     RE  RE5+  RE  RE5+

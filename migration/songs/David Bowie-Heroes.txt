@@ -1,0 +1,52 @@
+{{ CATEGORY = 1.2 }}
+{{ KEY = DO }}
+Intro:
+     DO  FA  DO  FA
+
+DO                   FA
+I.. I wish you could swim
+         DO                           FA
+Like the dolphins.. like dolphins can swim
+       SIb                               DO
+Though nothing.. nothing will keep us together
+       SOLm       REm           DO
+We can beat them.. forever and ever
+             SIb    FA           DO
+Oh we can be Heroes just for one day
+
+Strumentale:
+     DO  FA  DO  FA
+
+DO            FA
+I.. I will be King
+    DO                FA
+And you.. you will be Queen
+    SIb                       DO
+For nothing will drive them away
+          SOLm    REm            DO
+We can be Heroes.. just for one day
+            SIb   FA            DO
+We can be honest.. just for one day
+
+DO          FA
+I.. I can remember (I remember)
+DO              FA
+Standing by the wall (By the wall)
+        DO           FA
+And the guards shot above our heads (Over our heads)
+       DO                             FA
+And we kissed as though nothing would fall (Nothing could fall)
+
+        SIb               DO
+And the shame was on the other side
+          SOLm       REm           DO
+Oh we can beat them.. forever and ever
+                 SIb   FA            DO
+Then we can be Heroes.. just for one day
+
+DO          FA
+  We can be Heroes
+DO          FA
+  We can be Heroes
+DO          FA                 DO
+  We can be Heroes just for one day

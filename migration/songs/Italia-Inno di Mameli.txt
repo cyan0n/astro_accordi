@@ -1,0 +1,58 @@
+{{ CATEGORY = 4 }}
+{{ KEY = DO }}
+Intro:
+        DO    SOL7 DO
+
+        MI7    LAm
+
+        SOL7  DO FA DO/SOL SOL7 DO
+
+   DO
+Fratelli d'Italia,
+   SOL7/6 SOL7 DO
+l'Italia s'è desta,
+
+dell'elmo di Scipio
+    SOL7/6 SOL7 DO
+s'è cinta la  testa
+    MI7     LAm
+Dov'è la vittoria?
+   MI7      DO/SOL SOL7
+Le porga la chio---ma,
+    DO
+che schiava di Roma
+  SOL7/6  SOL7  DO    DO7 FA
+Iddio la cre--ò
+{{ KEY = FA }}
+   FA
+Fratelli d'Italia,
+       
+l'Italia s'è desta,
+           
+dell'elmo di Scipio
+             DO7
+s'è cinta la testa
+
+Dov'è la vittoria?
+
+Le porga la chioma,
+                
+che schiava di Roma
+            FA
+Iddio la creò
+     REm
+Stringiamoci a coorte,
+                 LA7
+siam pronti alla morte
+     REm
+Siam pronti alla morte,
+             LA7
+l'Italia chiamò
+     FA
+Stringiamoci a coorte,
+                 SIb
+siam pronti alla morte
+                 FA/DO
+Siam pronti alla morte,
+   DO7      FA
+l'Italia chiamò, sì!

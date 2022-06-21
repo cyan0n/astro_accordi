@@ -1,0 +1,116 @@
+{{ CATEGORY = 1.3 }}
+{{ KEY = SOL }}
+Intro:
+       SOL  DO  SOL  DO  SOL  DO  SOL  DO
+
+    SOL       DO     SOL        DO          SOL  DO  SOL  DO  
+    Funky il gallo, come sono bello stamattina
+            SOL           DO
+    non c'è più la mia morosa
+      SOL          DO          SOL  DO  SOL  
+    e sono più leggero di una piuma
+           DO        FA
+    oh e intanto Zio Rufus sta
+        DO               FA
+    coi suoi pensieri in testa
+       RE               SOL     RE     
+    portando in giro la vita a fare la pipì
+     
+               SOL       DO     SOL         DO
+    X colpa di chi chi chi chi chichichirichi
+             SOL             DO
+    stanotte voglio stare acceso
+           SOL         FA  DO
+    e dire sempre di si
+               SOL       DO     SOL          DO
+    X colpa di chi chi chi chi chichichirichi
+          SOL                  DO
+    I'm a hootchiee cootchiee man,
+              RE#        FA  DO    
+    hootchiee cootchiee man yeah
+
+    SOL  DO  SOL  DO  SOL  DO  SOL  DO
+
+    SOL    DO     SOL           DO           SOL   DO  SOL  DO     
+    Funky gallo, come sono in ballo questa sera
+       SOL         DO      SOL         DO          SOL  DO  SOL  
+    ho voglia di sudare e sono più goloso di una mela
+    DO            FA       DO          FA
+    oh avanti o popolo con la chitarra rossa
+           RE             SOL      RE    
+    che in tanto il tempo passa e lei non torna più
+     
+               SOL       DO     SOL         DO
+    X colpa di chi chi chi chi chichichirichi
+             SOL             DO
+    stanotte voglio stare acceso
+           SOL         FA  DO
+    e dire sempre di si
+               SOL       DO     SOL          DO
+    X colpa di chi chi chi chi chichichirichi
+          SOL                  DO
+    I'm a hootchiee cootchiee man,
+              RE#        FA  DO    
+    hootchiee cootchiee man yeah
+
+  SOL       
+    tieni il tempo
+  FA/SOL
+    non ho tempo
+    FA                DO
+    I WANNA DANCE ALL NIGHT
+  SOL
+    il sentimento
+  FA/SOL
+    è troppo denso
+    FA                DO     SOL
+    I WANNA DANCE ALL NIGHT
+     
+ FA SOL    DO     SOL           DO           SOL   DO  SOL  DO
+    Funky gallo, coi pensieri sconci nelle dita
+    SOL            DO     SOL          DO          SOL  DO  SOL  
+    forse sono in fallo, ma mi piace molto Madre Rita
+    DO          FA         DO           FA
+    oh avanti o popolo con la lambretta rossa
+          RE             SOL      RE
+    che intanto il tempo passa e lei non torna più
+     
+               SOL       DO     SOL         DO
+    X colpa di chi chi chi chi chichichirichi
+             SOL             DO
+    stanotte voglio stare acceso
+           SOL         FA  DO
+    e dire sempre di si
+               SOL       DO     SOL          DO
+    X colpa di chi chi chi chi chichichirichi
+          SOL                  DO
+    I'm a hootchiee cootchiee man,
+              RE#        FA  DO    
+    hootchiee cootchiee man yeah
+
+  SOL       
+    tieni il tempo
+  FA/SOL
+    non ho tempo
+    FA                DO
+    I WANNA DANCE ALL NIGHT
+  SOL
+    il sentimento
+  FA/SOL
+    è troppo denso
+    FA                DO     
+    I WANNA DANCE ALL NIGHT
+  SOL
+    tieni il tempo
+  FA/SOL
+    (che) non ho tempo
+    FA                DO
+    I WANNA DANCE ALL NIGHT
+  SOL
+    sono in fiamme
+  FA/SOL
+    le mie donne
+    FA                DO    SOL
+    I WANNA DANCE ALL NIGHT
+    FA  SOL
+    fun time!

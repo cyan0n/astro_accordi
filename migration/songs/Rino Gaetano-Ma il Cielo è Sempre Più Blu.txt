@@ -1,0 +1,219 @@
+{{ CATEGORY = 1.2 }}
+{{ KEY = RE }}
+Intro:
+       RE  SIm  RE  SIm
+ 
+       RE  SIm  RE  SIm
+
+RE              SIm      RE              SIm
+  Chi vive in baracca,     chi suda il salario
+RE           SIm       RE            SIm
+  chi ama l'amore e       i sogni di gloria
+RE            LA                     SOL
+  chi ruba pensioni, chi ha scarsa memoria
+RE               SIm    RE               SIm
+  Chi mangia una volta,   chi tira al bersaglio
+RE              SIm    RE               SIm
+  chi vuole l'aumento,   chi gioca a Sanremo
+RE                  LA                       SOL
+  chi porta gli occhiali,   chi va sotto un treno
+RE           SIm RE              SIm
+  Chi ama la zia  chi va a Porta Pia
+RE              SIm                  RE
+  chi trova scontato, chi come ha trovato
+              SIm
+  na na na na na na na na na
+
+     SOL              LA          RE     SIm    SOL
+       Ma il cielo e` sempre piu` blu uh uh, uh uh,
+                      LA          RE     SIm    SOL    LA
+       ma il cielo e` sempre piu` blu uh uh, uh uh, uh uh...
+
+RE              SIm      RE              SIm
+  Chi sogna i milioni,     chi gioca d'azzardo
+RE              LA                    SOL
+  chi gioca coi fili chi ha fatto l'indiano
+RE               SIm     RE               SIm
+  chi fa il contadino,    chi spazza i cortili
+RE              SIm                     RE
+  chi ruba, chi lotta, chi ha fatto la spia
+              SIm
+  na na na na na na na na na
+
+     SOL              LA          RE     SIm    SOL
+       Ma il cielo e` sempre piu` blu uh uh, uh uh,
+                      LA          RE     SIm    SOL    LA
+       ma il cielo e` sempre piu` blu uh uh, uh uh, uh uh...
+
+Strumentale:
+              RE  SIm  RE  SIm
+ 
+              RE  SIm  RE  SIm             
+
+
+RE                    SIm                   RE
+  Chi e` assunto alla Zecca, chi ha fatto cilecca
+                    SIm                  RE
+  chi ha crisi interiori, chi scava nei cuori
+               SIm                RE
+  chi legge la mano, chi regna sovrano
+                SIm                   RE
+  chi suda, chi lotta, chi mangia una volta
+                   SIm               RE
+  chi gli manca la casa, chi vive da solo
+                   Sim                  RE
+  chi prende assai poco, chi gioca col fuoco
+                SIm                 RE
+  chi vive in Calabria, chi vive d'amore
+                  SIm                     RE
+  chi ha fatto la guerra, chi prende i sessanta
+                    SIm                   RE
+  chi arriva agli ottanta, chi muore al lavoro
+              SIm
+  na na na na na na na na na
+
+
+     SOL              LA          RE     SIm    SOL
+       Ma il cielo e` sempre piu` blu uh uh, uh uh,
+                      LA          RE     SIm    SOL    LA
+       ma il cielo e` sempre piu` blu uh uh, uh uh, uh uh...
+
+
+RE             SIm                   SOL
+  Chi e` assicurato, chi e` stato multato
+                      LA                   RE
+  chi possiede ed e` avuto, chi va in farmacia
+                    SIm            SOL
+  chi e` morto di invidia o di gelosia
+                    LA                RE
+  chi ha torto o ragione, chi e` Napoleone
+                SIm                   SOL
+  chi grida "al ladro!", chi ha l'antifurto
+                       LA                    RE
+  chi ha fatto un bel quadro, chi scrive sui muri
+                   SIm                         SOL
+  chi reagisce d'istinto, chi ha perso, chi ha vinto
+                 LA                   RE
+  chi mangia una volta, chi vuole l'aumento
+                SIm               SOL
+  chi cambia la barca felice e contento
+                 LA                 RE
+  chi come ha trovato, chi tutto sommato
+                 SIm                 SOL
+  chi sogna i milioni, chi gioca d'azzardo
+                LA                        RE
+  chi parte per Beirut e ha in tasca un miliardo
+                  SIm                 SOL
+  chi e` stato multato, chi odia i terroni
+               LA                  RE
+  chi canta Prevert, chi copia Baglioni
+                 SIm                   SOL
+  chi fa il contadino, chi ha fatto la spia
+                   LA             RE
+  chi e` morto d'invidia o di gelosia
+               SIm                SOL
+  chi legge la mano, chi vende amuleti
+                LA               RE
+  chi scrive poesie, chi tira le reti
+               SIm                    SOL
+  chi mangia patate, chi beve un bicchiere
+                LA                  RE
+  chi solo ogni tanto, chi tutte le sere
+
+              SIm         SOL             LA          RE   
+  na na na na na na na na, ma il cielo e` sempre piu` blu
+     SIm    SOL                 LA          RE   SIm  SOL  LA
+  uh uh, uh uh, ma il cielo e` sempre piu` blu
+
+ RE            SIm    RE            SIm
+  Chi vive col padre,   chi fa la rapina,
+ RE            SIm    RE                SIm
+  chi sposa la Gina,   chi ha rotto con tutti,
+ RE             SIm   RE                SIm
+  chi vince a Merano,   chi cerca il petrolio,
+RE               SIm   RE                SIm
+  chi dipinge ad olio,   chi chiede un lavoro...
+
+Strumentale:
+              RE  SIm  RE  SIm
+ 
+              RE  SIm  RE  SIm 
+
+RE             SIm                     RE
+  Chi mangia patate, chi beve un bicchiere
+                 SIm                 RE
+  chi fuma un toscano, chi vive cent'anni
+                       SIm                    RE
+  chi ha seguito una strada, chi ha fatto carriera
+               SIm                        RE
+  chi perde la calma, chi non sembra piu` lui
+                   SIm                   RE
+  chi lamenta un dolore, chi chiede un lavoro
+                SIm                    RE
+  chi torna sui passi, chi ha visto un assist
+                    SIm                    RE
+  chi ha preso un diretto, chi canta in falsetto
+                SIm
+  na na na na na na na, na na na na na na na
+
+     SOL              LA          RE     SIm    SOL
+       Ma il cielo e` sempre piu` blu uh uh, uh uh,
+                      LA          RE     SIm    SOL    LA
+       ma il cielo e` sempre piu` blu uh uh, uh uh, uh uh...
+
+ RE             SIm                  SOL
+  Chi vive in baracca, chi suda il salario
+             LA                   RE
+  chi ama l'amore, chi tira al bersaglio
+                SIm                    SOL
+  chi sogna la gloria, chi ha scarsa memoria,
+                 LA                     RE     SIm
+  chi gioca a Sanremo, chi va sotto un treno...
+
+     SOL              LA          RE     SIm    SOL
+       Ma il cielo e` sempre piu` blu uh uh, uh uh,
+                      LA          RE     
+       ma il cielo e` sempre piu` blu 
+
+             SIm                  SOL              
+  chi ama la zia, chi va a Porta Pia
+                 LA                RE
+  chi come ha provato, chi tutto sommato
+                 SIm                 SOL
+  chi sogna i milioni, chi gioca d'azzardo
+                LA                         RE    SIm SOL
+  chi parte per Beirut e ha in tasca un miliardo
+
+               LA          RE     SIm    SOL LA
+ma il cielo e` sempre piu` blu uh uh, uh uh,
+
+RE                SIm                 SOL
+  chi e` stato multato, chi odia i terroni
+               LA                 RE
+  chi canta Prevert, chi odia Baglioni
+                 SIm                    SOL
+  chi fa il contadino, chi ha fatto la spia
+                  LA               RE  SIm SOL
+  chi e` morto d'invidia o di gelosia
+
+               LA           RE    SIm    SOL  LA
+ma il cielo e` sempre piu` blu uh uh, uh uh,
+
+RE             SIm                SOL
+  chi legge la mano, chi vende amuleti
+                LA               RE
+  chi scrive poesia, chi tira le reti
+               SIm                   SOL
+  chi mangia patate, chi beve un bicchiere
+                LA                  RE
+  chi solo ogni tanto, chi tutte le sere
+               SIm                   SOL
+  chi mangia patate, chi beve un bicchiere
+                LA                  RE
+  chi solo ogni tanto, chi tutte le sere
+                 SIm                  SOL
+  chi mangia una volta, chi vuole l'aumento
+                LA                RE
+  chi cambia la barca felice e contento
+             SIm                 SOL    LA  RE
+  chi ama la zia, chi va a Porta Pia...

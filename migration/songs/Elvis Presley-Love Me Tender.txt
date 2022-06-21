@@ -1,0 +1,58 @@
+{{ CATEGORY = 1.1 }}
+{{ KEY = RE }}
+Intro:
+     RE
+
+RE              MI7
+Love me tender.. love me sweet
+LA7          RE
+Never let me go
+RE               MI7
+You have made my life complete
+LA7            RE
+And I love you so
+
+RE      FA#7/DO#  SIm       RE7/LA
+Love me tender..... love me true
+SOL    SOLm6     RE
+All my dreams fulfilled
+RE     SI7       MI7
+For my darling.. I love you
+LA7          RE
+And I always will
+
+RE              MI7
+Love me tender.. love me long
+LA7             RE
+Take me to your heart
+RE                  MI7
+For it's there that I belong
+LA7            RE
+And will never part
+
+RE      FA#7/DO#  SIm       RE7/LA
+Love me tender..... love me true
+SOL    SOLm6     RE
+All my dreams fulfilled
+RE     SI7       MI7
+For my darling.. I love you
+LA7          RE
+And I always will
+
+RE              MI7
+Love me tender.. love me dear
+LA7             RE
+Tell me you are mine
+RE                    MI7
+I'll be yours through all the years
+LA7             RE
+Till the end of time
+
+RE      FA#7/DO#  SIm       RE7/LA
+Love me tender..... love me true
+SOL    SOLm6     RE
+All my dreams fulfilled
+RE     SI7       MI7
+For my darling.. I love you
+LA7          RE
+And I always will

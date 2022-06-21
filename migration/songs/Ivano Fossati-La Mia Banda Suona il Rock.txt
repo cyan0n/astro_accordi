@@ -1,0 +1,87 @@
+{{ CATEGORY = 1.2 }}
+{{ KEY = RE }}
+Intro:
+     MIm  RE  SIm  MIm  RE  SIm  MIm
+
+MIm                   RE
+La mia banda suona il rock
+           SIm            MIm
+e tutto il resto all'occorrenza
+                       RE    SIm           MIm
+sappiamo bene che da noi fare tutto è un'esigenza
+             RE        SIm           MIm
+è un rock bambino, soltanto un po' latino
+                      RE          SIm             MIm
+è una musica che è speranza, è una musica che è pazienza
+                          RE        SIm       MIm
+è come un treno che è passato con un carico di frutta
+                RE         SIm          MIm
+eravamo alla stazione si ma dormivamo tutti
+                             RE
+e la mia banda suona il rock
+             SIm                   MIm
+per chi l'ha visto e per chi non c'era
+                      RE    SIm              MIm
+e per chi quel giorno lì inseguiva una sua chimera
+
+       SOL RE SIm  MIm
+Non svegliatevi oh non ancora
+         SOL RE   SIm  MIm
+e non fermateci no, no per favore no
+
+                           RE
+La mia banda suona il rock
+         SIm             MIm
+e cambia faccia all'occorrenza
+                    RE          SIm        MIm
+da quando il trasformismo è diventato un'esigenza
+                   RE        SIm          MIm
+ci vedrete in crinoline, come brutte ballerine
+                RE     SIm        MIm
+ci vedrete danzare come giovani zanzare
+                    RE          SIm            MIm
+ci vedrete alla frontiera con la macchina bloccata
+                 RE       SIm         MIm
+ma lui ce l'avrà fatta, la musica è passata
+             RE     SIm             MIm
+è un rock bambino soltanto un po' latino
+                   RE         SIm               MIm
+viaggia senza passaporto e noi dietro col fiato corto
+                   RE         SIm             MIm
+lui ti penetra nei muri, ti fa breccia nella porta
+                    RE              SIm         MIm
+ma in fondo viene a dirti che la tua anima non è morta
+
+       SOL RE SIm  MIm
+Non svegliatevi oh non ancora
+         SOL RE   SIm  MIm
+e non fermateci no, no per favore no
+
+MIm  RE  SIm MIm    RE  SIm  MIm
+{{ KEY = MIb }}
+La mia banda suona il rock
+         MIb      FAm
+ed è un'eterna partenza
+                     MIb             DOm         FAm
+viaggia bene ad onde medie e a modulazione di frequenza
+             MIb     DOm             FAm
+è un rock bambino soltanto un po' latino
+                      MIb          DOm            FAm
+è una musica che è speranza, è una musica che è pazienza
+                         MIb         DOm          FAm
+è come un treno che è passato con un carico di frutti
+                MIb         DOm       FAm
+eravamo alla stazione si ma dormivamo tutti
+                        MIb
+e la mia banda suona il rock
+             DOm                 FAm
+per chi l'ha visto e per chi non c'era
+                      MIb    DOm              FAm
+e per chi quel giorno lì inseguiva una sua chimera
+
+        LAb MIb DOm  FAm
+Non sveglia-te-vi oh non ancora
+         LAb MIb  DOm  FA
+e non fermateci no, no per favore no
+
+LAb    MIb    DOm   FA

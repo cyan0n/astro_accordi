@@ -1,0 +1,60 @@
+{{ CATEGORY = 1.3 }}
+{{ KEY = SOL }}
+Intro:
+        RE  LAm7  MIm   RE  LAm7  MIm
+
+        RE  LAm7  MIm   RE  LAm7  MIm      
+
+RE                 LAm7                                 MIm
+Lights go out and I can't be saved, tides that I tried to swim against
+RE               LAm7                    MIm       
+ Brought me down upon my knees, oh I beg I beg and plead singing
+RE             LAm7                         MIm     
+Come out of the things unsaid, shoot an apple off my head  and a
+RE          LAm7                          MIm   
+trouble that can't be named, tigers waiting to be tamed  singing
+
+RE  LAm7        MIm  
+  ye  hooooooooh  aahh       
+RE  LAm7        MIm       RE  LAm7  MIm     RE  LAm7  MIm/SOL 
+  ye  hooooooooh  aahh
+  
+RE       LAm7                          MIm
+Confusion never stops, closing walls and ticking clocks  gonna
+RE            LAm7                               MIm             
+ come back and take you home, I could not stop the tune now known singing
+RE        LAm7                          MIm
+ Come out upon my seas, curse missed opportunities  am I
+RE     LAm7                       MIm
+ a part of the cure, or am I a part of the disease?  singing
+
+RE  LAm7        MIm  
+  ye  hooooooooh  aahh       
+RE  LAm7        MIm        
+  ye  hooooooooh  aahh
+RE  LAm7        MIm  
+  ye  hooooooooh  aahh       
+RE  LAm7        MIm        
+  ye  hooooooooh  aahh
+{{ KEY = DO }}
+FA7+             DO      SOL
+  and nothing else compares
+FA7+            DO     SOL
+  oh nothing else compares
+FA7+             DO   FA  
+  and nothing else compares
+{{ KEY = SOL }}
+RE  LAm7  MIm     RE  LAm7  MIm
+
+RE  LAm7  MIm/SOL     RE  LAm7  MIm/SOL
+
+RE    LAm7                  MIm/SOL
+Home, home, where I wanted to go
+RE    LAm7                  MIm/SOL
+Home, home, where I wanted to go
+RE    LAm7                  MIm/SOL
+Home, home, where I wanted to go
+RE    LAm7                  MIm/SOL
+Home, home, where I wanted to go
+
+RE  LAm7  MIm    RE  LAm7  MIm  

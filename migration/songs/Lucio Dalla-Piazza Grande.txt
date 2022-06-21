@@ -1,0 +1,78 @@
+{{ CATEGORY = 1.2 }}
+{{ KEY = DO }}
+Intro:
+DO   SOL7
+
+DO                     SOL7
+Santi che pagano il mio pranzo non ce n’è
+                         DO
+sulle panchine in Piazza Grande
+                        SOL7
+ma quando ha fame di mercanti come me
+           DO
+qui non ce n'è
+
+DO                       SOL7
+Dormo sull'erba ho molti amici intorno a me
+                         DO
+gli innamorati in Piazza Grande
+LA                       REm
+ dei loro guai dei loro amori tutto so
+SOL7         DO
+sbagliati o no.
+
+       SOL7                                DO
+A modo mio, avrei bisogno di carezze anch’io
+       SOL7                                DO
+a modo mio, avrei bisogno di sognare anch'io
+
+                    SOL7
+Una famiglia vera e propria non ce l'ho
+                     DO
+è la mia casa Piazza Grande
+                     SOL7
+a chi mi crede amore prendo amore do
+          DO
+quanto ne ho
+{{ KEY = REb }}
+REb                 LAb7
+Con me di donne generose non ce n'è
+                       REb
+rubo l'amore in Piazza grande
+SIb                  MIbm
+ e meno male che briganti come me
+LAb7        REb
+ qui non ce n'è
+MIb7  LAb7
+
+       LAb7                               REb
+A modo mio, avrei bisogno di carezze anch'io
+        SIb               MIbm
+avrei bisogno di pregare Dio
+          LAb7              REb
+ma la mia vita non la cambierò
+SI SIb
+mai mai
+       LAb                            REb
+a modo mio, quel che sono l'ho voluto io
+
+                        LAb
+Lenzuola bianche per coprirmi non ne ho
+                          REb
+sotto le stelle in Piazza Grande
+                    LAb7
+e se la vita non ha sogni io li ho
+        REb
+e te li do
+{{ KEY = RE }}
+RE                   LA7
+E se non ci sarà più gente come me
+                        RE
+voglio morire in Piazza Grande
+SI                        MIm
+tra i gatti che non han padrone come me
+LA7        RE
+ attorno a me
+
+LA7   RE
+LA7   RE

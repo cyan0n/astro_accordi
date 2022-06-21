@@ -1,0 +1,70 @@
+{{ CATEGORY = 1.2 }}
+{{ KEY = FA }}
+Intro:
+       FA  REm7  SIbadd9  DO7/4
+
+   FA                                REm7
+La nebbia che si posa la mattina, le pietre di un sentiero di collina
+   SIbadd9                       
+un falco che si innalzerà, il primo raggio che verrà
+   DO 
+la neve che si scioglierà, correndo al mare
+     FA                               REm7   
+L'impronta di una testa sul cuscino, i passi lenti e incerti di un bambino
+     SIbadd9 
+lo sguardo di serenità, la mano che si tenderà
+    DO
+la gioia di chi aspetterà, per questo e quello che verrà
+
+   FA                        REm7  
+Io canto,  le mani in tasca e canto
+                 SIbadd9                    DO
+la voce in festa canto,  la banda in testa canto,
+SIb/RE    DO/MI  FA                    REm7                 
+corro nel vento e canto,  la vita intera canto
+             SIbadd9                  DO
+la primavera canto, la mia preghiera canto
+                  REadd9       SIbadd9          DO             
+per chi mi ascolterà, voglio cantare, sempre cantare
+
+   FA                            REm7
+L'odore di caffè nella cucina, la casa tutta piena di mattina
+   SIbadd9   
+e l'ascensore che non va, l'amore per la mia città
+   DO
+la gente che sorriderà, lungo la strada
+  FA                                   REm7
+I rami che si intrecciano nel cielo, un vecchio che cammina tutto solo
+    SIbadd9
+l'estate che poi passerà, il grano che maturerà
+   DO
+la mano che lo coglierà, per questo e quello che verrà
+
+   FA                        REm7  
+Io canto,  le mani in tasca e canto
+                 SIbadd9                    DO
+la voce in festa canto,  la banda in testa canto,
+SIb/RE    DO/MI  FA                    REm7                 
+corro nel vento e canto,  la vita intera canto
+             SIbadd9                DO
+la primavera canto, l'ultima serra canto
+                  REadd9       SIbadd9          DO             
+per chi mi ascolterà, voglio cantare, sempre cantare  
+   RE
+cantare   oh oh oh
+
+FA
+Canto   le mani in tasca
+REm7                     SIbadd9
+Canto   la voce in festa  canto 
+               DO4
+la vita intera canto 
+
+SIb/RE    DO/MI  FA        REm7                                 
+corro nel vento e canto   io canto
+               SIbadd9  DO
+la vita intera canto    io canto
+SIb/RE      DO/MI  FA   REm7
+per chi mi ascolterà         
+                  SIbadd9   DO   SIb/RE  DO/MI  FA
+per chi mi ascolterà

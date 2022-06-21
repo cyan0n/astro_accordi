@@ -1,0 +1,53 @@
+{{ CATEGORY = 1.2 }}
+{{ KEY = SOL }}
+Intro:
+        SOL  RE  MIm  RE
+
+SOL           RE      MIm                RE6     SOL    FA DO
+Io un giorno crescerò, e nel cielo della vita volerò
+SOL          RE       DO                      RE       MIm
+ma un bimbo che ne sa, sempre azzurra non può essere l'età
+DO  LAm              RE6         SOL                    DO
+Poi, una notte di settembre mi svegliai, il vento sulla pelle
+RE                            SOL
+sul mio corpo il chiarore delle stelle
+MIm                 LAm
+chissà dov'era casa mia
+  RE                 SI7
+e quel bambino che giocava in un cortile!
+
+SOL      RE           MIm      RE                SOL
+Io, vagabondo che son io, vagabondo che non sono altro
+         RE          MIm       RE             SOL    RE  SI
+soldi in tasca non ne ho, ma lassù mi è rimasto Dio
+
+SOL                RE     MIm               RE6        SOL   FA DO
+Sì, la strada è ancora là, un deserto mi sembrava la città
+SOL          RE       DO                      RE      MIm
+ma un bimbo che ne sa, sempre azzurra non può essere l'età
+DO  LAm              RE6           SOL                   DO
+Poi, una notte di settembre me ne andai, il fuoco di un camino
+RE                             SOL
+non è caldo come il sole del mattino
+MIm                 LAm
+chissà dov'era casa mia
+  RE                 SI7
+e quel bambino che giocava in un cortile!
+
+SOL      RE           MIm      RE                SOL
+Io, vagabondo che son io, vagabondo che non sono altro
+         RE          MIm       RE             SOL
+soldi in tasca non ne ho, ma lassù mi è rimasto Dio
+    RE           MIm      RE                SOL
+vagabondo che son io, vagabondo che non sono altro
+         RE          MIm       RE             SOL
+soldi in tasca non ne ho, ma lassù mi è rimasto Dio...
+
+     RE           MIm      RE                SOL
+ vagabondo che son io, vagabondo che non sono altro
+         RE          MIm       RE             SOL
+soldi in tasca non ne ho, ma lassù mi è rimasto Dio
+    RE           MIm      RE                SOL
+vagabondo che son io, vagabondo che non sono altro
+         RE          MIm       RE             SOL
+soldi in tasca non ne ho, ma lassù mi è rimasto Dio...
