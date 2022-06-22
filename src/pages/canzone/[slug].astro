@@ -1,6 +1,7 @@
 ---
 import slugs from '../../data/songs/paths.json'
 import Layout from '../../layouts/Layout.astro';
+import Song from '../../components/Pages/Song.vue'
 
 export function getStaticPaths() {
 	return slugs.map(slug => ({ params: { slug } }))
@@ -11,6 +12,7 @@ const song = await import(`../../data/songs/${slug}.json`)
 ---
 
 <Layout>
-	{song.title}
-	{song.artist}
+	<Song song={song}
+				client:load />
+	{song.category}
 </Layout>
