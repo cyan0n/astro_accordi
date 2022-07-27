@@ -68,6 +68,7 @@ body {
 
 #container {
   text-align: center;
+  background-color: #fff;
 }
 
 header {
@@ -273,8 +274,8 @@ input.apple-switch:checked:after {
 
 #tools-2 a,
 #tools-2 a:visited,
-#footer a,
-#footer a:visited {
+footer a,
+footer a:visited {
   display: inline-block;
   margin: 0 2px;
   padding: 6px;
@@ -304,7 +305,7 @@ input.apple-switch:checked:after {
   font-family: "Fira Code", monospace;
 }
 
-#footer {
+footer {
   margin: 16px 0 64px;
   padding: 16px;
 }
@@ -591,7 +592,7 @@ input.apple-switch:checked:after {
   .back-to-menu,
   #tools,
   #tools-2,
-  #footer {
+  footer {
     display: none;
   }
 
