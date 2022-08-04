@@ -3,7 +3,7 @@ import Header from '../components/Header.astro';
 import Layout from '../layouts/Layout.astro';
 import Song from '../components/Song.vue'
 
-const song = await import(`../data/songs/${import.meta.env.SONG_SLUG}.json`)
+import song from '../data/song.json'
 ---
 
 <Layout>

@@ -5,13 +5,15 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build",
+    "build": "node ./build.js",
+    "astro-build": "astro build",
     "preview": "astro preview",
     "migrate": "node migration"
   },
   "devDependencies": {
     "@astrojs/vue": "^0.1.5",
     "astro": "^1.0.0-beta.47",
+    "dotenv": "^16.0.1",
     "named-js-regexp": "^1.3.5",
     "sass": "^1.52.3",
     "url-slug": "^3.0.4",
