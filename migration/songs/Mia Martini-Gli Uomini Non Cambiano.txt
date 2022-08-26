@@ -1,0 +1,86 @@
+{{ KEY = DO }}
+Intro:
+DOadd9   DO4   DOadd9
+
+     DO
+Sono stata anch'io bambina
+       REm/DO
+Di mio padre innamorata
+        SOL/SI
+Per lui sbaglio sempre e sono
+       DO
+La sua figlia sgangherata
+      LAm
+Ho provato a conquistarlo
+         REm7
+E non ci sono mai riuscita
+    SOL          MI7/SOL#
+E lottato per cambiarlo
+     LAm
+Ci vorrebbe un'altra vita
+     DO                    SOL/SI
+La pazienza delle donne incomincia a quell'età
+       LAm                FAm/LAb DO/SOL
+Quando nascono in famiglia quelle mezze ostilità
+     SIm7/5-           MI7
+E ti perdi dentro a un cinema
+    LAm
+A sognare di andar via
+       REm          SIm7/5-     MI4        MI
+Con il primo che ti capita e ti dice una bugia
+
+    DO  REm  MI7      LAm
+Gli uomini  non cambiano
+      REm7       SOL   MI7/SOL# LAm
+Prima parlano d'amore e poi ti  lasciano da sola
+    FA7+ SOL/FA MI7   LAm
+Gli uomini   ti cambiano
+     REm7         SOL         DO
+E tu piangi mille notti di perché
+            SIm7/5- MI7     LAm
+Invece, gli uomi----ni  ti uccidono
+           SIm7/5-      MI7       LAm  
+E con gli amici vanno a ridere di te
+
+SIm7/5-  MI7  LAm  REm SIm7/5- MI7/4  MI7
+
+            DO
+Piansi anch'io la prima volta
+        SOL/SI
+Stretta a un angolo e sconfitta
+      LAm
+Lui faceva e non capiva
+LAb    DO
+Perché stavo ferma e zitta
+        SIm7/5-       MI7
+Ma ho scoperto con il tempo
+       LAm
+E diventando un po' più dura
+         REm                    SIm7/5-
+Che se l'uomo in gruppo è più cattivo
+         MI4           MI7
+Quando è solo ha più paura
+
+    DO  REm/DO MI7       LAm
+Gli uomini     non cambiano
+        REm7         SOL
+Fanno i soldi per comprarti
+MI7/SOL# LAm
+E poi     ti vendono
+              FA7+ SOL/FA MI7 LAm
+La notte, gli uomini   non tornano
+     REm7        SOL       DO
+E ti danno tutto quello che non vuoi
+              SIm7/5- MI7    LAm
+Ma perché gli uo----mini che nascono
+     REm         SIm7/5-
+Sono figli delle donne
+       MI4       MI7
+Ma non sono come noi
+{{ KEY = SOL }}
+          SOL FA#m/5-  SI7   MIm
+Amore gli uomini   che cambiano
+      LAm7     RE   SI7 MIm       SOL/RE      
+Sono quasi un ideale    che non c'è
+     DO             DO/RE   SOL
+Sono quelli innamorati come te

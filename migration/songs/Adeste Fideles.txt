@@ -1,38 +1,44 @@
-{{ CATEGORY = 5 }}
-{{ KEY = RE }}
-    RE      LA
-1. Adeste fideles,
-RE       SOL RE  LA
-laeti trium__phantes,
-  SIm MI    LA          MI  LA
-veni__te, venite in Be ____ thleem!
-RE      SOL RE LA    SIm LA
-Natum vide__te regem angelorum.
+{{ KEY = FA }}
+FA       DO    FA        SOL9  DO
+Adeste fideles læti triumphan--tes,
+  FA      DO      SOL7 DO     DO7
+venite, venite in Bethlehem.
+FA      SIb  FA        SOL7  DO7
+Natum videte Regem angelo---rum.
+  FA                       FA/DO DO
+Venite adoremus, venite adoremus,
+  SIb     DO    DO7  FA DO7  FA
+venite adoremus Do-minum.
 
-       RE    SOL RE             SOL RE LA
-Rit. Venite ado__remus, venite ado__re_mus,
-  SOL  MI LA RE SOL RE LA  RE
-Venite adore_mus__  Do___minum!
-      RE      LA    RE      SOL RE LA
-2. En grege relicto humiles ad  cu_nas
-  SIm MI    LA          MI  LA
-voca__ti pastores adpro___perant...
-RE      SOL RE LA    SIm  LA
-Et nos ovan_ti gradu festinemus.
+    FA      DO     FA         SOL9  DO
+En, grege relicto, humiles ad cu---nas,
+FA        DO      SOL7  DO     DO7
+vocati pastores adprope-rant.
+FA      SIb   FA         SOL7  DO7
+Et nos ovanti gradu festine---mus.
+  FA                       FA/DO DO
+Venite adoremus, venite adoremus,
+  SIb     DO    DO7  FA DO7  FA
+venite adoremus Do-minum.
 
-       RE    SOL RE             SOL RE LA
-Rit. Venite ado__remus, venite ado__re_mus,
-  SOL  MI LA   RE   SOL  RE LA   RE
-Venite adore ______ mus  Do____minum!
- 
-   RE      LA   RE       SOL RE  LA
-3. Deum de Deo, lumen de___  lumine,
-SIm MI     LA      MI LA
-ges_tant puellae viscera.
-RE   SOL RE  LA  SIm     LA
-Deum ve__rum genitum non factum. 
+ FA      DO     FA          SOL9  DO
+Æterni Parentis splendorem æter--num,
+  FA        DO      SOL7  DO    DO7
+velatum sub carne videbi-mus,
+FA      SIb   FA         SOL7  DO7
+Deum infantem pannis involu---tum.
+  FA                       FA/DO DO
+Venite adoremus, venite adoremus,
+  SIb     DO    DO7  FA DO7  FA
+venite adoremus Do-minum.
 
-       RE    SOL RE             SOL RE LA
-Rit. Venite ado__remus, venite ado__re_mus,
-  SOL  MI LA   RE   SOL  RE LA   RE
-Venite adore ______ mus  Do____minum!
+    FA     DO       FA     SOL9  DO
+Pro nobis egenum et fœno cuban--tem
+FA     DO       SOL7   DO    DO7
+piis foveamus amplexi-bus;
+FA       SIb    FA           SOL7  DO7
+sic nos amantem quis non redama---ret?
+  FA                       FA/DO DO
+Venite adoremus, venite adoremus,
+  SIb     DO    DO7  FA DO7  FA
+venite adoremus Do-minum.

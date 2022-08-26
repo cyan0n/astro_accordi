@@ -1,50 +1,49 @@
-{{ CATEGORY = 1.1 }}
 {{ KEY = DO }}
-REm           LAm
+REm           LAm  
 1. I give her all my love 
-REm             LAm
+REm             LAm  
    that’s all I do 
-REm           LAm
+REm           LAm  
    and if you saw my love 
-FA                SOL
+FA                SOL 
    you’d love her too 
-           DO
+           DO  
 and I love her.
-REm             LAm
+REm             LAm  
 2. She gives me everything
-REm          LAm 
+REm          LAm  
    and tenderly 
-REm            LAm
+REm            LAm  
    the kiss my lover brings
 FA               SOL 
    She brings to me
-           DO 
+           DO  
 and I love her. 
-LAm             MIm
+LAm             MIm  
 Rit.A love like ours 
-LAm             MIm
+LAm             MIm  
     could never die 
-LAm            MIm
+LAm            MIm  
     as long as I 
-         SOL
+         SOL 
 have you near me.
-REm               LAm 
+REm               LAm  
 3. Bright are the stars that shine
-REm            LAm 
+REm            LAm  
    dark is the sky
-REm            LAm 
+REm            LAm  
    I know this love of mine
 FA            SOL 
    will never die
-           DO 
+           DO  
 and I love her. 
-REm               LAm
+REm               LAm  
 4. Bright are the stars that shine
-REm            LAm
+REm            LAm  
    dark is the sky
-REm            LAm
+REm            LAm  
    I know this love of mine
 FA            SOL 
    will never die
-           DO 
+           DO  
 and I love her.

@@ -1,0 +1,113 @@
+{{ KEY = LAb }}
+Intro:
+      LAb  MIb/SOL  FAm7  MIb4
+
+      REb7+  LAbadd9/DO  SIbm7  MIb7/4 MIb7
+
+LAb      MIb/SOL    FAm7  MIb6
+ Con i ragazzi va così
+REb         FA7/DO   SIbm  SIbm/LAb
+ non va mai bene come sei
+MIb/SOL     REbadd9/FA  LAb/DO
+ e anche se dici ancora sì,
+        REm7/5-         REbadd9
+sognano sempre un'altra lei
+  LAb/DO    SIbm7  MIb11
+e ridono di te
+        MIb7       LAb
+che non ti difendi mai
+        MIb/SOL    FAm7  MIb6  REb
+con i ragazzi va così
+          FA7        SIbm  SIbm/LAb  MIb/SOL
+ma quando escono con te 
+           REbadd9/FA     LAb/MIb
+sono gli interpreti di un film
+            REm7/5-     REbadd9 
+e tu sei in trappola perché
+   LAb/DO        SIbm7 MIb11
+ti sei già innamora----ta
+
+LAb         LAbadd9
+Prendila com'è
+ MIb/SOL
+amica mia non devi farli
+FAm7      FAm7/4
+ridere di te
+   REb                    
+ma questo non vuol dire odiarli
+LAbadd9/DO FAm7 SIbm7    MIb7
+pensaci perché   nessuno deve
+LAb       LAbadd9
+ridere di te
+  MIb/SOL
+lasciarsi andare non conviene
+FAm7           MIb    REb  
+non lo vedi che  stai male
+ 
+e non ti vuoi più bene
+LAbadd9/DO FAm7 SIbm7     MIb11
+ridere  di te     nessuno deve
+{{ KEY = SIb }}
+SIb      FA/LA      SOLm7  FA6
+ Con i ragazzi va così
+MIb      SOL7/RE    DOm   DOm/SIb
+ e mangi per la nostalgia
+FA/LA      MIbadd9/SOL   SIb/FA
+ e poi non entri più nei Jeans
+        MIm7/5-     MIb SIb/RE       DOm7
+e ti racconti una bugia che non troverai
+FA11    FA7          SIb
+ chi ti vuole bene ormai
+        FA/LA          SOLm7   SIb/FA
+con i ragazzi è un vecchio film
+MIb       SOL7/RE             DOm  DOm/SIb  FA/LA
+ lo so perché l'ho fatto anch'io...
+         MIbadd9/SOL SIb/FA
+non devi prenderla così
+        MIm7/5-         MIb
+nessuno mai sarà il tuo Dio
+  SIb/RE         DOm7   FA11
+e non sei tu che sei sbagliata
+
+SIb          SIbadd9
+Prendila com'è
+ FA/LA
+amica mia non devi farli
+SOLm7     SOLm7/9
+ridere di te
+  MIb                     FA6
+però è un errore anche imitarli
+SIbadd9/RE  SOLm7  DOm7     FA11
+pensaci perché      nessuno deve
+{{ KEY = DO }}
+DO        DOadd9
+ridere di te
+  SOL/SI
+l'amore è sempre un po' crudele
+LAm7         LAm7/9  
+non lo senti che      
+     FA                   
+stai male e non ti vuoi più bene
+   DO/MI     LAm7
+ma ridere di te
+REm7     SOL     DO SOL/SI LAm7 DO/SOL 
+ nessuno deve...
+
+FA DOadd9/MI REm7 SOL7/4 SOL
+{{ KEY = RE }}
+RE        REadd9
+Ridere di te
+ LA/DO#                  SIm7      LA/SI
+Amica mia non devi farli ridere di te
+  SOL                        
+però è un errore anche imitarli 
+RE/FA#     SIm7 MIm7     LA   RE        REadd9
+pensaci perché   nessuno deve ridere di te
+  LA/DO#                      SIm7         LA/SI LA
+lasciarsi andare non conviene non lo senti che
+     SOL
+stai male e non ti vuoi più bene
+RE/FA#    SIm7 MIm7     LA   RE        REadd9 
+ridere di te    nessuno deve ridere di te...
+
+LA/DO#  SIm7  SOL    RE/FA# SIm7 MIm7 LA7 

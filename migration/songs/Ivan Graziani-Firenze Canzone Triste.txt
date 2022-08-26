@@ -1,0 +1,116 @@
+{{ KEY = FA }}
+  REm                              SOLm
+Firenze lo sai, non è servita a cambiarla
+   DO
+la cosa che ha amato di più
+         FA    LA7
+è stata l'aria
+    REm
+lei ha disegnato
+       REm/DO           SOLm
+ha riempito cartelle di sogni
+       DO                  
+ma gli occhi di marmo del Colosso Toscano
+          FA           LA7
+guardano troppo lontano
+{{ KEY = RE }}
+RE
+Caro il mio Barbarossa
+              SOL
+studente in filosofia
+       RE
+con il tuo italiano insicuro
+                SOL
+certe cose le sapevi dire
+      RE                               SOL
+Oh lo so, lo so, lo so, lo so bene, lo so
+    RE
+una donna da amare in due
+              SOL
+in comune fra te e me
+      RE        MIm    RE7+      SOL6
+Ma di tempo ce n'è in questa città
+   RE7+           SOL6     LA7/4
+fottuti di malinconia e di lei
+
+                        RE
+Per questo canto una canzone triste
+        FA#
+triste, triste
+                 SIm
+triste, triste, triste
+                 FA#
+triste, triste, triste
+            SIm   
+Triste come me
+  LA      SOL    RE/FA#      LA
+E non c'è più nessuno che mi parli
+                   MIm          SOL    RE
+ancora un po' di lei, ancora un po' di lei
+
+FA#  SIm  FA#  SIm
+
+  LA      SOL    RE/FA#      LA
+E non c'è più nessuno che mi parli
+                    MIm         SOL    REm
+ancora un po' di lei, ancora un po' di lei
+{{ KEY = FA }}
+  REm
+Ricordo i suoi occhi
+                         SOLm
+strano tipo di donna che era
+ DO
+quando gettò i suoi disegni
+                  FA            LA7
+con rabbia giù da Ponte Vecchio
+ REm             REm/DO            SOLm
+"Io sono nata da una conchiglia" diceva
+        DO
+"La mia casa è il mare e con un fiume no,
+       FA              LA7/4
+non la posso cambiare"
+{{ KEY = RE }}
+RE
+Caro il mio Barbarossa
+               SOL
+compagno di un'avventura
+RE
+certo che se lei se n'è andata no
+      SOL
+non è colpa mia
+      RE
+Oh lo so, lo so, lo so
+                SOL
+la tua vita non cambierà
+  RE
+ritornerai in Irlanda
+                       SOL
+con la tua laurea in filosofia
+   RE        MIm   RE7+     SOL6
+ma io che farò in questa città?
+   RE/FA#         SOL6     LA7/4
+Fottuto di malinconia e di lei
+
+                        RE
+Per questo canto una canzone triste
+        FA#
+triste, triste
+                 SIm
+triste, triste, triste
+                 FA#
+triste, triste, triste
+            SIm   
+Triste come me
+  LA      SOL    RE/FA#      LA
+E non c'è più nessuno che mi parli
+                   MIm          SOL    RE
+ancora un po' di lei, ancora un po' di lei
+
+FA#  SIm  FA#  SIm
+
+  LA      SOL    RE/FA#      LA
+E non c'è più nessuno che mi parli
+                    MIm         SOL    RE
+ancora un po' di lei, ancora un po' di lei
+
+FA#  SIm  FA#  SIm

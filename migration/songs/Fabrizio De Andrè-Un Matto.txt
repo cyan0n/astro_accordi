@@ -1,0 +1,61 @@
+{{ KEY = SIb }}
+Intro:
+MIb  SIb  FA  SIb   MIb  SIb  FA  SIb
+
+    SIb              MIb       SIb
+Tu prova ad avere un mondo nel cuore
+   MIb             SIb     DO7      FA
+e non riesci ad esprimerlo con le parole,
+MIb                  FA           SIb
+e la luce del giorno si divide la piazza
+     MIb             SIb      FA              SIb
+tra un villaggio che ride e te, lo scemo, che passa,
+MIb                   FA        SIb
+e neppure la notte ti lascia da solo:
+          MIb        SIb       FA        SIb
+gli altri sognan se stessi e tu sogni di loro
+
+MIb  SIb  FA  SIb   MIb  SIb  FA  SIb
+
+SIb               MIb        SIb
+E sì, anche tu andresti a cercare
+     MIb    SIb      DO7        FA
+le parole sicure per farti ascoltare:
+MIb                           FA        SIb
+per stupire mezz'ora basta un libro di storia,
+   MIb           SIb          FA      SIb
+io cercai di imparare la Treccani a memoria,
+  MIb              FA         SIb
+e dopo maiale, Majakowsky, malfatto,
+MIb              SIb          FA      SIb
+continuarono gli altri fino a leggermi matto
+{{ KEY = SI }}
+  SI                   MI       SI
+E senza sapere a chi dovessi la vita
+   MI     SI         DO#7     FA#
+in un manicomio io l'ho restituita:
+MI                      FA#      SI
+qui sulla collina dormo malvolentieri
+  MI       SI         FA#          SI
+eppure c'è luce ormai nei miei pensieri,
+MI                       FA#     SI
+qui nella penombra ora invento parole
+       MI        SI       FA#      SI
+ma rimpiango una luce, la luce del sole
+
+MI  SI  FA#  SI   MI  SI  FA#  SI
+
+       SI              MI        SI
+Le mie ossa regalano ancora alla vita:
+     MI       SI   DO#7    FA#
+le regalano ancora erba fiorita
+MI                       FA#          SI
+Ma la vita è rimasta nelle voci in sordina
+          MI        SI         FA#         SI
+di chi ha perso lo scemo e lo piange in collina;
+MI                           FA#         SI
+di chi ancora bisbiglia con la stessa ironia
+     MI       SI           FA#         SI
+"Una morte pietosa lo strappò alla pazzia"
+
+MI  SI  FA#  SI   MI  SI  FA#  SI

@@ -1,94 +1,93 @@
-{{ CATEGORY = 6.1 }}
-{{ KEY = FA }}
-       LAm  DO  FA     LAm  DO  FA
+{{ KEY = RE }}
+SIm  RE  SOL     SIm  RE  SOL
 
-LAm        DO               FA
+SIm        RE               SOL
  I can't believe the news today
-LAm          DO                FA        
+SIm          RE                SOL        
  Oh, I can't close my eyes and make it go away
-DO
+RE
  How long?
-REm
+MIm
 How long must we sing this song?
-DO         REm         
+RE         MIm         
  How long, how long?
-         LAm DO FA                  LAm  DO  FA
+         SIm RE SOL                  SIm  RE  SOL
 'Cause tonight   we can be as one, tonight!
 
-LAm     DO            FA
+SIm     RE            SOL
  Broken bottles under children's feet
-LAm     DO                FA
+SIm     RE                SOL
  Bodies strewn across the dead-end street
-LAm          DO              FA
+SIm          RE              SOL
  But I won't heed the battle call
-LAm  DO     FA            
+SIm  RE     SOL            
  It puts my back up against the wall
 
-LAm DO          FA
+SIm RE          SOL
  Sunday, bloody Sunday
-LAm DO          FA
+SIm RE          SOL
  Sunday, bloody Sunday
-MIb  SIb/RE       DO    MIb SIb/RE DO
+FA  DO/MI       RE    FA DO/MI RE
  Sunday, bloody Sunday
 
-LAm  DO  FA    LAm  DO  FA
+SIm  RE  SOL    SIm  RE  SOL
 
-LAm      DO              FA
+SIm      RE              SOL
  And the battle's just begun
-LAm           DO                FA
+SIm           RE                SOL
  There's many lost, but tell me who has won?
-LAm           DO             FA
+SIm           RE             SOL
  The trenches dug within our hearts
-LAm           DO                  FA
+SIm           RE                  SOL
  And mother's children, brothers, sisters torn apart
 
-LAm DO          FA
+SIm RE          SOL
  Sunday, bloody Sunday
-LAm DO          FA
+SIm RE          SOL
  Sunday, bloody Sunday
-DO
+RE
  How long?
-REm
+MIm
 How long must we sing this song?
-DO         REm         
+RE         MIm         
  How long, how long?
-         LAm DO  FA                 LAm  DO  FA
+         SIm RE  SOL                 SIm  RE  SOL
 'Cause tonight   we can be as one, tonight!
 
-LAm  DO  FA    LAm  DO  FA
+SIm  RE  SOL    SIm  RE  SOL
 
-LAm  DO  FA    LAm  DO  FA
+SIm  RE  SOL    SIm  RE  SOL
 
-LAm DO FA                 LAm   DO  FA
+SIm RE SOL                 SIm   RE  SOL
       Wipe the tears from your eyes
-            LAm   DO  FA
+            SIm   RE  SOL
 Wipe your tears away
-            LAm   DO  FA
+            SIm   RE  SOL
 Wipe your tears away
-            LAm   DO  FA             
+            SIm   RE  SOL             
 Wipe your bloodshot eyes
 
-MIb  SIb/RE       DO    MIb SIb/RE DO
+FA  DO/MI       RE    FA DO/MI RE
  Sunday, bloody Sunday
-MIb  SIb/RE       DO    MIb SIb/RE DO
+FA  DO/MI       RE    FA DO/MI RE
  Sunday, bloody Sunday
 
-LAm  DO  FA    LAm  DO  FA
+SIm  RE  SOL    SIm  RE  SOL
 
-LAm       DO            FA
+SIm       RE            SOL
  And it's true we are immune
-LAm           DO            FA
+SIm           RE            SOL
  When fact is fiction and T.V. is reality
-LAm     DO            FA
+SIm     RE            SOL
  And today the millions cry
-LAm         DO            FA
+SIm         RE            SOL
  We eat and drink while tomorrow they die
-LAm       DO            FA
+SIm       RE            SOL
  The real battle just begun
-LAm           DO            FA
+SIm           RE            SOL
  To claim the victory Jesus won,
 
-LAm DO          FA
+SIm RE          SOL
  Sunday, bloody Sunday
-LAm DO          FA      LAm
+SIm RE          SOL      SIm
  Sunday, bloody Sunday

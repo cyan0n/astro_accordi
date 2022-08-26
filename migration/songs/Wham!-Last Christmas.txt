@@ -1,131 +1,130 @@
-{{ CATEGORY = 5 }}
 {{ KEY = DO }}
 Intro:
-       DO   SOL/SI LAm7
+       DO   SOL/ SI  LAm7  
 
-       REm   SOL7
+       REm   SOL7 
 
-DO
+DO  
 Last Christmas
-              SOL/SI
+              SOL/ SI  
 I gave you my heart,
-        LAm7
+        LAm7  
 But the very next day you gave it away
-REm
+REm  
 This year to save me from tears
-     SOL7/4              SOL         
+     SOL7/4              SOL 
 I'll give it to someone special
-DO
+DO  
 Last Christmas
-              SOL/SI
+              SOL/ SI  
 I gave you my heart,
-        LAm7
+        LAm7  
 But the very next day you gave it away
-REm
+REm  
 This year to save me from tears
-     SOL7/4              SOL
+     SOL7/4              SOL 
 I'll give it to someone special
 
-       DO   SOL/SI LAm7  REm7   SOL7
+       DO   SOL/ SI  LAm7  REm7   SOL7 
 
-DO                     SOL/SI
+DO                     SOL/ SI  
  Once bitten and twice shy
-LAm7
+LAm7  
  I keep my distance,
-                       REm7
+                       REm7  
 But you still catch my eye
 
 Tell me, baby, do you recognize me?
-SOL7/4
+SOL7/4 
  Well, it's been a year,
-              SOL7
+              SOL7 
 It doesn't surprise me
-DO
+DO  
  Merry Christmas
-                    SOL/SI
+                    SOL/ SI  
 I wrapped it up and sent it
-LAm7
+LAm7  
 With a note saying "I love you" i meant it
-REm7
+REm7  
 Now I know what a fool I've been,
-           SOL7/4
+           SOL7/4 
 But if you kissed me now
-             SOL7
+             SOL7 
 I know you'd fool me again
 
-DO
+DO  
 Last Christmas
-              SOL/SI
+              SOL/ SI  
 I gave you my heart,
-        LAm7
+        LAm7  
 But the very next day you gave it away
-REm
+REm  
 This year to save me from tears
-     SOL7/4              SOL         
+     SOL7/4              SOL 
 I'll give it to someone special
-DO
+DO  
 Last Christmas
-              SOL/SI
+              SOL/ SI  
 I gave you my heart,
-        LAm7
+        LAm7  
 But the very next day you gave it away
-REm
+REm  
 This year to save me from tears
-     SOL7/4              SOL
+     SOL7/4              SOL 
 I'll give it to someone special
 
-DO  SOL/SI LAm7  REm  SOL7/4 SOL7
+DO  SOL/ SI  LAm7  REm  SOL7/4 SOL7 
 Oh, oh,  baby
 
-DO
+DO  
  A crowded room
-                    SOL/SI
+                    SOL/ SI  
 Friends with tired eyes
-LAm7
+LAm7  
  I'm hiding from you
 
 And your soul of ice
-REm7
+REm7  
  My god, I thought you were someone to rely on
-SOL7/4               SOL
+SOL7/4               SOL 
 Me? I guess I was a shoulder to cry on
-  DO                                 SOL/SI
+  DO                                 SOL/ SI  
 A face on a lover with a fire in his heart
-  LAm7                              REm7
+  LAm7                              REm7  
 A man under cover, but you tore me apart
-         SOL7/4    
+         SOL7/4 
 Now I've found a real love 
-             SOL7
+             SOL7 
 You'll never fool me again
 
-DO
+DO  
 Last Christmas
-              SOL/SI
+              SOL/ SI  
 I gave you my heart,
-        LAm7
+        LAm7  
 But the very next day you gave it away
-REm
+REm  
 This year to save me from tears
-     SOL7/4              SOL7         
+     SOL7/4              SOL7 
 I'll give it to someone special
-DO
+DO  
 Last Christmas
-              SOL/SI
+              SOL/ SI  
 I gave you my heart,
-        LAm7
+        LAm7  
 But the very next day you gave it away
-REm
+REm  
 This year to save me from tears
-     SOL7/4              SOL7
+     SOL7/4              SOL7 
 I'll give it to someone special
 
-  DO
+  DO  
 A face on a lover with a fire in his heart
-  
+
 I gave you my heart
-  LAm7
+  LAm7  
 A man under cover, but you tore him apart
-REm7
+REm7  
  Maybe next year I'll give it to someone
-     SOL7/4              SOL7
+     SOL7/4              SOL7 
 I'll give it to someone special...

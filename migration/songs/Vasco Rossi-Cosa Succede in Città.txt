@@ -1,0 +1,109 @@
+{{ KEY = RE }}
+Intro:
+RE  SOL  RE  SOL
+
+RE9  SOL9  RE9  SOL9
+
+RE9
+  Conta sì il denaro
+SOL9
+  altro che no!
+RE9
+  me ne accorgo soprattutto quando...
+SOL9
+  quando non ne ho!
+RE9
+  Conta sì il denaro
+  SOL9
+...altro che...
+RE9         SOL9
+  Altro che chiacchiere!
+     
+RE  SOL7  RE9  SOL9
+
+RE        SIm 
+  Cosa succede
+SOL       LA          RE
+  cosa succede in città
+            SIm
+c'è qualche cosa...
+SOL        LA        RE
+  qualcosa che non va!
+          SIm      SOL
+Guarda lì, guarda là
+         LA      RE
+che confusione...
+         SIm         SOL
+Guarda lì, guarda là
+           LA
+...che maleducazione!
+
+RE9  SOL9  RE  SOL9
+     
+RE9                SOL9          
+  Egoista... certo... Perché no!
+RE9                 SOL9
+  perché non dovrei esserlo!...
+RE9                     SOL9
+  Quando c'ho il mal di stomaco
+RE9                  SOL9
+  con chi potrei condividerlo!... oh!
+     
+RE9  SOL9  RE9  SOL9
+
+RE        SIm 
+  Cosa succede
+SOL       LA          RE
+  cosa succede in città
+            SIm
+c'è qualche cosa...
+SOL        LA        RE
+  qualcosa che non va!
+         SIm        SOL
+Siamo noi, siamo noi
+           LA        RE
+quelli più stanchi!
+         SIm         SOL
+Siamo noi, siamo noi
+              LA
+che dovremo andare avanti!
+
+RE  SOL  RE  SOL
+
+RE  SOL  RE  SOL
+     
+RE                 SOL
+  Egoista... certo... perché no!
+RE                  SOL
+  perché non dovrei esserlo...
+RE                      SOL
+  Quando c'ho il mal di stomaco...
+RE                              SOL
+  ce l'ho io, mica te!... O no!
+     
+RE        SIm   SOL
+  Cosa succede...
+       LA         RE
+non succede Nulla...
+         SIm        SOL
+c'è confusione... Sì
+              LA 
+ma in fondo è sempre quella!
+RE           SIm
+  Non c'è più, non c'è
+      SOL
+più... 
+        LA
+... religione!
+RE         SIm
+  Guarda lì, Guarda là...
+SOL          LA           RE
+  anche in televisione... uuh!
+SOL                         RE
+  non c'è più religione!... uuh!
+SOL                      RE
+  anche in televisione...
+SOL                      RE  SOL 
+  non c'è più religione...
+
+RE  SOL  RE  SOL

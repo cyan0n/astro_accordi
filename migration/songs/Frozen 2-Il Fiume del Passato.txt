@@ -1,0 +1,34 @@
+{{ KEY = SIb }}
+          SOLm            DOm
+1. C’è un fiume, porta in sé
+           MIb             SIb
+quel che è stato, quel che più non c’è
+     DOm
+la memoria del passato
+MIb  FA          SOLm
+lì rifugio ha trovato.
+          SOLm         DO
+2. Puoi sognarlo anche tu
+        MIb               SIb
+dove il vento incontra il mare blu
+           DOm
+ma in quel fiume affogherà
+MIb      FA             SOLm
+chiunque vada troppo in là.
+         MIb               SIb
+Rit. Tra quelle acque tu potrai
+           DOm       LAb
+sentire un suono magico
+   MIb             SIb
+ma le risposte che avrai
+   DOm                 MIbm
+le saprai affrontare o no?
+{{ KEY = SI }}
+           SOL#m       DO#
+3. L’acqua è una madre che
+         MI           SI
+sa il passato, può rispondere
+      DO#m                MI
+perdi ciò che tu hai più amato
+    FA#                  SOL#m
+è allora che lo avrai trovato.

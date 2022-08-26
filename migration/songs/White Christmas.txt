@@ -1,18 +1,17 @@
-{{ CATEGORY = 5 }}
 {{ KEY = SOL }}
-SOL               LAm   SIm7
-I'm dreaming of a White Christam,
-DO            RE7            SOL   
+SOL               LAm   SIm7  
+I'm dreaming of a White Christmas,
+            RE7            SOL 
 Just like the ones I used to know,
-                   SOL7
+                   SOL7 
 where the treetops glisten
-    DO       DOm       SOL  LAm                  RE7
+    DO       DOm       SOL  LAm                  RE7  
 and children listen to hear sleight bells in the snow.
-SOL              LAm    SIm7
+SOL               LAm   SIm7  
 I'm dreaming of a White Christams,
-DO         RE7              SOL    
+DO         RE7              SOL 
 with ev'ry Christams card I write
-                 SOL7      DO          DOm
+                 SOL7      DO          DOm  
 may your days be merry and brightyour 
-        SOL      DO      RE7    SOL
+        SOL      DO      RE7    SOL 
 and may all your Christmases be white

@@ -1,23 +1,22 @@
-{{ CATEGORY = 4 }}
 {{ KEY = DO }}
-DO       SOL7              DO
+DO       SOL7              DO  
 Einigkeit und Recht und Freiheit
-FA DO/MI SOL7 DO RE7  SOL7
+FA  DO/  MI  SOL7 DO  RE7  SOL7 
 für das     deutsche Vaterland!
-DO    SOL7               DO
+DO    SOL7               DO  
 Danach lasst uns alle streben,
-FA DO/MI SOL7 DO RE7      SOL7 
+FA  DO/  MI  SOL7 DO  RE7      SOL7 
 brü-der-----lich mit Herz und Hand!
-SOL7                           
+SOL7 
 Einigkeit und Recht und Freiheit
-DO/MI SOL7 DO/SOL RE7   SOL
+DO/  MI  SOL7 DO/  SOL RE7   SOL 
 sind    des  Glückes Unterpfand
 
-DO     FA DO FA    SOL7 DO
+DO     FA  DO  FA    SOL7 DO  
 Blüh im Glanze  dieses Glü--ckes,
-SOL6  DO/MI REm   DO/SOL SOL7 DO
+SOL6  DO/  MI  REm   DO/  SOL SOL7 DO  
 blühe deut----sches Va------ter--land
-DO     FA DO FA    SOL7 DO
+DO     FA  DO  FA    SOL7 DO  
 Blüh im Glanze  dieses Glü--ckes,
-SOL6  DO/MI REm   DO/SOL SOL7 DO
+SOL6  DO/  MI  REm   DO/  SOL SOL7 DO  
 blühe deut----sches Va------ter--land

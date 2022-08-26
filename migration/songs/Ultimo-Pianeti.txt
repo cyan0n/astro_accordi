@@ -1,119 +1,122 @@
-{{ CATEGORY = 2 }}
-{{ KEY = SOL }}
-MIm
+{{ KEY = LAb }}
+FAm
   Io ti aspetto dove il mare non si vede più
-DO
+REb
   Dove il giorno non arriva se non ci sei tu
-SOL
+LAb
   Dove anche i miei segreti poi si spogliano
-RE/FA#
+MIb/SOL
   Dove gli ultimi hanno forza e insieme cantano
-MIm
+FAm
   Io ti aspetto giuro che lo faccio dentro un bar
-DO
+REb
   Dove da dentro ti vedrò arrivare
-SOL
+LAb
   In quel posto che alla luna appesa a un aquilone
-RE7/FA#
+MIb7/SOL
   Dove si accettano le ansie e diventano cure
-MIm
+FAm
   Io ti aspetto nel secondo che precede il tempo
-DOadd9
+REbadd9
   Nelle bugie che non ti ho detto per sentirmi perso
-SOL
+LAb
   Nei tuoi capelli che non riesco mai a dimenticare
-RE7/FA#
+MIb7/SOL
   Nelle bestemmie che ho sputato per farmi sentire
-MIm
+FAm
   Ci sarà un posto vedrai per tutte le tue paure
-DOadd9
+REbadd9
   Vedrai che è bello camminare senza mai sapere
-SOL
+LAb
   Senza mai sapere dove ti portano i passi
-RE7/FA#
+MIb7/SOL
   È la fantasia che trasforma in pianeti i sassi
 
-MIm
+FAm
   E ho perso voli
-DOadd9
+REbadd9
   E ho perso treni
-SOL                   RE/FA#
+LAb                   MIb/SOL
   Ma il mondo l'ho trovato sotto i piedi
-MIm
+FAm
   E ho perso il tempo
-DOadd9
+REbadd9
   Per le canzoni
-SOL                  RE7/FA#       DO
+LAb                  MIb7/SOL       REb
   Quando ti urlavo e tu non mi capivi
 
-MIm
+FAm
   Io ti aspetto perché è nell'attesa che ci riesco
-DOadd9
+REbadd9
   A ritrovarmi a ritrovarti a ritrovare un senso
-SOL
+LAb
   Ho sempre scritto forse per sentirmi meno solo
-RE7/FA#
+MIb7/SOL
   In quelle sere dove il cielo ti prende per mano
-MIm
+FAm
   E tu aspettami lì in alto sulla grande ruota
-DOadd9
+REbadd9
   Dove il mondo è solo un punto da lasciarsi dietro
-SOL
+LAb
   Prendimi per mano e disegniamo mille passi
-RE7/FA#
+MIb7/SOL
   È la fantasia che trasforma in pianeti i sassi
 
-MIm
+FAm
   E ho perso voli
-DOadd9
+REbadd9
   E ho perso treni
-SOL                   RE/FA#
+LAb                   MIb/SOL
   Ma il mondo l'ho trovato sotto i piedi
-MIm
+FAm
   E ho perso il tempo
-DOadd9
+REbadd9
   Per le canzoni
-SOL                  RE7/FA#     MIm
+LAb                  MIb7/SOL     FAm
   Quando ti urlavo e tu non mi capivi
-                              DO
+                              REb
 Che ero a un passo da perdere te
-                                  SOL
+                                  LAb
 Ma tu eri a un passo da perdere che
-                          SIm                                 MIm
-Per tutte quelle sere in cui ti ho persa e neanche so il perché
-                            DO
+                          DOm
+Per tutte quelle sere in cui
+                                 FAm
+ti ho persa e neanche so il perché
+                            REb
 Che ero un passo da perdere te
-                             SOL
+                             LAb
 E tu eri un passo da perdere me
-                    SIm                      DO
+                    DOm                      REb
 Io che non ho avuto mai niente di vero a parte te
 
 Come la luce qui che filtra da questa finestra
-RE
+MIb
   Come la vita che cambia ma resta la stessa
-SIm
+DOm
   Come un poeta che bacia il dolore
-        MIm
+        FAm
 Come la notte che ruba silenzi e ti regala paure
-DO
+REb
   Io ti aspetto in una stanza che è sospesa in alto
-RE
+MIb
   Tra la luce delle stelle sto dannato inferno
-  SOL
+  LAb
 E vivi tu per me la vita che io rifiuto
-     SIm                                     DO
+     DOm                                     REb
 Ti aspetto dove ti parlo restando per sempre muto
 
-MIm  DO  SOL  SIm  DO
-                              DO
+FAm  REb  LAb  DOm  REb
+                              REb
 Che ero a un passo da perdere te
-                                  SOL
+                                  LAb
 Ma tu eri a un passo da perdere che
-                          SIm                                 MIm
-Per tutte quelle sere in cui ti ho persa e neanche so il perché
-                            DO
+                          DOm
+Per tutte quelle sere in cui
+                                 FAm
+ti ho persa e neanche so il perché
+                            REb
 Che ero un passo da perdere te
-                             SOL
+                             LAb
 E tu eri un passo da perdere me
-                    SIm                      DO
+                    DOm                      REb
 Io che non ho avuto mai niente di vero a parte te

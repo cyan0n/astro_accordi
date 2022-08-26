@@ -1,18 +1,17 @@
-{{ CATEGORY = 5 }}
 {{ KEY = DO }}
-  DO
+  DO  
 O Tannenbaum, O Tannenbaum
-    SOL             DO
+    SOL             DO  
 wie grun sind deine Blatter!
-  DO
+  DO  
 O Tannenbaum, O Tannenbaum
-    SOL             DO
+    SOL             DO  
 wie grun sind deine Blatter!
-                  SOL
+                  SOL 
 Du grunst nur zur Sommerszeit,
-                      DO
+                      DO  
 nein, auch in Winter, wenn es schneit!
 
 O Tannenbaum, O Tannenbaum,
-    SOL             DO
+    SOL             DO  
 wie grun sind deine Blatter!

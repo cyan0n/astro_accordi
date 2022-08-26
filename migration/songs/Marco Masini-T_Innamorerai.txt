@@ -1,0 +1,79 @@
+{{ KEY = LA }}
+Intro:
+LA  DO#m7  RE  MI
+
+LA  DO#m7  RE  MI  
+
+LA  DO#m7  RE  MI6  
+
+LA         DO#m7  RE            MI6
+ T'innamorerai     forse non di me
+LA         DO#m7 RE
+starai ferma lì
+         MI6   LA   DO#m7  RE  MI6
+e succederà da sé...    da sé
+LA          DO#m7 RE            MI6
+ Della libertà      degli amici tuoi
+LA        DO#m7  RE
+ te ne fregherai
+             MI6 LA  DO#m7  RE  MI6
+quando t'innamorerai...vedrai...
+
+      LA        DO#m7          RE              MI6
+Sarà bello da guardare come un poster di James Dean
+      LA       DO#m7  RE                 MI6
+sarà dolce la paura sganciandosi i blue jeans
+      LA            DO#m7     RE            MI6
+sarà grande come il mare sarà forte come un Dio
+        LA          DO#m7  RE                   MI
+sarà il primo vero amore    quello che non sono io
+{{ KEY = DO }}
+DO         MIm7 FA              SOL
+ T'innamorerai    di un bastardo che
+DO       MIm7  FA             SOL6    DO  MIm7
+ ti dirà bugie   per portarti via  da me...
+FA        SOL  DO  MIm7 FA        SOL   DO  MIm7
+ Chi ti difenderà        dal buio della notte
+FA        SOL        DO  MIm7 FA          SOL
+da questa vita che non dà     quel che promette
+{{ KEY = LA }}
+LA         DO#m7    RE              MI6
+ T'innamorerai,  lo so certo non di me
+LA        DO#m7 RE
+ in profondità
+                MI6     LA  DO#m7  RE  MI6
+che non sai di avere in te...  in te
+      LA          DO#m7        RE           MI6
+sarai sola contro tutti perché io non ci sarò
+       LA              DO#m7       RE        MI6
+quando piangi e lavi i piatti e la vita dice no
+     LA            DO#m7         RE             MI6
+un ritardo di sei giorni che non sai se dirlo a lui
+      LA           DO#m7  RE                     MI6
+avrai voglia di pensarmi   tu che adesso non mi vuoi
+{{ KEY = DO }}
+DO         MIm7       FA
+ T'innamorerai... di me
+            SOL       DO
+ma non sarò io... con te
+         MIm7  FA           SOL     DO   MIm7
+t'innamorerai   quando sarà tardi ormai
+FA          SOL  DO   MIm7
+ e il cielo piangerà
+FA         SOL    DO    MIm7
+ gli mancherà una stella
+FA         SOL       DO  MIm7
+vai con la tua felicità
+FA         SOL  FA
+sei troppo bel--la
+{{ KEY = LA }}
+LA  DO#m7  RE  MI6
+
+LA  DO#m7  RE  MI6
+
+LA         DO#m7  RE          MI6  LA
+ t'innamorerai      t'innamorerai
+          DO#m7  RE
+t'innamorerai
+               MI6     LA  DO#m7  RE  MI6
+non di me ma t'innamorerai...

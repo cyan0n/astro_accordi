@@ -1,0 +1,94 @@
+{{ KEY = DO }}
+   DO            DO/SI                LAm            MI/SOL#
+1. Le ragazze si lanciano ad occhi chiusi nelle avventure
+DO/SOL           LAm/FA#      FA7+         MI7
+qualche volta confondono la bugia e la verità
+REm         MI7       REm6            MI7
+seguono l’istinto e l’istinto le aiuterà
+FA7+          FA6
+sono treni in corsa
+MI74.            MI7
+che nessuno fermerà.
+   DO            DO/SI       LAm            MI/SOL#
+2. Le ragazze decidono il destino dei loro amori
+DO/SOL        LAm/FA#       FA7+            MI7
+i ragazzi s’illudono ma non contano un gran che...
+REm          MI7         REm6              MI7
+quando ti sorridono è probabile che sia un sì
+   FA                      MI7
+ma quando si allontanano è no! e tu...
+{{ KEY = LA }}
+             LA
+Rit. Ci devi stare,
+           FA#m7         SIm7
+inutile sperare di recuperare
+               MI7
+se hanno detto no
+          LA
+meglio sparire 
+          FA#m7         
+non telefonare
+             SIm7                DO#7/4  DO#7
+per sentirsi dire un’altra volta “no”
+     FA#m7                LA7/4  LA7
+come se non t’importasse più
+      FA#m/RE#         REm REm6
+senza farti mai vedere giù
+        LA        FA#m7
+si può amare da morire
+     SIm7    MI7  LA
+ma morire d’amore no!
+{{ KEY = DO }}
+REm7  SOL7/4
+
+   DO               DO/SI          LAm            MI/SOL#
+3. Le ragazze che ispirano tutti i testi delle canzoni
+DO/SOL         LAm/FA#       FA7+           MI7
+sono sempre al centro dei discorsi di tutti noi
+REm         MI7       REm6      MI7
+che non conosciamo nemmeno la metà
+   FA7+           FA6
+di tutto quel che pensano
+        MI7/4           MI7
+e dei segreti che ognuna ha.
+   DO            DO/SI          LAm           MI/SOL#
+4. Le ragazze volteggiano sulle ali degli aquiloni
+DO/SOL      LAm/FA#          FA7+       MI7
+e noi innamorati che le seguiamo da quaggiù
+REm         MI7             REm6       MI7
+guarda come planano...  qualcuna scenderà
+   FA                      MI7
+ma quando si allontanano è no!  e tu...
+{{ KEY = LA }}
+              LA
+Rit. Ci devi stare,
+           FA#m7         SIm7
+inutile sperare di recuperare
+               MI7
+se hanno detto no
+          LA
+meglio sparire 
+          FA#m7  
+non telefonare
+             SIm7                DO#7/4  DO#7
+per sentirsi dire un’altra volta “no”
+     FA#m7               LA7/4  LA7
+come se non t’importasse più
+      FA#m/RE#         REm REm6
+senza farti mai vedere giù
+        LA        FA#m7
+si può amare da morire
+     SIm7    MI7  LA     
+ma morire d’amore no!
+{{ KEY = DO }}
+   DO              DO/SI          LAm       MI/SOL#
+5. Le ragazze che sfidano le opinioni della gente
+DO/SOL          LAm/FA#        FA7+        MI7
+hanno gli occhi limpidi di chi dice la verità
+REm         MI7   REm6       MI7
+senza compromessi né mezze misure
+FA7+
+sono più sincere
+{{ KEY = LA }}
+     MI7                LA
+le ragazze della nostra età.

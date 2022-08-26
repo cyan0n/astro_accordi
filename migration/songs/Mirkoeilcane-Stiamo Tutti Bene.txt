@@ -1,0 +1,208 @@
+{{ KEY = SIb }}
+Intro:
+       SIb7+   SIbm7+
+
+SIb
+Stiamo tutti bene stiamo tutti bene
+SIbm7
+stiamo tutti bene stiamo tutti bene
+SIb
+Stiamo tutti bene stiamo tutti bene
+SIbm7
+stiamo tutti bene stiamo tutti bene
+
+    SIbadd9
+Ciao, mi chiamo Mario e ho 7 anni
+                 SIbm7/9
+7 e mezzo per la precisione
+                                         SIbadd9
+mi piace il sole, l’amicizia, le persone buone
+
+il calcio, le canzoni allegre 
+              SIbm7/9
+ed il profumo buono della pelle di mia madre
+                      SIbadd9
+papà mio è da qualche mese che non torna
+                           SIbm7/9
+ma guai a parlarne con qualcuno
+
+specialmente con la mamma
+                SIbadd9
+perché si sente male
+
+grida, piange e non la smette più
+          SIbm7/9
+e per tre giorni si nasconde e non si fa vedere
+             SIbadd9
+Ma oggi è un giorno felice
+
+che qui è arrivato un pallone
+       SIbm7/9
+e finalmente potrò diventare forte
+
+e fare il calciatore
+SIbadd9
+so già palleggiare con i sassi è diverso
+          SIbm7/9
+ma sono avvantaggiato perché corro forte
+
+come il vento
+         SIbadd9
+E allora volo alla radura
+
+insieme agli altri bambini
+           SIbm7/9
+chi arriva ultimo in porta
+
+sai che rottura di co…
+       SIbadd9
+arrivo primo, come sempre
+
+e allora sono attaccante
+        SIbm7/9
+scarto, driblo, tiro in porta
+
+ed il portiere non può farci niente
+
+poi da più lontano sento ‘Mario vieni qua
+          SIbm7/9
+prendiamo tutto quel che abbiamo
+
+e raggiungiamo papà’
+     SIbadd9
+mamma, proprio adesso, sto tirando un rigore
+           SIbm7/9
+ma non c’è verso
+
+ce ne andiamo, meglio non polemizzare
+{{ KEY = DO }}
+       DO
+Stiamo tutti bene stiamo tutti bene
+                  DOm7
+stiamo tutti bene tutto molto bene
+
+come si conviene
+             DO
+Stiamo tutti bene stiamo tutti bene
+
+stiamo tutti bene
+                            DOm7
+non c’è nulla per cui vi dobbiate preoccupare
+
+e scomodare
+
+          DOadd9
+Ma guarda te la jella proprio a me doveva capitare
+        DOm7/9
+quattro giorni su sta barca, intorno ancora solo mare
+      DOadd9
+ma ti pare giusto uno va in vacanza per la prima volta
+  DOm7/9
+e quelli lì davanti son capaci di sbagliare rotta
+DOadd9
+ che poi a chiamarla barca ci vuole un bel coraggio
+DOm7/9
+stare in tre seduti in mezzo metro di spazio
+       DOadd9
+è come me e gli altri 200 tutti intenti a pregare
+         DOm7/9
+ed io vorrei soltanto alzarmi e palleggiare
+         DOadd9
+Ma se soltanto sporgo anche di un centimetro il piede
+         DOm7/9
+questo davanti si sveglia e inizia a dire che ha sete
+           DOadd9
+io ho pure sete, fame, sonno e mi fa male la schiena
+           DOm7/9
+ma non c’è mica bisogno di fare tutta sta scena
+          DO
+E poi c’è questo di fianco
+
+che ha chiuso gli occhi non li apre più
+DOm7
+ è da due giorni che dorme che pare non respiri
+DO                                      DOm7
+ non ho mai visto nessuno dormire così tanto
+
+ho chiesto a mamma
+
+e ha detto che era proprio stanco
+   DO
+Boh, tre giorni fa
+
+ne hanno buttato una ventina in mare
+DOm7
+mamma dice che volevano nuotare
+         DO
+io li sentivo gridare e non sembravano allegri
+           DOm7
+ma almeno adesso ho un po’ di spazio per i piedi
+{{ KEY = RE }}
+RE   REm7/6   RE   REm7/6
+
+           RE
+È il sesto giorno
+
+adesso dormo, pure mamma e un tipo magro
+        REm7/6
+qualche fila più in là grida che vede la Madonna
+
+e questa barca adesso puzza di benzina e di morte
+           REm7/6
+e mamma ha detto di non farci caso e di essere forte
+             RE
+e di fare il bravo bambino e star seduto qua
+           REm7/6
+che mamma adesso s’addormenta e raggiunge papà
+         RE
+però piangeva e si sforzava di sorridere
+          REm7/6
+forse era proprio tanto stanca pure lei
+ 
+           SIm7/9
+E c’è un silenzio tutto intorno
+
+che mi mette paura
+          SIm7/5-
+s’è fatta notte, ho freddo
+
+e in cielo non c’è neanche la luna
+      SIm7/9
+gente grida, chiede aiuto
+
+ma nessuno risponde
+            SIm7/5-
+mi guardo intorno e neanche a dirlo
+
+vedo sempre e solo onde
+     SIm7/9
+dopo onde, ancora onde
+                               SIm//5-
+allora onde evitare di addormentarmi come gli altri
+
+ed esser buttato in mare
+             SIm7/9
+mi unisco al coro della barca
+
+e inizio a piangere e gridare
+       SIm7/5-
+non ho forza, chiudo gli occhi
+                          RE
+e non so neanche nuotare
+  
+REm7/6                              RE
+Stiamo tutti bene stiamo tutti bene
+REm7/6
+stiamo tutti bene stiamo tutti bene
+             RE
+stiamo tutti bene stiamo tutti bene
+                         REm7/6
+Stiamo tutti bene stiamo tutti bene
+
+stiamo tutti bene stiamo tutti bene
+RE
+stiamo tutti bene stiamo tutti bene
+             REm7/6                           
+Stiamo tutti bene stiamo tutti bene
+      
+stiamo tutti bene
