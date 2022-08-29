@@ -1,3 +1,4 @@
+{{ TITLE = 051/222525 }}
 {{ KEY = DO }}
   REm
 E tutti fermi in fila ad aspettare
@@ -31,11 +32,11 @@ carte igieniche lunghissime
 sentissi come è morbida
        DO                       SOL
 e ogni volta viene voglia di “cosare”.
-            DO              
+            DO
 E all’improvviso arrivi tu,
-       MIm                 LAm                 
+       MIm                 LAm
 un manifesto in mezzo agli altri
-            FA     
+            FA
 su quel faccino quanti pugni, quante botte
                     DO               RE
 ma lo sai che ti potevano ammazzare?
@@ -107,9 +108,9 @@ non mi picchiare un’altra volta
 che ogni volta ho più paura,
 
 e ho paura ormai di tutto,
-      LA                     
+      LA
 di pensare e di parlare,
-           
+
 ho anche paura di dormire,
          REm                                 DO
 ma, giuro, quando sarò grande mi voglio vendicare:
@@ -123,16 +124,16 @@ con te che mi vuoi stringere...
 Io sto pensando ancora a quel faccino,
                DO       SOL
 passa, se vuoi passare...
-Strumentale.  
+Strumentale.
           DO               SOL
 Ma quanti sono quei faccini
          LAm               DO
 e quanto sono disperati
-         FA                
+         FA
 li senti piangere ogni notte
-  DO                         SIm5- MI                      
+  DO                         SIm5- MI
 e non c’è mai nessuno che li aiuti
-          LAm          
+          LAm
 e tutti a dire: “che vergogna!”
            DO
 ma tutti a chiudere la porta

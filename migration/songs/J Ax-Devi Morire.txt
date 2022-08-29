@@ -1,3 +1,4 @@
+{{ ARTIST = J-Ax }}
 {{ KEY = SIb }}
 Perché i bambini sanno essere crudeli
 
@@ -48,7 +49,7 @@ Sappiamo come ci si sente quando la luce poi si spegne
 se dopo il cielo non c’è niente
 MIb         SIb
 restano qui tutte le paure che hai.
-               DOm                        MIb            
+               DOm                        MIb
 Chissà se sarà vero che la vita è come un treno
                  SIb                       FA
 e forse a quanto pare a noi ci ha preso in pieno.
@@ -62,7 +63,7 @@ Mi sfottevano e pestavano io non alzavo un dito
 anno dopo anno ho iniziato a odiarmi e farmi schifo,
    DOm                           FA
 un verme inerme neanche degno di uno sguardo
-           DOm                                    
+           DOm
 pensavo: è tutta colpa mia che sono debole e codardo.
      DOm                       FA
 Ogni giorno uno spintone nuovo mi buttava a terra
@@ -75,7 +76,7 @@ ed ero sempre nei casini e agli altri andava tutto liscio.
      DOm                        FA
 Come l’olio nei capelli che non mi lavavo mai
         DOm                      FA
-fantasticavo di ammazzarli tutti stile Columbine 1 . 
+fantasticavo di ammazzarli tutti stile Columbine 1 .
   DOm                       FA
 I grandi non vedono o fanno finta, nessuno t’aiuta
 DOm                  FA
@@ -86,7 +87,7 @@ per gli occhi neri o per le labbra gonfie
 la prof muta che altrimenti poi le tagliano le gomme.
       DOm                          FA
 Poi a casa con lo zaino rotto e la maglia strappata
-      DOm                      
+      DOm
 mamma che ti mena e urla: “Sai quanto mi è costata?!”.
 
 DOm                 MIb             SIb
@@ -95,7 +96,7 @@ Sappiamo come ci si sente quando la luce poi si spegne
 se dopo il cielo non c’è nientE
 MIb         SIb
 restano qui tutte le paure che hai.
-               DOm                        MIb            
+               DOm                        MIb
 Chissà se sarà vero che la vita è come un treno
                  SIb                       FA
 e forse a quanto pare a noi ci ha preso in pieno.
@@ -109,12 +110,12 @@ Ed illuso che alla fine a certi stronzi pensi il karma,
 ho cercato su Facebook il profilo del ricciolino.
               LAb                       SIb
 Lo immaginavo con dei precedenti, senza denti,
-            
-invece è in forma, anzi ha una moglie figa, un buon lavoro 
 
-e un bel bambino. 
+invece è in forma, anzi ha una moglie figa, un buon lavoro
+
+e un bel bambino.
 DOm                            FA
-Nella lista dei suoi amici c’è chi pensavo lo schifasse, 
+Nella lista dei suoi amici c’è chi pensavo lo schifasse,
 DOm                          FA
 il mio primo amico, il primo amore e la mia classe.
        DOm                       FA
@@ -122,7 +123,7 @@ Pubblica le foto in birreria col sindaco ed il prete
         DOm                     FA
 qualche s... ci commenta sotto: sei il più bello del paese!
 
-[…] 
+[…]
        DOm                      FA
 E dopo tutti questi anni zio la cosa che mi infoia
       DOm                        FA
@@ -145,7 +146,7 @@ Sappiamo come ci si sente quando la luce poi si spegne
 se dopo il cielo non c’è niente
 MIb         SIb
 restano qui tutte le paure che hai.
-               DOm                        MIb            
+               DOm                        MIb
 Chissà se sarà vero che la vita è come un treno
                  SIb                       FA
 e forse a quanto pare a noi ci ha preso in pieno.

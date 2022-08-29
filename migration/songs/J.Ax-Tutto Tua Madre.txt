@@ -1,9 +1,10 @@
+{{ ARTIST = J-Ax }}
 {{ CATEGORY = 2 }}
 {{ KEY = DO }}
 Intro:
        FA  SOL6  LAm7  DO DO/MI
 
-       FA  SOL6  LAm  
+       FA  SOL6  LAm
     La vita no non è uno scherzo
 
     Ma ha la sua ironia
@@ -18,11 +19,11 @@ Intro:
   LAm                                    SOL
     Ma adesso asciugo tutti con la tua fotografia
 
-  DO                          MIm   
+  DO                          MIm
     Avevo perduto fiducia nel mondo
                              LAm7
     Senza nemmeno rendermene conto
-                              
+
     Il lavoro andava a gonfie vele
                 SOL                    DO
     La casa una barca che andava giù a fondo
@@ -32,7 +33,7 @@ Intro:
     Ma dopo l'ha perso
        LAm
     Io paralizzato come un brutto sogno
-                                
+
     Mentre lei piangeva e cadeva in ginocchio
   FA                          SOL6                   LAm7
     E in quel momento mi si è rotto qualche cosa dentro
@@ -45,7 +46,7 @@ Intro:
 
     Perché sei una magia
 
-  DO          MIm    
+  DO          MIm
     E ti porterò lontano
   LAm7                 SOL   DO
     Con la forza di un missile
@@ -59,9 +60,9 @@ Intro:
     E ho buttato tutte le pare
            SOL                  LAm7
     Per fortuna assomigli a tua madre
-     
+
     Per fortuna sei tutto tua madre
-     
+
   DO
     Quand'è che ci fate un figlio?
   MIm
@@ -74,7 +75,7 @@ Intro:
     Avevo perso da mò la speranza
                                   LAm7
     Non sopportavo più tutto quel dramma
-       
+
     Ad avere coraggio ci pensava mamma
                                  DO
     Tra medicine e le punture in pancia
@@ -102,10 +103,10 @@ Intro:
     Sei nato a febbraio lo stesso giorno del nonno
   FA                  SOL6                     LAm
     Mamma incredula temeva che fosse un miraggio
-                                     
+
     E i primi mesi ti ha tenuto giorno e notte in braccio
 
-  DO          MIm    
+  DO          MIm
     E ti porterò lontano
   LAm7                 SOL   DO
     Con la forza di un missile
@@ -119,16 +120,16 @@ Intro:
     E ho buttato tutte le pare
            SOL                  LAm7
     Per fortuna assomigli a tua madre
-     
+
     Per fortuna sei tutto tua madre
-     
-  REm 
+
+  REm
     Da mamma hai preso il nasino
-  REm/DO          
+  REm/DO
     La forma degli occhi e del viso
         FA
     E l'abilità di cambiarmi l'umore
- 
+
     Soltanto facendo un sorriso
                REm7
     Quando non dormi mai fino al mattino
@@ -140,8 +141,8 @@ Intro:
     Quelle le hai prese da me
                     DO
     Le hai prese da me
-     
-              MIm    
+
+              MIm
     E ti porterò lontano
   LAm7                 SOL   DO
     Con la forza di un missile
