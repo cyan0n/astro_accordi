@@ -27,6 +27,14 @@ const readSong = async (song_path) => {
   };
   let key = 0;
   (await fs.readFile(song_path, "utf8")).split("\n").forEach((line) => {
+    if (parser.isTitle(line)) {
+      song.title = parser.title(line);
+      return;
+    }
+    if (parser.isArtist(line)) {
+      song.artist = parser.artist(line);
+      return;
+    }
     if (parser.isCategory(line)) {
       const category_split = parser.category(line).split(".");
       song.category = category_split[0];

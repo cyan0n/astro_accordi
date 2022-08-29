@@ -23,6 +23,14 @@ const categoryRx = new RegExp(
   `(?<=^\\s*{{\\s*CATEGORY\\s*=\\s*)(?:\\d+(\\.\\d)?)(?=\\s*}}\\s*$)`,
   "g",
 );
+const titleRx = new RegExp(
+  `(?<=^\\s*{{\\s*TITLE\\s*=\\s*)(?:.+)(?=\\s*}}\\s*$)`,
+  "g",
+);
+const artistRx = new RegExp(
+  `(?<=^\\s*{{\\s*ARTIST\\s*=\\s*)(?:.+)(?=\\s*}}\\s*$)`,
+  "g",
+);
 const tabLineRx = new RegExp(
   `^(\\s*(?:${tones.join(
     "|",
@@ -53,6 +61,16 @@ module.exports = {
       return false;
     }
     return categoryRx.exec(line)[0];
+  },
+  isTitle: (line) => line.match(titleRx) !== null,
+  title: (line) => {
+    if (line.match(titleRx) === null) return false;
+    return titleRx.exec(line)[0].trim();
+  },
+  isArtist: (line) => line.match(artistRx) !== null,
+  artist: (line) => {
+    if (line.match(artistRx) === null) return false;
+    return artistRx.exec(line)[0].trim();
   },
   isKey: (line) => line.match(keyRx) !== null,
   key: (line) => {
