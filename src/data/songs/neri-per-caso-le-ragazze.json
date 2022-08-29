@@ -1,0 +1,1363 @@
+{
+  "title": "Le Ragazze",
+  "artist": "Neri per Caso",
+  "slug": "neri-per-caso-le-ragazze",
+  "category": null,
+  "sub_category": null,
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "          ",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "              ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "          ",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "1. Le ragazze si lanciano ad occhi chiusi nelle avventure\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "     ",
+          "tone": "FA",
+          "mod": "7+",
+          "value": 5
+        },
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "qualche volta confondono la bugia e la verità\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "6",
+          "value": 2
+        },
+        {
+          "padding": "          ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "seguono l’istinto e l’istinto le aiuterà\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "7+",
+          "value": 5
+        },
+        {
+          "padding": "        ",
+          "tone": "FA",
+          "mod": "6",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sono treni in corsa\r"
+    },
+    {
+      "type": "lyric",
+      "lyric": "MI74.            MI7\r"
+    },
+    {
+      "type": "lyric",
+      "lyric": "che nessuno fermerà.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "          ",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "          ",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "2. Le ragazze decidono il destino dei loro amori\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "      ",
+          "tone": "FA",
+          "mod": "7+",
+          "value": 5
+        },
+        {
+          "padding": "          ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "i ragazzi s’illudono ma non contano un gran che...\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "6",
+          "value": 2
+        },
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "quando ti sorridono è probabile che sia un sì\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "                    ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ma quando si allontanano è no! e tu..."
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Rit. Ci devi stare,\r"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 6
+        },
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "7",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "inutile sperare di recuperare\r"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "se hanno detto no\r"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "meglio sparire \r"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "non telefonare\r"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "              ",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "7/4",
+          "value": 1
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "7",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "per sentirsi dire un’altra volta “no”\r"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 6
+        },
+        {
+          "padding": "               ",
+          "tone": "LA",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "come se non t’importasse più\r"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "6",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "senza farti mai vedere giù\r"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "      ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "si può amare da morire\r"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ma morire d’amore no!"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "             ",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "          ",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "3. Le ragazze che ispirano tutti i testi delle canzoni\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "      ",
+          "tone": "FA",
+          "mod": "7+",
+          "value": 5
+        },
+        {
+          "padding": "         ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sono sempre al centro dei discorsi di tutti noi\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "6",
+          "value": 2
+        },
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "che non conosciamo nemmeno la metà\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "mod": "7+",
+          "value": 5
+        },
+        {
+          "padding": "         ",
+          "tone": "FA",
+          "mod": "6",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "di tutto quel che pensano\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "mod": "7/4",
+          "value": 4
+        },
+        {
+          "padding": "         ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e dei segreti che ognuna ha.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "          ",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "         ",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "4. Le ragazze volteggiano sulle ali degli aquiloni\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "         ",
+          "tone": "FA",
+          "mod": "7+",
+          "value": 5
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e noi innamorati che le seguiamo da quaggiù\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "6",
+          "value": 2
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "guarda come planano...  qualcuna scenderà\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "                    ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ma quando si allontanano è no!  e tu..."
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Rit. Ci devi stare,\r"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 6
+        },
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "7",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "inutile sperare di recuperare\r"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "se hanno detto no\r"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "meglio sparire \r"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "non telefonare\r"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "              ",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "7/4",
+          "value": 1
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "7",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "per sentirsi dire un’altra volta “no”\r"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 6
+        },
+        {
+          "padding": "              ",
+          "tone": "LA",
+          "mod": "7/4",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "come se non t’importasse più\r"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "6",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "senza farti mai vedere giù\r"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "      ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "si può amare da morire\r"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ma morire d’amore no!"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "5. Le ragazze che sfidano le opinioni della gente\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "       ",
+          "tone": "FA",
+          "mod": "7+",
+          "value": 5
+        },
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "hanno gli occhi limpidi di chi dice la verità\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "6",
+          "value": 2
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "senza compromessi né mezze misure\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "7+",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sono più sincere"
+    },
+    {
+      "type": "tablature",
+      "key": 9,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "              ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "le ragazze della nostra età."
+    }
+  ]
+}

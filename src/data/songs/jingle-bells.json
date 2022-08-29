@@ -1,7 +1,8 @@
 {
   "title": "Jingle Bells",
   "slug": "jingle-bells",
-  "category": "5",
+  "category": null,
+  "sub_category": null,
   "lines": [
     {
       "type": "empty"

@@ -1,0 +1,1240 @@
+{
+  "title": "Perfect",
+  "artist": "Ed Sheeran",
+  "slug": "ed-sheeran-perfect",
+  "category": null,
+  "sub_category": null,
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "     ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I found a love for me"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "add9",
+          "value": 1
+        },
+        {
+          "padding": "                    ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Darling, just dive right in and follow my lead"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "        ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Well, I found a girl, beautiful and sweet"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "add9",
+          "value": 1
+        },
+        {
+          "padding": "                              ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh, I never knew you were the someone waiting for me"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "                                 ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "'Cause we were just kids when we fell in love"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Not knowing what it was"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "add9",
+          "value": 1
+        },
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I will not give you up this time"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "                  ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "But darling, just kiss me slow"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Your heart is all I own"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "add9",
+          "value": 1
+        },
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And in your eyes you're holding mine"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "add9",
+          "value": 1
+        },
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Baby, I'm dancing in the dark"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "           ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "With you between my arms"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "add9",
+          "value": 1
+        },
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Barefoot on the grass"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "             ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Listening to our favourite song"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "add9",
+          "value": 1
+        },
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "When you said you looked a mess"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "          ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I whispered underneath my breath"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "But you heard it,"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Darling, you look perfect.."
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "tonight"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "                 ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Well, I found a woman, stronger than anyone I know"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "add9",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "She shares my dreams"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "                                   ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I hope that someday I'll share her home"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "           ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I found a love to carry more than just my secrets"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "add9",
+          "value": 1
+        },
+        {
+          "padding": "                       ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "To carry love, to carry children of our own"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "                            ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "We are still kids but we're so in love"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Fighting against all odds"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "            ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I know we'll be alright this time"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Darling, just hold my hand"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Be my girl, I'll be your man"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I see my future in your eyes"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "add9",
+          "value": 1
+        },
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Baby, I'm dancing in the dark"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "           ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "With you between my arms"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "add9",
+          "value": 1
+        },
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Barefoot on the grass"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "             ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Listening to our favourite song"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "add9",
+          "value": 1
+        },
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "When I saw you in that dress"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Looking so beautiful"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "add9",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I don't deserve this"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Darling, you look perfect tonight"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "add9",
+          "value": 1
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "add9",
+          "value": 1
+        },
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Baby, I'm dancing in the dark"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "           ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "With you between my arms"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "add9",
+          "value": 1
+        },
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Barefoot on the grass"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "             ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Listening to our favourite song"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "            ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I have faith in what I see"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "        ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        },
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Now I know I have met an angel in person"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And she looks perfect"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "add9",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I don't deserve this"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "You look perfect.."
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "tonight"
+    },
+    {
+      "type": "empty"
+    }
+  ]
+}

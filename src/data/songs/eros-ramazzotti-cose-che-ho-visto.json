@@ -1,0 +1,882 @@
+{
+  "title": "Cose Che Ho Visto",
+  "artist": "Eros Ramazzotti",
+  "slug": "eros-ramazzotti-cose-che-ho-visto",
+  "category": null,
+  "sub_category": null,
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "         ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "1. Ho visto gente invecchiare da sola\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ho visto vendere davanti alla scuola\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ho visto una vita, una vita che inizia\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "buttata in un sacco come fosse immondizia.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "         ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "2. Ho visto l’aria arroventata dal piombo\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "          ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e terre assetate in troppe parti del mondo\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "non è da molto che io vivo, che esisto\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "eppure ti giuro sono cose che ho visto.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "                     ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "                ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Rit. Chiedo solo che intorno a me la gente sia più vera.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "                   ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "               ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Questo al di là di ogni età ideologia o bandiera.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Chiedo solo che, che si faccia poi \r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "     ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "insieme qualcosa perché finiscano presto\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "le cose che ho visto."
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "           ",
+          "tone": "MI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "       ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "2. Ho visto il cielo diventare pesante\r"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "coperto dall’ombra di una nube gigante\r"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "MI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "        ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "     ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ho visto l’acqua che nessuno può bere\r"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "MI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "        ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ho visto e mai avrei voluto vedere.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "                   ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "               ",
+          "tone": "MI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Rit. Spero solo che sopra di me la gente che comanda\r"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "                      ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sappia quel che fa e se lo fa almeno ci risponda\r"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "            ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "              ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "spero solo che, che la gioventù futura\r"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "7",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "non veda mai più nemmeno in tivù  \r"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "le cose che ho visto."
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "3. E mi domando cosa si deve fare\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "di certo lottare e non solo parlare\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "         ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "per fare finire far cessare l’orrore\r"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "mi chiedo se può bastare solo l’amore."
+    }
+  ]
+}

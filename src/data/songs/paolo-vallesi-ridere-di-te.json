@@ -1,0 +1,1947 @@
+{
+  "title": "Ridere di Te",
+  "artist": "Paolo Vallesi",
+  "slug": "paolo-vallesi-ridere-di-te",
+  "category": null,
+  "sub_category": null,
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "4",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "7+",
+          "value": 1
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "add9",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7/4",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "6",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " Con i ragazzi va così"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "        ",
+          "tone": "FA",
+          "mod": "7",
+          "separator": "/",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " non va mai bene come sei"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "add9",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " e anche se dici ancora sì,"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7/5-",
+          "value": 2
+        },
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "add9",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sognano sempre un'altra lei"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "11",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e ridono di te"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7",
+          "value": 3
+        },
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "che non ti difendi mai"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "6",
+          "value": 3
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "con i ragazzi va così"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "FA",
+          "mod": "7",
+          "value": 5
+        },
+        {
+          "padding": "      ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ma quando escono con te "
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "add9",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sono gli interpreti di un film"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7/5-",
+          "value": 2
+        },
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "add9",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e tu sei in trappola perché"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "      ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "11",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ti sei già innamora----ta"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "add9",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Prendila com'è"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": " ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "amica mia non devi farli"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        },
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ridere di te"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ma questo non vuol dire odiarli"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "add9",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "pensaci perché   nessuno deve"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "add9",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ridere di te"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "lasciarsi andare non conviene"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        },
+        {
+          "padding": "         ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "non lo vedi che  stai male"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "e non ti vuoi più bene"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "add9",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "11",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ridere  di te     nessuno deve"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "     ",
+          "tone": "FA",
+          "mod": "",
+          "separator": "/",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "    ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "FA",
+          "mod": "6",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " Con i ragazzi va così"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "mod": "7",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " e mangi per la nostalgia"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "separator": "/",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "add9",
+          "separator": "/",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " e poi non entri più nei Jeans"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7/5-",
+          "value": 4
+        },
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e ti racconti una bugia che non troverai"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "11",
+          "value": 5
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "mod": "7",
+          "value": 5
+        },
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " chi ti vuole bene ormai"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "FA",
+          "mod": "",
+          "separator": "/",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "con i ragazzi è un vecchio film"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "mod": "7",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "           ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "FA",
+          "mod": "",
+          "separator": "/",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " lo so perché l'ho fatto anch'io..."
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "add9",
+          "separator": "/",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "non devi prenderla così"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7/5-",
+          "value": 4
+        },
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "nessuno mai sarà il tuo Dio"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "FA",
+          "mod": "11",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e non sei tu che sei sbagliata"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "         ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "add9",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Prendila com'è"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": " ",
+          "tone": "FA",
+          "mod": "",
+          "separator": "/",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "amica mia non devi farli"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "7/9",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ridere di te"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "                    ",
+          "tone": "FA",
+          "mod": "6",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "però è un errore anche imitarli"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "add9",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "mod": "11",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "pensaci perché      nessuno deve"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "      ",
+          "tone": "DO",
+          "mod": "add9",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ridere di te"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "l'amore è sempre un po' crudele"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7/9",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "non lo senti che      "
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "stai male e non ti vuoi più bene"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ma ridere di te"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        },
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "separator": "/",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "7",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " nessuno deve..."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 0,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "add9",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "7",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "7/4",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "      ",
+          "tone": "RE",
+          "mod": "add9",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ridere di te"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "                 ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Amica mia non devi farli ridere di te"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "però è un errore anche imitarli "
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "      ",
+          "tone": "RE",
+          "mod": "add9",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "pensaci perché   nessuno deve ridere di te"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "                     ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "lasciarsi andare non conviene non lo senti che"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "stai male e non ti vuoi più bene"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "      ",
+          "tone": "RE",
+          "mod": "add9",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ridere di te    nessuno deve ridere di te..."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "7",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "value": 9
+        }
+      ]
+    }
+  ]
+}

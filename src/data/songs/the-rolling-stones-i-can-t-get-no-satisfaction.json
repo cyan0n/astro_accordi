@@ -2,8 +2,8 @@
   "title": "(I Can't Get No) Satisfaction",
   "artist": "The Rolling Stones",
   "slug": "the-rolling-stones-i-can-t-get-no-satisfaction",
-  "category": "1",
-  "sub_category": "2",
+  "category": null,
+  "sub_category": null,
   "lines": [
     {
       "type": "empty"
@@ -17,87 +17,83 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
-          "padding": "     ",
-          "tone": "DO",
+          "padding": "",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "",
-          "tone": "SI",
-          "semi": "b",
-          "mod": "",
-          "separator": "/",
-          "value": 10
-        },
-        {
-          "padding": "",
-          "tone": "FA",
-          "mod": "",
-          "value": 5
-        },
-        {
-          "padding": "",
-          "tone": "DO",
-          "mod": "",
-          "value": 0
-        },
-        {
-          "padding": "",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
         }
       ]
     },
@@ -106,19 +102,19 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "             ",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -128,19 +124,19 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "             ",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -150,31 +146,31 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "         ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "      ",
-          "tone": "SOL",
+          "tone": "SI",
           "mod": "7",
-          "value": 7
+          "value": 11
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
         },
         {
           "padding": "      ",
-          "tone": "DO",
+          "tone": "LA",
           "mod": "",
-          "value": 0
-        },
-        {
-          "padding": "      ",
-          "tone": "FA",
-          "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -184,27 +180,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "        ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "   ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -214,27 +209,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "        ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "   ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -247,27 +241,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "         ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "          ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -277,27 +270,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "      ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "             ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -307,27 +299,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "         ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "                ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -337,27 +328,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "           ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "         ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -367,27 +357,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "            ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "          ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -397,33 +386,32 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "        ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "     ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         },
         {
           "padding": "        ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         }
       ]
     },
@@ -433,61 +421,58 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         },
         {
           "padding": "     ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": " ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         },
         {
           "padding": "            ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": " ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -500,19 +485,19 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "             ",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -522,19 +507,19 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "             ",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -544,31 +529,31 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "         ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "      ",
-          "tone": "SOL",
+          "tone": "SI",
           "mod": "7",
-          "value": 7
+          "value": 11
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
         },
         {
           "padding": "      ",
-          "tone": "DO",
+          "tone": "LA",
           "mod": "",
-          "value": 0
-        },
-        {
-          "padding": "      ",
-          "tone": "FA",
-          "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -578,27 +563,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "        ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "   ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -608,27 +592,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "        ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "   ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -641,27 +624,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "         ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "        ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -671,27 +653,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "      ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "            ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -701,27 +682,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "    ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "                ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -731,27 +711,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "       ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "                     ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -761,27 +740,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "    ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "               ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -791,33 +769,32 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "        ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "     ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         },
         {
           "padding": "        ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         }
       ]
     },
@@ -827,61 +804,58 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         },
         {
           "padding": "     ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": " ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         },
         {
           "padding": "            ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": " ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -894,19 +868,19 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "             ",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -916,19 +890,19 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "             ",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -938,31 +912,31 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "         ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "      ",
-          "tone": "SOL",
+          "tone": "SI",
           "mod": "7",
-          "value": 7
+          "value": 11
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
         },
         {
           "padding": "      ",
-          "tone": "DO",
+          "tone": "LA",
           "mod": "",
-          "value": 0
-        },
-        {
-          "padding": "      ",
-          "tone": "FA",
-          "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -972,27 +946,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "        ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "   ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -1002,27 +975,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "        ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "   ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -1035,27 +1007,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "         ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "             ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -1065,27 +1036,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "        ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "               ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -1095,27 +1065,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "        ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "                ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -1125,27 +1094,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "             ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "                  ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -1155,27 +1123,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "           ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "         ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -1185,33 +1152,32 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "        ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "     ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         },
         {
           "padding": "        ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         }
       ]
     },
@@ -1221,61 +1187,58 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         },
         {
           "padding": "     ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": " ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         },
         {
           "padding": "            ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": " ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -1288,27 +1251,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "        ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "   ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -1318,27 +1280,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "        ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "   ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -1348,27 +1309,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "        ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "   ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -1378,27 +1338,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "     ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "   ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -1408,27 +1367,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "        ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "   ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -1438,27 +1396,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "        ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         },
         {
           "padding": "   ",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "RE",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "LA",
           "mod": "",
-          "value": 5
+          "value": 9
         }
       ]
     },
@@ -1468,13 +1425,13 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 4,
       "tabs": [
         {
           "padding": "        ",
-          "tone": "DO",
+          "tone": "MI",
           "mod": "",
-          "value": 0
+          "value": 4
         }
       ]
     },

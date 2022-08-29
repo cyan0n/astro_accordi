@@ -1,0 +1,1115 @@
+{
+  "title": "Oh Happy Day",
+  "slug": "oh-happy-day",
+  "category": null,
+  "sub_category": null,
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh, happy day (Oh, happy day)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "           ",
+          "tone": "FA",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh, happy day (Oh, happy day)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "When Jesus washed (When Jesus washed)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh, when He washed (When Jesus washed)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "When Jesus washed (When Jesus washed)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "He washed my sins away (Oh, happy day)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "                 ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh, happy day (Oh, happy day)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "                 ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh, happy day (Oh, happy day)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "                 ",
+          "tone": "FA",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh, happy day (Oh, happy day)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "When Jesus washed (When Jesus washed)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh, when He washed (When Jesus washed)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "When Jesus washed (When Jesus washed)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "He washed my sins away (Oh, happy day)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "                 ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh, it's a happy day (Oh, happy day)"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "He taught me how (He taught me how)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "            ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "To watch and fight and pray"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Watch and pray"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And live rejoicing every day"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Every   day"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh, happy day (Oh, happy day)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "           ",
+          "tone": "FA",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh, happy day (Oh, happy day)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "When Jesus washed (When Jesus washed)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh, when He washed (When Jesus washed)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "When Jesus washed (When Jesus washed)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "           ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "He washed my sins away (Oh, happy day)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "                 ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh, happy day (Oh, happy day)"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "He taught me how (He taught me how)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "            ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "To watch and fight and pray"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Watch and pray"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And live rejoicing every  day"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Every day"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "7",
+          "value": 8
+        },
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "7",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh, happy day (Oh, happy day)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "7",
+          "value": 8
+        },
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "7",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh, happy day (Oh, happy day)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "7",
+          "value": 8
+        },
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "7",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh, happy day (Oh, happy day)"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "7",
+          "value": 8
+        },
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "7",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh, happy day (Oh, happy day)..."
+    }
+  ]
+}

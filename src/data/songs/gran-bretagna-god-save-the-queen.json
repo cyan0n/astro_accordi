@@ -2,7 +2,8 @@
   "title": "God Save The Queen",
   "artist": "Gran Bretagna",
   "slug": "gran-bretagna-god-save-the-queen",
-  "category": "4",
+  "category": null,
+  "sub_category": null,
   "lines": [
     {
       "type": "empty"
@@ -19,7 +20,7 @@
       "key": 0,
       "tabs": [
         {
-          "padding": "       ",
+          "padding": "",
           "tone": "DO",
           "mod": "",
           "value": 0
@@ -59,7 +60,7 @@
       "key": 0,
       "tabs": [
         {
-          "padding": "       ",
+          "padding": "",
           "tone": "DO",
           "mod": "",
           "value": 0
@@ -106,7 +107,7 @@
       "key": 0,
       "tabs": [
         {
-          "padding": "       ",
+          "padding": "",
           "tone": "FA",
           "mod": "6",
           "value": 5

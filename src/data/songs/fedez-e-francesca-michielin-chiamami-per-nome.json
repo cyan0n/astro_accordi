@@ -1,0 +1,1272 @@
+{
+  "title": "Chiamami per Nome",
+  "artist": "Fedez e Francesca Michielin",
+  "slug": "fedez-e-francesca-michielin-chiamami-per-nome",
+  "category": null,
+  "sub_category": null,
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "               ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " Oggi ho una maglia che non mi dona"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "             ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "          ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " Corro nel parco della mia zona"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma vorrei dirti non ho paura"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "             ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " Vivere un sogno porta fortuna"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "La tua rabbia non vince"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Certi inizi non si meritano nemmeno una fine"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma la tua bocca mi convince"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Un bacio alla volta"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Come sassi contro le vetrine"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        },
+        {
+          "padding": "                    ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Le mie scuse erano mille, mille"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E nel cuore sento, spille spille"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Prova a toglierle tu baby"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Tu baby"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": "           ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Chiamami per nome"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Solo quando avrò"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "            ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Perso le parole"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "So che in fondo ti ho stupito arrivando qui da sola"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Restando in piedi con un nodo alla gola"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "              ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Chiamami per nome"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        },
+        {
+          "padding": "                     ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Perché in fondo qui sull’erba siamo mille, mille"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Sento tutto sulla pelle, pelle"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma vedo solo te baby"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Te baby"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "In ascensore spreco un segno della croce e quindi?"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "So bene come dare il peggio non darmi consigli"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Cerco un veleno che non mi scenda mai"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ho un angelo custode sadico"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Trovo una scusa ma che cosa cambierà?"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "La grande storia banale"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Prima prosciughiamo il mare"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Poi versiamo lacrime"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Per poterlo ricolmare"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        },
+        {
+          "padding": "                  ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Le promesse erano mille mille"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma nel cuore sento spille spille"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "                      ",
+          "tone": "FA",
+          "mod": "6",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Prova a toglierle tu baby tu baby"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": "           ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "add9",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Chiamami per nome"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Solo quando avrò"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "            ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Perso le parole"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "So che in fondo ti ho stupito venendo qui da solo"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Guidando al buio piango come uno scemo"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "              ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Chiamami per nome"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        },
+        {
+          "padding": "                    ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Perché in fondo qui sull’erba siamo mille mille"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Sento tutto sulla pelle, pelle"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma vedo solo te baby"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Te baby"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " Mi sembra di morire "
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "                           ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "quando parli di me in un modo che odio"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Aiutami a capire "
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "se alla fine di me vedi solo il buono"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "                   ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " Sotto questo temporale"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                      ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Piove sulla cattedrale"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Rinunceremo all’oro"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Scambiandolo per pane"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": "           ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "add9",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Chiamami per nome"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Solo quando avrò"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "           ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Perso le parole"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "So che in fondo"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "                            ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ci ha stupiti finire qui da soli in questo posto"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma se poi non mi trovi"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "              ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Chiamami per nome"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        },
+        {
+          "padding": "                     ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Perché in fondo qui sull’erba siamo mille, mille"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Sento tutto sulla pelle, pelle"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma vedo solo te baby"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Te baby"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7+",
+          "value": 3
+        },
+        {
+          "padding": "                 ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Le promesse sono mille mille"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma non serve siano mille"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ora che ho solo te baby"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Te baby"
+    }
+  ]
+}

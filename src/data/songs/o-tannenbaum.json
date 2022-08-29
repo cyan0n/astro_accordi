@@ -1,7 +1,8 @@
 {
   "title": "O Tannenbaum",
   "slug": "o-tannenbaum",
-  "category": "5",
+  "category": null,
+  "sub_category": null,
   "lines": [
     {
       "type": "empty"

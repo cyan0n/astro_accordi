@@ -2,8 +2,8 @@
   "title": "Sunday Bloody Sunday",
   "artist": "U2",
   "slug": "u2-sunday-bloody-sunday",
-  "category": "6",
-  "sub_category": "1",
+  "category": null,
+  "sub_category": null,
   "lines": [
     {
       "type": "empty"
@@ -13,45 +13,45 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
-          "padding": "       ",
-          "tone": "LA",
+          "padding": "",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         },
         {
-          "padding": "   ",
-          "tone": "LA",
+          "padding": "    ",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -60,26 +60,26 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "      ",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "             ",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -89,26 +89,26 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "        ",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "              ",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -118,13 +118,13 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         }
       ]
     },
@@ -134,14 +134,14 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "RE",
+          "tone": "MI",
           "minor": "m",
           "mod": "",
-          "value": 2
+          "value": 4
         }
       ]
     },
@@ -151,20 +151,20 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "       ",
-          "tone": "RE",
+          "tone": "MI",
           "minor": "m",
           "mod": "",
-          "value": 2
+          "value": 4
         }
       ]
     },
@@ -174,45 +174,45 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "         ",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         },
         {
-          "padding": "                ",
-          "tone": "LA",
+          "padding": "                 ",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -225,26 +225,26 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "   ",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "          ",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -254,26 +254,26 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "   ",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "              ",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -283,26 +283,26 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "        ",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "            ",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -312,26 +312,26 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "   ",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -344,119 +344,115 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
-          "minor": "m",
-          "mod": "",
-          "value": 9
-        },
-        {
-          "padding": "",
-          "tone": "DO",
-          "mod": "",
-          "value": 0
-        },
-        {
-          "padding": "        ",
-          "tone": "FA",
-          "mod": "",
-          "value": 5
-        }
-      ]
-    },
-    {
-      "type": "lyric",
-      "lyric": " Sunday, bloody Sunday"
-    },
-    {
-      "type": "tablature",
-      "key": 5,
-      "tabs": [
-        {
-          "padding": "",
-          "tone": "LA",
-          "minor": "m",
-          "mod": "",
-          "value": 9
-        },
-        {
-          "padding": "",
-          "tone": "DO",
-          "mod": "",
-          "value": 0
-        },
-        {
-          "padding": "        ",
-          "tone": "FA",
-          "mod": "",
-          "value": 5
-        }
-      ]
-    },
-    {
-      "type": "lyric",
-      "lyric": " Sunday, bloody Sunday"
-    },
-    {
-      "type": "tablature",
-      "key": 5,
-      "tabs": [
-        {
-          "padding": "",
-          "tone": "MI",
-          "semi": "b",
-          "mod": "",
-          "value": 3
-        },
-        {
-          "padding": " ",
           "tone": "SI",
-          "semi": "b",
+          "minor": "m",
           "mod": "",
-          "separator": "/",
-          "value": 10
+          "value": 11
         },
         {
           "padding": "",
           "tone": "RE",
           "mod": "",
           "value": 2
+        },
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " Sunday, bloody Sunday"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "minor": "m",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " Sunday, bloody Sunday"
+    },
+    {
+      "type": "tablature",
+      "key": 2,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
         },
         {
           "padding": "     ",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "  ",
-          "tone": "MI",
-          "semi": "b",
+          "tone": "FA",
           "mod": "",
-          "value": 3
+          "value": 5
         },
         {
           "padding": "",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "DO",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
         },
         {
           "padding": "",
           "tone": "RE",
           "mod": "",
           "value": 2
-        },
-        {
-          "padding": "",
-          "tone": "DO",
-          "mod": "",
-          "value": 0
         }
       ]
     },
@@ -469,45 +465,45 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         },
         {
-          "padding": "  ",
-          "tone": "LA",
+          "padding": "   ",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -516,26 +512,26 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "    ",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "            ",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -545,26 +541,26 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "         ",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "              ",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -574,26 +570,26 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "         ",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "           ",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -603,26 +599,26 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "         ",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "                ",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -635,26 +631,26 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "        ",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -664,26 +660,26 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "        ",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -693,13 +689,13 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         }
       ]
     },
@@ -709,14 +705,14 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "RE",
+          "tone": "MI",
           "minor": "m",
           "mod": "",
-          "value": 2
+          "value": 4
         }
       ]
     },
@@ -726,20 +722,20 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "       ",
-          "tone": "RE",
+          "tone": "MI",
           "minor": "m",
           "mod": "",
-          "value": 2
+          "value": 4
         }
       ]
     },
@@ -749,45 +745,45 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "         ",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         },
         {
-          "padding": "               ",
-          "tone": "LA",
+          "padding": "                ",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -800,45 +796,45 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         },
         {
-          "padding": "  ",
-          "tone": "LA",
+          "padding": "   ",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -847,45 +843,45 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         },
         {
-          "padding": "  ",
-          "tone": "LA",
+          "padding": "   ",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -894,45 +890,45 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         },
         {
-          "padding": "               ",
-          "tone": "LA",
+          "padding": "                ",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": " ",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -942,26 +938,26 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "            ",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": " ",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -971,26 +967,26 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "            ",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": " ",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -1000,26 +996,26 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "            ",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": " ",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -1032,61 +1028,57 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "MI",
-          "semi": "b",
+          "tone": "FA",
           "mod": "",
-          "value": 3
-        },
-        {
-          "padding": " ",
-          "tone": "SI",
-          "semi": "b",
-          "mod": "",
-          "separator": "/",
-          "value": 10
+          "value": 5
         },
         {
           "padding": "",
-          "tone": "RE",
+          "tone": "DO",
           "mod": "",
-          "value": 2
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
         },
         {
           "padding": "     ",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "  ",
-          "tone": "MI",
-          "semi": "b",
+          "tone": "FA",
           "mod": "",
-          "value": 3
+          "value": 5
         },
         {
           "padding": "",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "DO",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
         },
         {
           "padding": "",
           "tone": "RE",
           "mod": "",
           "value": 2
-        },
-        {
-          "padding": "",
-          "tone": "DO",
-          "mod": "",
-          "value": 0
         }
       ]
     },
@@ -1096,61 +1088,57 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "MI",
-          "semi": "b",
+          "tone": "FA",
           "mod": "",
-          "value": 3
-        },
-        {
-          "padding": " ",
-          "tone": "SI",
-          "semi": "b",
-          "mod": "",
-          "separator": "/",
-          "value": 10
+          "value": 5
         },
         {
           "padding": "",
-          "tone": "RE",
+          "tone": "DO",
           "mod": "",
-          "value": 2
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
         },
         {
           "padding": "     ",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "  ",
-          "tone": "MI",
-          "semi": "b",
+          "tone": "FA",
           "mod": "",
-          "value": 3
+          "value": 5
         },
         {
           "padding": "",
-          "tone": "SI",
-          "semi": "b",
+          "tone": "DO",
           "mod": "",
           "separator": "/",
-          "value": 10
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
         },
         {
           "padding": "",
           "tone": "RE",
           "mod": "",
           "value": 2
-        },
-        {
-          "padding": "",
-          "tone": "DO",
-          "mod": "",
-          "value": 0
         }
       ]
     },
@@ -1163,45 +1151,45 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         },
         {
-          "padding": "  ",
-          "tone": "LA",
+          "padding": "   ",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -1210,26 +1198,26 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "     ",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "          ",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -1239,26 +1227,26 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "         ",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "          ",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -1268,26 +1256,26 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "   ",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "          ",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -1297,26 +1285,26 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "       ",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "          ",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -1326,26 +1314,26 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "     ",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "          ",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -1355,26 +1343,26 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "         ",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "          ",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -1387,26 +1375,26 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "        ",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         }
       ]
     },
@@ -1416,33 +1404,33 @@
     },
     {
       "type": "tablature",
-      "key": 5,
+      "key": 2,
       "tabs": [
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
           "mod": "",
-          "value": 0
+          "value": 2
         },
         {
           "padding": "        ",
-          "tone": "FA",
+          "tone": "SOL",
           "mod": "",
-          "value": 5
+          "value": 7
         },
         {
-          "padding": "    ",
-          "tone": "LA",
+          "padding": "     ",
+          "tone": "SI",
           "minor": "m",
           "mod": "",
-          "value": 9
+          "value": 11
         }
       ]
     },

@@ -2,7 +2,8 @@
   "title": "Pianeti",
   "artist": "Ultimo",
   "slug": "ultimo-pianeti",
-  "category": "2",
+  "category": null,
+  "sub_category": null,
   "lines": [
     {
       "type": "empty"
@@ -12,14 +13,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "MI",
+          "tone": "FA",
           "minor": "m",
           "mod": "",
-          "value": 4
+          "value": 5
         }
       ]
     },
@@ -29,13 +30,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
+          "semi": "b",
           "mod": "",
-          "value": 0
+          "value": 1
         }
       ]
     },
@@ -45,13 +47,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "SOL",
+          "tone": "LA",
+          "semi": "b",
           "mod": "",
-          "value": 7
+          "value": 8
         }
       ]
     },
@@ -61,21 +64,21 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "RE",
+          "tone": "MI",
+          "semi": "b",
           "mod": "",
           "separator": "/",
-          "value": 2
+          "value": 3
         },
         {
           "padding": "",
-          "tone": "FA",
-          "semi": "#",
+          "tone": "SOL",
           "mod": "",
-          "value": 6
+          "value": 7
         }
       ]
     },
@@ -85,14 +88,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "MI",
+          "tone": "FA",
           "minor": "m",
           "mod": "",
-          "value": 4
+          "value": 5
         }
       ]
     },
@@ -102,13 +105,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
+          "semi": "b",
           "mod": "",
-          "value": 0
+          "value": 1
         }
       ]
     },
@@ -118,13 +122,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "SOL",
+          "tone": "LA",
+          "semi": "b",
           "mod": "",
-          "value": 7
+          "value": 8
         }
       ]
     },
@@ -134,21 +139,21 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "RE",
+          "tone": "MI",
+          "semi": "b",
           "mod": "7",
           "separator": "/",
-          "value": 2
+          "value": 3
         },
         {
           "padding": "",
-          "tone": "FA",
-          "semi": "#",
+          "tone": "SOL",
           "mod": "",
-          "value": 6
+          "value": 7
         }
       ]
     },
@@ -158,14 +163,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "MI",
+          "tone": "FA",
           "minor": "m",
           "mod": "",
-          "value": 4
+          "value": 5
         }
       ]
     },
@@ -175,13 +180,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
+          "semi": "b",
           "mod": "add9",
-          "value": 0
+          "value": 1
         }
       ]
     },
@@ -191,13 +197,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "SOL",
+          "tone": "LA",
+          "semi": "b",
           "mod": "",
-          "value": 7
+          "value": 8
         }
       ]
     },
@@ -207,21 +214,21 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "RE",
+          "tone": "MI",
+          "semi": "b",
           "mod": "7",
           "separator": "/",
-          "value": 2
+          "value": 3
         },
         {
           "padding": "",
-          "tone": "FA",
-          "semi": "#",
+          "tone": "SOL",
           "mod": "",
-          "value": 6
+          "value": 7
         }
       ]
     },
@@ -231,14 +238,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "MI",
+          "tone": "FA",
           "minor": "m",
           "mod": "",
-          "value": 4
+          "value": 5
         }
       ]
     },
@@ -248,13 +255,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
+          "semi": "b",
           "mod": "add9",
-          "value": 0
+          "value": 1
         }
       ]
     },
@@ -264,13 +272,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "SOL",
+          "tone": "LA",
+          "semi": "b",
           "mod": "",
-          "value": 7
+          "value": 8
         }
       ]
     },
@@ -280,21 +289,21 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "RE",
+          "tone": "MI",
+          "semi": "b",
           "mod": "7",
           "separator": "/",
-          "value": 2
+          "value": 3
         },
         {
           "padding": "",
-          "tone": "FA",
-          "semi": "#",
+          "tone": "SOL",
           "mod": "",
-          "value": 6
+          "value": 7
         }
       ]
     },
@@ -307,14 +316,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "MI",
+          "tone": "FA",
           "minor": "m",
           "mod": "",
-          "value": 4
+          "value": 5
         }
       ]
     },
@@ -324,13 +333,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
+          "semi": "b",
           "mod": "add9",
-          "value": 0
+          "value": 1
         }
       ]
     },
@@ -340,27 +350,28 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "                  ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 3
+        },
         {
           "padding": "",
           "tone": "SOL",
           "mod": "",
           "value": 7
-        },
-        {
-          "padding": "                  ",
-          "tone": "RE",
-          "mod": "",
-          "separator": "/",
-          "value": 2
-        },
-        {
-          "padding": "",
-          "tone": "FA",
-          "semi": "#",
-          "mod": "",
-          "value": 6
         }
       ]
     },
@@ -370,14 +381,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "MI",
+          "tone": "FA",
           "minor": "m",
           "mod": "",
-          "value": 4
+          "value": 5
         }
       ]
     },
@@ -387,13 +398,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
+          "semi": "b",
           "mod": "add9",
-          "value": 0
+          "value": 1
         }
       ]
     },
@@ -403,8 +415,23 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "                 ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7",
+          "separator": "/",
+          "value": 3
+        },
         {
           "padding": "",
           "tone": "SOL",
@@ -412,24 +439,11 @@
           "value": 7
         },
         {
-          "padding": "                 ",
-          "tone": "RE",
-          "mod": "7",
-          "separator": "/",
-          "value": 2
-        },
-        {
-          "padding": "",
-          "tone": "FA",
-          "semi": "#",
-          "mod": "",
-          "value": 6
-        },
-        {
           "padding": "      ",
-          "tone": "DO",
+          "tone": "RE",
+          "semi": "b",
           "mod": "",
-          "value": 0
+          "value": 1
         }
       ]
     },
@@ -442,14 +456,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "MI",
+          "tone": "FA",
           "minor": "m",
           "mod": "",
-          "value": 4
+          "value": 5
         }
       ]
     },
@@ -459,13 +473,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
+          "semi": "b",
           "mod": "add9",
-          "value": 0
+          "value": 1
         }
       ]
     },
@@ -475,13 +490,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "SOL",
+          "tone": "LA",
+          "semi": "b",
           "mod": "",
-          "value": 7
+          "value": 8
         }
       ]
     },
@@ -491,65 +507,16 @@
     },
     {
       "type": "tablature",
-      "key": 7,
-      "tabs": [
-        {
-          "padding": "",
-          "tone": "RE",
-          "mod": "7",
-          "separator": "/",
-          "value": 2
-        },
-        {
-          "padding": "",
-          "tone": "FA",
-          "semi": "#",
-          "mod": "",
-          "value": 6
-        }
-      ]
-    },
-    {
-      "type": "lyric",
-      "lyric": "  In quelle sere dove il cielo ti prende per mano"
-    },
-    {
-      "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
           "tone": "MI",
-          "minor": "m",
-          "mod": "",
-          "value": 4
-        }
-      ]
-    },
-    {
-      "type": "lyric",
-      "lyric": "  E tu aspettami lì in alto sulla grande ruota"
-    },
-    {
-      "type": "tablature",
-      "key": 7,
-      "tabs": [
-        {
-          "padding": "",
-          "tone": "DO",
-          "mod": "add9",
-          "value": 0
-        }
-      ]
-    },
-    {
-      "type": "lyric",
-      "lyric": "  Dove il mondo è solo un punto da lasciarsi dietro"
-    },
-    {
-      "type": "tablature",
-      "key": 7,
-      "tabs": [
+          "semi": "b",
+          "mod": "7",
+          "separator": "/",
+          "value": 3
+        },
         {
           "padding": "",
           "tone": "SOL",
@@ -560,25 +527,76 @@
     },
     {
       "type": "lyric",
-      "lyric": "  Prendimi per mano e disegniamo mille passi"
+      "lyric": "  In quelle sere dove il cielo ti prende per mano"
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  E tu aspettami lì in alto sulla grande ruota"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
       "tabs": [
         {
           "padding": "",
           "tone": "RE",
+          "semi": "b",
+          "mod": "add9",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Dove il mondo è solo un punto da lasciarsi dietro"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  Prendimi per mano e disegniamo mille passi"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
           "mod": "7",
           "separator": "/",
-          "value": 2
+          "value": 3
         },
         {
           "padding": "",
-          "tone": "FA",
-          "semi": "#",
+          "tone": "SOL",
           "mod": "",
-          "value": 6
+          "value": 7
         }
       ]
     },
@@ -591,14 +609,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "MI",
+          "tone": "FA",
           "minor": "m",
           "mod": "",
-          "value": 4
+          "value": 5
         }
       ]
     },
@@ -608,13 +626,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
+          "semi": "b",
           "mod": "add9",
-          "value": 0
+          "value": 1
         }
       ]
     },
@@ -624,27 +643,28 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "                  ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 3
+        },
         {
           "padding": "",
           "tone": "SOL",
           "mod": "",
           "value": 7
-        },
-        {
-          "padding": "                  ",
-          "tone": "RE",
-          "mod": "",
-          "separator": "/",
-          "value": 2
-        },
-        {
-          "padding": "",
-          "tone": "FA",
-          "semi": "#",
-          "mod": "",
-          "value": 6
         }
       ]
     },
@@ -654,14 +674,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "MI",
+          "tone": "FA",
           "minor": "m",
           "mod": "",
-          "value": 4
+          "value": 5
         }
       ]
     },
@@ -671,13 +691,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
+          "semi": "b",
           "mod": "add9",
-          "value": 0
+          "value": 1
         }
       ]
     },
@@ -687,8 +708,23 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "                 ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "7",
+          "separator": "/",
+          "value": 3
+        },
         {
           "padding": "",
           "tone": "SOL",
@@ -696,25 +732,11 @@
           "value": 7
         },
         {
-          "padding": "                 ",
-          "tone": "RE",
-          "mod": "7",
-          "separator": "/",
-          "value": 2
-        },
-        {
-          "padding": "",
-          "tone": "FA",
-          "semi": "#",
-          "mod": "",
-          "value": 6
-        },
-        {
           "padding": "    ",
-          "tone": "MI",
+          "tone": "FA",
           "minor": "m",
           "mod": "",
-          "value": 4
+          "value": 5
         }
       ]
     },
@@ -724,13 +746,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "                              ",
-          "tone": "DO",
+          "tone": "RE",
+          "semi": "b",
           "mod": "",
-          "value": 0
+          "value": 1
         }
       ]
     },
@@ -740,13 +763,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "                                  ",
-          "tone": "SOL",
+          "tone": "LA",
+          "semi": "b",
           "mod": "",
-          "value": 7
+          "value": 8
         }
       ]
     },
@@ -756,37 +780,48 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "                          ",
-          "tone": "SI",
+          "tone": "DO",
           "minor": "m",
           "mod": "",
-          "value": 11
-        },
-        {
-          "padding": "                               ",
-          "tone": "MI",
-          "minor": "m",
-          "mod": "",
-          "value": 4
+          "value": 0
         }
       ]
     },
     {
       "type": "lyric",
-      "lyric": "Per tutte quelle sere in cui ti ho persa e neanche so il perché"
+      "lyric": "Per tutte quelle sere in cui"
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "                                 ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ti ho persa e neanche so il perché"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
       "tabs": [
         {
           "padding": "                            ",
-          "tone": "DO",
+          "tone": "RE",
+          "semi": "b",
           "mod": "",
-          "value": 0
+          "value": 1
         }
       ]
     },
@@ -796,13 +831,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "                             ",
-          "tone": "SOL",
+          "tone": "LA",
+          "semi": "b",
           "mod": "",
-          "value": 7
+          "value": 8
         }
       ]
     },
@@ -812,20 +848,21 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "                    ",
-          "tone": "SI",
+          "tone": "DO",
           "minor": "m",
           "mod": "",
-          "value": 11
+          "value": 0
         },
         {
           "padding": "                    ",
-          "tone": "DO",
+          "tone": "RE",
+          "semi": "b",
           "mod": "",
-          "value": 0
+          "value": 1
         }
       ]
     },
@@ -842,13 +879,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "RE",
+          "tone": "MI",
+          "semi": "b",
           "mod": "",
-          "value": 2
+          "value": 3
         }
       ]
     },
@@ -858,14 +896,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "SI",
+          "tone": "DO",
           "minor": "m",
           "mod": "",
-          "value": 11
+          "value": 0
         }
       ]
     },
@@ -875,14 +913,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "        ",
-          "tone": "MI",
+          "tone": "FA",
           "minor": "m",
           "mod": "",
-          "value": 4
+          "value": 5
         }
       ]
     },
@@ -892,13 +930,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
+          "semi": "b",
           "mod": "",
-          "value": 0
+          "value": 1
         }
       ]
     },
@@ -908,13 +947,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "RE",
+          "tone": "MI",
+          "semi": "b",
           "mod": "",
-          "value": 2
+          "value": 3
         }
       ]
     },
@@ -924,13 +964,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "  ",
-          "tone": "SOL",
+          "tone": "LA",
+          "semi": "b",
           "mod": "",
-          "value": 7
+          "value": 8
         }
       ]
     },
@@ -940,20 +981,21 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "     ",
-          "tone": "SI",
+          "tone": "DO",
           "minor": "m",
           "mod": "",
-          "value": 11
+          "value": 0
         },
         {
           "padding": "                                   ",
-          "tone": "DO",
+          "tone": "RE",
+          "semi": "b",
           "mod": "",
-          "value": 0
+          "value": 1
         }
       ]
     },
@@ -966,51 +1008,55 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "",
-          "tone": "MI",
+          "tone": "FA",
           "minor": "m",
           "mod": "",
-          "value": 4
+          "value": 5
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
+          "semi": "b",
           "mod": "",
-          "value": 0
-        },
-        {
-          "padding": "",
-          "tone": "SOL",
-          "mod": "",
-          "value": 7
+          "value": 1
         },
         {
           "padding": " ",
-          "tone": "SI",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
           "minor": "m",
           "mod": "",
-          "value": 11
+          "value": 0
         },
         {
           "padding": "",
-          "tone": "DO",
+          "tone": "RE",
+          "semi": "b",
           "mod": "",
-          "value": 0
+          "value": 1
         }
       ]
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "                              ",
-          "tone": "DO",
+          "tone": "RE",
+          "semi": "b",
           "mod": "",
-          "value": 0
+          "value": 1
         }
       ]
     },
@@ -1020,13 +1066,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "                                  ",
-          "tone": "SOL",
+          "tone": "LA",
+          "semi": "b",
           "mod": "",
-          "value": 7
+          "value": 8
         }
       ]
     },
@@ -1036,37 +1083,48 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "                          ",
-          "tone": "SI",
+          "tone": "DO",
           "minor": "m",
           "mod": "",
-          "value": 11
-        },
-        {
-          "padding": "                               ",
-          "tone": "MI",
-          "minor": "m",
-          "mod": "",
-          "value": 4
+          "value": 0
         }
       ]
     },
     {
       "type": "lyric",
-      "lyric": "Per tutte quelle sere in cui ti ho persa e neanche so il perché"
+      "lyric": "Per tutte quelle sere in cui"
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
+      "tabs": [
+        {
+          "padding": "                                 ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ti ho persa e neanche so il perché"
+    },
+    {
+      "type": "tablature",
+      "key": 8,
       "tabs": [
         {
           "padding": "                            ",
-          "tone": "DO",
+          "tone": "RE",
+          "semi": "b",
           "mod": "",
-          "value": 0
+          "value": 1
         }
       ]
     },
@@ -1076,13 +1134,14 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "                             ",
-          "tone": "SOL",
+          "tone": "LA",
+          "semi": "b",
           "mod": "",
-          "value": 7
+          "value": 8
         }
       ]
     },
@@ -1092,26 +1151,30 @@
     },
     {
       "type": "tablature",
-      "key": 7,
+      "key": 8,
       "tabs": [
         {
           "padding": "                    ",
-          "tone": "SI",
+          "tone": "DO",
           "minor": "m",
           "mod": "",
-          "value": 11
+          "value": 0
         },
         {
           "padding": "                    ",
-          "tone": "DO",
+          "tone": "RE",
+          "semi": "b",
           "mod": "",
-          "value": 0
+          "value": 1
         }
       ]
     },
     {
       "type": "lyric",
       "lyric": "Io che non ho avuto mai niente di vero a parte te"
+    },
+    {
+      "type": "empty"
     }
   ]
 }

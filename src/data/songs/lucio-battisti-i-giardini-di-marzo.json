@@ -1,0 +1,1562 @@
+{
+  "title": "I Giardini di Marzo",
+  "artist": "Lucio Battisti",
+  "slug": "lucio-battisti-i-giardini-di-marzo",
+  "category": null,
+  "sub_category": null,
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        },
+        {
+          "padding": "  ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "                 ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Il carretto passava e quell'uomo"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "gridava ”gelati”"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "                  ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "al ventuno del mese i nostri soldi"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "erano già finiti"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "              ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "io pensavo a mia madre e rivedevo i"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "suoi vestiti"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "              ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "il più bello era nero coi fiori non"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ancora appassiti"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        },
+        {
+          "padding": "  ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "              ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "All'uscita di scuola i ragazzi"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "vendevano i libri"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "               ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "io restavo a guardarli cercando il"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "coraggio per imitarli"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "              ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "poi sconfitto tornavo a giocar con la"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "mente e i suoi tarli"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e la sera al telefono tu mi dicevi"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        },
+        {
+          "padding": "              ",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "separator": "/",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " perché non parli..."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "         ",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Che anno è che giorno è questo è il"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "               ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "          ",
+          "tone": "SI",
+          "mod": "",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Tempo di vivere con te le mie mani come"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "vedi non tremano più"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "7",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e ho nell'anima    in fondo all'anima"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "cieli immensi"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "         ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e immenso amore e poi ancora ancora"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "amore amor per te"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "SI",
+          "mod": "",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "fiumi azzurri e colline e praterie  dove"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "7",
+          "separator": "/",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "corrono dolcissime"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "                     ",
+          "tone": "SI",
+          "mod": "",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "le mie malinconie l'universo trova"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "spazio dentro me..."
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        },
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ma il coraggio di vivere quello ancora non c'è"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        },
+        {
+          "padding": "  ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        },
+        {
+          "padding": "  ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I giardini di marzo si vestono di nuovi"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "colori"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "                 ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e le giovani donne in quel mese vivono"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "nuovi amori"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "                      ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "camminavi al mio fianco e ad un tratto"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "dicesti tu muori"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        },
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "se mi aiuti son certa che io ne verrò fuori"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        },
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ma non una parola chiarì i miei pensieri"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "              ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "continuai a camminare lasciandoti"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "separator": "/",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "attrice di ieri"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "         ",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Che anno è che giorno è questo è il"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "               ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "          ",
+          "tone": "SI",
+          "mod": "",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Tempo di vivere con te le mie mani come"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "vedi non tremano più"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "7",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e ho nell'anima    in fondo all'anima"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "cieli immensi"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "         ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e immenso amore e poi ancora ancora"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "amore amor per te"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "SI",
+          "mod": "",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "fiumi azzurri e colline e praterie  dove"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "7",
+          "separator": "/",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "corrono dolcissime"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "                     ",
+          "tone": "SI",
+          "mod": "",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "le mie malinconie l'universo trova"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "spazio dentro me..."
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "            ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        },
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ma il coraggio di vivere quello ancora non c'è"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        },
+        {
+          "padding": "  ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "11",
+          "value": 8
+        }
+      ]
+    }
+  ]
+}

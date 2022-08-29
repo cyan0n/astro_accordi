@@ -1,0 +1,1133 @@
+{
+  "title": "Too Much Heaven",
+  "artist": "Bee Gees",
+  "slug": "bee-gees-too-much-heaven",
+  "category": null,
+  "sub_category": null,
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "6",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "     ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7/9",
+          "value": 10
+        },
+        {
+          "padding": "  ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "                 ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Nobody gets too much heaven no more"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It's much harder to come by"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "11",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I'm waiting in line"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "                 ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Nobody gets too much love anymore"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It's as high as a mountain"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "6",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And harder to climb"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh you and me girl"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Got a lot of love in store"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "And it flows through you"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "And it flows through me"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "And I love you so much more"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "7+",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Then my life.. I can see beyond forever"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "                             ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ev'rything we are will never die"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Loving's such a beautiful thing"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "6",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oh you make my world.. a summer day"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Are you just a dream to fade away"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "                 ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Nobody gets too much heaven no more"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It's much harder to come by"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "11",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I'm waiting in line"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "                 ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Nobody gets too much love anymore"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It's as high as a mountain"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "6",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And harder to climb"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "You and me girl got a highway to the sky"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "We can turn away from the night and day"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "And the tears you had to cry"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "7+",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "You're my life.."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "I can see a new tomorrow"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "                             ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ev'rything we are will never die"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Loving's such a beautiful thing"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "6",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "When you are to me, the light above"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Made for all to see our precious love"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "                 ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Nobody gets too much heaven no more"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It's much harder to come by"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "11",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I'm waiting in line"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "                 ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Nobody gets too much love anymore"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It's as high as a mountain"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "6",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And harder to climb"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "7+",
+          "value": 1
+        },
+        {
+          "padding": "  ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Love is such a beautiful thing"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "6",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "You make my world a summer day"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "                           ",
+          "tone": "LA",
+          "mod": "6",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Are you just a dream to fade away"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "                 ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Nobody gets too much heaven no more"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It's much harder to come by"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "mod": "11",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I'm waiting in line"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "                 ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Nobody gets too much love anymore"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "                ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "mod": "6",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It's as wide as a river and harder to cross"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "                 ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Nobody gets too much heaven no more"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It's much harder to come by"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "mod": "11",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I'm waiting in line"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "                 ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Nobody gets too much love anymore"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It's as high as a mountain"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "mod": "6",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And harder to climb..."
+    }
+  ]
+}

@@ -1,7 +1,8 @@
 {
-  "title": "Tu Scendi Dalle Stelle",
+  "title": "Tu Scendi dalle Stelle",
   "slug": "tu-scendi-dalle-stelle",
-  "category": "5",
+  "category": null,
+  "sub_category": null,
   "lines": [
     {
       "type": "empty"
@@ -11,13 +12,13 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "   ",
-          "tone": "DO",
+          "tone": "FA",
           "mod": "",
-          "value": 0
+          "value": 5
         }
       ]
     },
@@ -27,13 +28,13 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "            ",
-          "tone": "SOL",
+          "tone": "DO",
           "mod": "",
-          "value": 7
+          "value": 0
         }
       ]
     },
@@ -43,13 +44,13 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "  ",
-          "tone": "SOL",
+          "tone": "DO",
           "mod": "7",
-          "value": 7
+          "value": 0
         }
       ]
     },
@@ -59,13 +60,13 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "               ",
-          "tone": "DO",
+          "tone": "FA",
           "mod": "",
-          "value": 0
+          "value": 5
         }
       ]
     },
@@ -75,13 +76,13 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "  ",
-          "tone": "SOL",
+          "tone": "DO",
           "mod": "7",
-          "value": 7
+          "value": 0
         }
       ]
     },
@@ -91,13 +92,13 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "               ",
-          "tone": "DO",
+          "tone": "FA",
           "mod": "",
-          "value": 0
+          "value": 5
         }
       ]
     },
@@ -107,26 +108,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "     ",
-          "tone": "RE",
+          "tone": "SOL",
           "minor": "m",
           "mod": "",
-          "value": 2
-        },
-        {
-          "padding": "",
-          "tone": "SOL",
-          "mod": "7",
           "value": 7
         },
         {
-          "padding": "  ",
+          "padding": "",
           "tone": "DO",
-          "mod": "",
+          "mod": "7",
           "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
         }
       ]
     },
@@ -136,26 +137,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "      ",
-          "tone": "RE",
+          "tone": "SOL",
           "minor": "m",
           "mod": "",
-          "value": 2
-        },
-        {
-          "padding": "",
-          "tone": "SOL",
-          "mod": "7",
           "value": 7
         },
         {
-          "padding": "   ",
+          "padding": "",
           "tone": "DO",
-          "mod": "",
+          "mod": "7",
           "value": 0
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
         }
       ]
     },
@@ -165,13 +166,13 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "         ",
-          "tone": "SOL",
+          "tone": "DO",
           "mod": "",
-          "value": 7
+          "value": 0
         }
       ]
     },
@@ -181,13 +182,13 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "   ",
-          "tone": "SOL",
+          "tone": "DO",
           "mod": "7",
-          "value": 7
+          "value": 0
         }
       ]
     },
@@ -197,13 +198,13 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "            ",
-          "tone": "DO",
+          "tone": "FA",
           "mod": "",
-          "value": 0
+          "value": 5
         }
       ]
     },
@@ -213,13 +214,13 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "   ",
-          "tone": "SOL",
+          "tone": "DO",
           "mod": "7",
-          "value": 7
+          "value": 0
         }
       ]
     },
@@ -229,13 +230,13 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "            ",
-          "tone": "DO",
+          "tone": "FA",
           "mod": "",
-          "value": 0
+          "value": 5
         }
       ]
     },
@@ -248,13 +249,13 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "  ",
-          "tone": "DO",
+          "tone": "FA",
           "mod": "",
-          "value": 0
+          "value": 5
         }
       ]
     },
@@ -264,13 +265,13 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "         ",
-          "tone": "SOL",
+          "tone": "DO",
           "mod": "",
-          "value": 7
+          "value": 0
         }
       ]
     },
@@ -280,13 +281,13 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "   ",
-          "tone": "SOL",
+          "tone": "DO",
           "mod": "7",
-          "value": 7
+          "value": 0
         }
       ]
     },
@@ -296,13 +297,13 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "           ",
-          "tone": "DO",
+          "tone": "FA",
           "mod": "",
-          "value": 0
+          "value": 5
         }
       ]
     },
@@ -312,13 +313,13 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "   ",
-          "tone": "SOL",
+          "tone": "DO",
           "mod": "7",
-          "value": 7
+          "value": 0
         }
       ]
     },
@@ -328,13 +329,13 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "           ",
-          "tone": "DO",
+          "tone": "FA",
           "mod": "",
-          "value": 0
+          "value": 5
         }
       ]
     },
@@ -344,26 +345,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "      ",
-          "tone": "RE",
+          "tone": "SOL",
           "minor": "m",
           "mod": "",
-          "value": 2
-        },
-        {
-          "padding": "",
-          "tone": "SOL",
-          "mod": "7",
           "value": 7
         },
         {
           "padding": " ",
           "tone": "DO",
-          "mod": "",
+          "mod": "7",
           "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
         }
       ]
     },
@@ -373,26 +374,26 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "       ",
-          "tone": "RE",
+          "tone": "SOL",
           "minor": "m",
           "mod": "",
-          "value": 2
-        },
-        {
-          "padding": " ",
-          "tone": "SOL",
-          "mod": "7",
           "value": 7
         },
         {
-          "padding": " ",
+          "padding": "  ",
           "tone": "DO",
-          "mod": "",
+          "mod": "7",
           "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
         }
       ]
     },
@@ -402,13 +403,13 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "            ",
-          "tone": "SOL",
+          "tone": "DO",
           "mod": "",
-          "value": 7
+          "value": 0
         }
       ]
     },
@@ -418,13 +419,13 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "    ",
-          "tone": "SOL",
+          "tone": "DO",
           "mod": "7",
-          "value": 7
+          "value": 0
         }
       ]
     },
@@ -434,13 +435,13 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "           ",
-          "tone": "DO",
+          "tone": "FA",
           "mod": "",
-          "value": 0
+          "value": 5
         }
       ]
     },
@@ -450,13 +451,13 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "    ",
-          "tone": "SOL",
+          "tone": "DO",
           "mod": "7",
-          "value": 7
+          "value": 0
         }
       ]
     },
@@ -466,13 +467,13 @@
     },
     {
       "type": "tablature",
-      "key": 0,
+      "key": 5,
       "tabs": [
         {
           "padding": "           ",
-          "tone": "DO",
+          "tone": "FA",
           "mod": "",
-          "value": 0
+          "value": 5
         }
       ]
     },

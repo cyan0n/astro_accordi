@@ -1,0 +1,1780 @@
+{
+  "title": "Devi Morire",
+  "artist": "J-Ax",
+  "slug": "j-ax-devi-morire",
+  "category": null,
+  "sub_category": null,
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Perché i bambini sanno essere crudeli\r"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "devi morire, devi morire!\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "J-Ax, tutti mi dicevano\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "        ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "devi morire, devi morire!\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "              ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E lo dicono ancora, ma sono ancora qui\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "devi morire!\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                    ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                           ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Primo giorno, nuova scuola, all’intervallo a calcio non giocavo\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                   ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "mi illudevo di lavarmi via la puzza da sfigato\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                     ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "osservavo un ricciolino che era un demone sul prato\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                         ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "da come ordinava agli altri si capiva che era il capo.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                     ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma la sfiga esiste, mandò il pallone fuori campo,\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                         ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "tra i miei piedi, d’un tratto guardarono tutti quanti\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                      ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "il ricciolino urla “faccia da ricchione muoviti e ridallo”\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                    ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "io fermo come un cervo davanti ai fari abbaglianti.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Veniva verso me e io con la palla in mano\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                    ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "quando fu ad un metro non so perché, ma la buttai lontano\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                    ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "forse mi chiedevo a ribellarsi cosa si provasse,\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                          ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ma provai un pugno in bocca ed il sapore del mio sangue\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                    ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "mentre mi sputavo addosso fissavo le mie scarpe.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                 ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ridevano tutti, anche le ragazze,\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                  ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "non ero gay o straniero ma trattato uguale\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                      ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "per questo so cosa prova alla pena l’agnello sacrificale.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "               ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "            ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Sappiamo come ci si sente quando la luce poi si spegne\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "                 ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "se dopo il cielo non c’è niente\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "restano qui tutte le paure che hai.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                      ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Chissà se sarà vero che la vita è come un treno\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "                      ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e forse a quanto pare a noi ci ha preso in pieno.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "          ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Siamo vivi nonostante ci dicevano\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "devi morire, devi morire!\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                 ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Mi sfottevano e pestavano io non alzavo un dito\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                    ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "anno dopo anno ho iniziato a odiarmi e farmi schifo,\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                         ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "un verme inerme neanche degno di uno sguardo\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "pensavo: è tutta colpa mia che sono debole e codardo.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                     ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ogni giorno uno spintone nuovo mi buttava a terra\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                         ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "stavo in classe coi vestiti sporchi di erba e di merda,\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                      ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "pranzavo nascosto al cesso con la puzza di piscio\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                            ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ed ero sempre nei casini e agli altri andava tutto liscio.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                      ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Come l’olio nei capelli che non mi lavavo mai\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                    ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "fantasticavo di ammazzarli tutti stile Columbine 1 .\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                     ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I grandi non vedono o fanno finta, nessuno t’aiuta\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "si impara l’omertà e a trovare sempre una scusa\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                       ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "per gli occhi neri o per le labbra gonfie\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                      ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "la prof muta che altrimenti poi le tagliano le gomme.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                        ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Poi a casa con lo zaino rotto e la maglia strappata\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "mamma che ti mena e urla: “Sai quanto mi è costata?!”.\r"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "               ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "            ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Sappiamo come ci si sente quando la luce poi si spegne\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "                 ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "se dopo il cielo non c’è nientE\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "restano qui tutte le paure che hai.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                      ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Chissà se sarà vero che la vita è come un treno\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "                      ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e forse a quanto pare a noi ci ha preso in pieno.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "          ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Siamo vivi nonostante ci dicevano\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "devi morire, devi morire!\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                         ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ed illuso che alla fine a certi stronzi pensi il karma,\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "RE",
+          "minor": "m",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                         ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ho cercato su Facebook il profilo del ricciolino.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "                      ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Lo immaginavo con dei precedenti, senza denti,\r"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "invece è in forma, anzi ha una moglie figa, un buon lavoro\r"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "e un bel bambino.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                          ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Nella lista dei suoi amici c’è chi pensavo lo schifasse,\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                        ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "il mio primo amico, il primo amore e la mia classe.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                     ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Pubblica le foto in birreria col sindaco ed il prete\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                   ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "qualche s... ci commenta sotto: sei il più bello del paese!\r"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "[…]\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                    ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E dopo tutti questi anni zio la cosa che mi infoia\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                      ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "è che dovrei dimenticarlo invece spero che lui muoia!\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                             ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Non m’ha formato il carattere come in giro si dice\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                       ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "piuttosto m’ha lasciato una cicatrice nella psiche.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                  ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ora ho i mezzi per rimuoverla come l’appendicite,\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                        ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ma magari un giorno gli sparo poi vado in galera felice.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": " ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "         ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "             Devi morire, devi morire\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": " ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "         ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "             Devi morire, devi morire\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "               ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "            ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Sappiamo come ci si sente quando la luce poi si spegne\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "                 ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "se dopo il cielo non c’è niente\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "restano qui tutte le paure che hai.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "                      ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Chissà se sarà vero che la vita è come un treno\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "                      ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e forse a quanto pare a noi ci ha preso in pieno.\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "          ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Siamo vivi nonostante ci dicevano\r"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "devi morire, devi morire!\r"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 10,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    }
+  ]
+}

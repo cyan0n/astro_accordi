@@ -1,0 +1,962 @@
+{
+  "title": "Perché?",
+  "artist": "Alex Britti",
+  "slug": "alex-britti-perche",
+  "category": null,
+  "sub_category": null,
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Sono giorni che lasciano il segno"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Quelli che non vorresti mai"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Sembrerebbe tutto normale"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma qualcosa è diverso e lo sai"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "C'è una donna davanti un portone"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Con le lacrime agli occhi e tu"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "L'hai cercata nei giorni seguenti"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma non l'hai incontrata più"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Sono giorni maledetti"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Di quelli che lo sai solo te"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Quella donna ha un segno in faccia"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "E dice che se lo è fatto da sé"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma nel cuore una cosa più grande"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Un segreto che non capirai"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Un amore violento e inquietante"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Che però non denuncerà mai"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Perché"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Perché"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Quella donna che amavi davvero"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ad un tratto l'hai portata via"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E la mano che un tempo l'amava"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oggi muove una assurda follia"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Perché"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Perché"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Nella vita si vede di tutto"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma c'è un tutto che non capirò"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Sembrerebbe un amore malato"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "                             ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma chiamarlo amore non si può"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "C'è chi vive di sogni e speranze"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "E il futuro è una giostra che va"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Il presente è un pezzo di vetro"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "E forse si romperà"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "7",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Se una donna perdona comunque"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "E non urla la sua verità"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Non potrà aiutarla nessuno"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "E la vita non ritornerà"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Perché"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma perché"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "MI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Quella donna che amavi davvero"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ad un tratto era fuori da qui"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "In un lampo il buio più nero"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "E poi l'ha ridotta così"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Perché"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Perché"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "La dolcezza dei giorni più belli"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "La vita che cambia, lo so"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Sembrerebbe un amore malato"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma chiamarlo amore non si può..."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Perché"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "semi": "b",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma perché"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Nella vita si vede di tutto"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ma c'è un tutto che non capirò"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Come questo amore malato"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "                             ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Che chiamare amore non si può"
+    },
+    {
+      "type": "tablature",
+      "key": 1,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "minor": "m",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Chiamarlo amore non si può"
+    }
+  ]
+}

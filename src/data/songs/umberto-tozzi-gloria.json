@@ -1,0 +1,851 @@
+{
+  "title": "Gloria",
+  "artist": "Umberto Tozzi",
+  "slug": "umberto-tozzi-gloria",
+  "category": null,
+  "sub_category": null,
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "                   ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Gloria, manchi tu nell'aria"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "manchi ad una mano che lavora piano"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "                   ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "manchi a questa bocca che cibo più non tocca"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e sempre questa storia"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "                  ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "che lei la chiamo Gloria"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Gloria sui tuoi fianchi"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "7",
+          "value": 6
+        },
+        {
+          "padding": "               ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "la mattina nasce il sole"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        },
+        {
+          "padding": "              ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "          ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "entra odio ed esce amore dal nome Gloria"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "                ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Gloria manchi tu nell'aria"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "                 ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "manchi come il sale, manchi più del sole"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sciogli questa neve   che soffoca il mio petto"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "t'aspetto Gloria"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Gloria  - Gloria -"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "chiesa di campagna - Gloria -"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "acqua nel deserto - Gloria-"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "                  ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "lascio aperto il cuore -Gloria-"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "                ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "scappa senza far rumore  dal lavoro dal tuo letto"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        },
+        {
+          "padding": "               ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "dai gradini di un altare ti aspetto Gloria"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "                       ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Gloria, per chi accende il giorno"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "                ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e invece di dormire con la memoria torna"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "                ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "a un tuffo nei papaveri in una terra libera"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "                    ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "per chi respira nebbia, per chi respira rabbia"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": " ",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "                ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "per me che senza Gloria, con te nuda sul divano"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "                    ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "faccio stelle di cartone pensando a Gloria"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "                 ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Gloria, manchi tu nell'aria"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "                 ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "manchi come il sale, manchi più del sole"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sciogli questa neve   che soffoca il mio petto"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "t'aspetto Gloria"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Gloria  - Gloria -"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "chiesa di campagna - Gloria -"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "acqua nel deserto - Gloria-"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "                  ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "lascio aperto il cuore -Gloria-"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "                ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "scappa senza far rumore  dal lavoro dal tuo letto"
+    },
+    {
+      "type": "tablature",
+      "key": 11,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "7+",
+          "value": 4
+        },
+        {
+          "padding": "               ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "dai gradini di un altare ti aspetto Gloria"
+    }
+  ]
+}

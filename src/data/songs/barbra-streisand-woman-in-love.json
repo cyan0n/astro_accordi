@@ -1,0 +1,1418 @@
+{
+  "title": "Woman in Love",
+  "artist": "Barbra Streisand",
+  "slug": "barbra-streisand-woman-in-love",
+  "category": null,
+  "sub_category": null,
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "mod": "7+",
+          "value": 11
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "7+",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "mod": "7+",
+          "value": 11
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "7+",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "     ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Life is a moment in space "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "When the dream is gone "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "     ",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It's a lonelier place "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "          ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  I kissed the morning goodbye "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "mod": "",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "#",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "7+",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "But down  inside "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "semi": "#",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "You know we never know why"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "         ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "      ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  The road is narrow and lone "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "     ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "When eyes meet eyes "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "       ",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And the feeling is strong "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "                  ",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  I turn away from the wall "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "        ",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I stumble and fall "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "semi": "#",
+          "mod": "7",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "But I give you it all"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "semi": "#",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  I am a woman in love "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "semi": "#",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And I'd do anything "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "LA",
+          "semi": "#",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "To get you into my world "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "semi": "#",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And hold you within "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It's a right I defend "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Over and over again "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "         ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "mod": "7+",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "What do I do....."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  With you eternally mine "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "      ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "In love there is "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "       ",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "No measure of time "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "           ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  We planned it all at the start "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SI",
+          "mod": "",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "#",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "7+",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "That you and I "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "           ",
+          "tone": "LA",
+          "semi": "#",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Live in each other's heart"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  We may be oceans away "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "You feel my love "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "          ",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I hear what you say "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "              ",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "No truth is ever a lie"
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "        ",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I stumble and fall "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "semi": "#",
+          "mod": "7",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "But I give you it all"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "semi": "#",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": "    ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  I am a woman in love "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "semi": "#",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And I'd do anything "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "LA",
+          "semi": "#",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": "   ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "To get you into my world "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "semi": "#",
+          "mod": "7",
+          "value": 10
+        },
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And hold you within "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It's a right I defend "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Over and over again "
+    },
+    {
+      "type": "tablature",
+      "key": 6,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "        ",
+          "tone": "RE",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "What do I do........  Oh, oh, oh, oh ..."
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  I am a woman in love "
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And I'm talking to you "
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "You know I know how you feel "
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "What a woman can do "
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It's a right I defend "
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Over and over again"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "    ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  I am a woman in love "
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "      ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And I'm talking to you "
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "You know I know how you feel "
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        },
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "What a woman can do "
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "minor": "m",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It's a right I defend "
+    },
+    {
+      "type": "tablature",
+      "key": 7,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "SI",
+          "mod": "7",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Over and over again"
+    }
+  ]
+}

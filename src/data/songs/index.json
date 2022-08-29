@@ -32,11 +32,6 @@
         "slug": "lucio-battisti-non-e-francesca"
       },
       {
-        "title": "And I Love Her",
-        "artist": "The Beatles",
-        "slug": "the-beatles-and-i-love-her"
-      },
-      {
         "title": "Hey Jude",
         "artist": "The Beatles",
         "slug": "the-beatles-hey-jude"
@@ -132,11 +127,6 @@
         "title": "Every Breath You Take",
         "artist": "The Police",
         "slug": "the-police-every-breath-you-take"
-      },
-      {
-        "title": "(I Can't Get No) Satisfaction",
-        "artist": "The Rolling Stones",
-        "slug": "the-rolling-stones-i-can-t-get-no-satisfaction"
       },
       {
         "title": "C'è Chi Dice No",
@@ -290,7 +280,7 @@
     },
     {
       "title": "Tutto Tua Madre",
-      "artist": "J.Ax",
+      "artist": "J-Ax",
       "slug": "j-ax-tutto-tua-madre"
     },
     {
@@ -312,11 +302,6 @@
       "title": "Soldi",
       "artist": "Mahmood",
       "slug": "mahmood-soldi"
-    },
-    {
-      "title": "Pianeti",
-      "artist": "Ultimo",
-      "slug": "ultimo-pianeti"
     }
   ],
   "3": {
@@ -345,26 +330,6 @@
       "slug": "cina-marcia-dei-volontari"
     },
     {
-      "title": "La Marseillaise",
-      "artist": "Francia",
-      "slug": "francia-la-marseillaise"
-    },
-    {
-      "title": "Einigkeit und Recht und Freiheit",
-      "artist": "Germania",
-      "slug": "germania-einigkeit-und-recht-und-freiheit"
-    },
-    {
-      "title": "God Save The Queen",
-      "artist": "Gran Bretagna",
-      "slug": "gran-bretagna-god-save-the-queen"
-    },
-    {
-      "title": "Inno di Mameli",
-      "artist": "Italia",
-      "slug": "italia-inno-di-mameli"
-    },
-    {
       "title": "Hymne Cherifien",
       "artist": "Marocco",
       "slug": "marocco-hymne-cherifien"
@@ -380,53 +345,20 @@
       "slug": "spagna-marcha-real"
     },
     {
-      "title": "Spangled Banner",
-      "artist": "The Star",
-      "slug": "the-star-spangled-banner"
+      "title": "The Star Spangled Banner",
+      "artist": "Stati Uniti d'America",
+      "slug": "stati-uniti-d-america-the-star-spangled-banner"
     }
   ],
   "5": [
-    {
-      "title": "Adeste Fideles",
-      "slug": "adeste-fideles"
-    },
     {
       "title": "Astro del Ciel",
       "slug": "astro-del-ciel"
     },
     {
-      "title": "Jingle Bells",
-      "slug": "jingle-bells"
-    },
-    {
       "title": "Happy Christmas (War Is Over)",
       "artist": "John Lennon, Yoko Ono",
       "slug": "john-lennon-yoko-ono-happy-christmas-war-is-over"
-    },
-    {
-      "title": "Les Anges Dans Nos Campagnes",
-      "slug": "les-anges-dans-nos-campagnes"
-    },
-    {
-      "title": "O Tannenbaum",
-      "slug": "o-tannenbaum"
-    },
-    {
-      "title": "Tu Scendi Dalle Stelle",
-      "slug": "tu-scendi-dalle-stelle"
-    },
-    {
-      "title": "We Wish You A Merry Christmas",
-      "slug": "we-wish-you-a-merry-christmas"
-    },
-    {
-      "title": "Last Christmas",
-      "artist": "Wham!",
-      "slug": "wham-last-christmas"
-    },
-    {
-      "title": "White Christmas",
-      "slug": "white-christmas"
     }
   ],
   "6": {
@@ -440,11 +372,6 @@
         "title": "La Canzone del Bambino nel Vento",
         "artist": "Francesco Guccini",
         "slug": "francesco-guccini-la-canzone-del-bambino-nel-vento"
-      },
-      {
-        "title": "Sunday Bloody Sunday",
-        "artist": "U2",
-        "slug": "u2-sunday-bloody-sunday"
       }
     ],
     "2": [
@@ -467,5 +394,368 @@
         "slug": "la-leggenda-del-piave"
       }
     ]
-  }
+  },
+  "null": [
+    {
+      "title": "Adeste Fideles",
+      "slug": "adeste-fideles"
+    },
+    {
+      "title": "Perché?",
+      "artist": "Alex Britti",
+      "slug": "alex-britti-perche"
+    },
+    {
+      "title": "Sincerità",
+      "artist": "Arisa",
+      "slug": "arisa-sincerita"
+    },
+    {
+      "title": "Woman in Love",
+      "artist": "Barbra Streisand",
+      "slug": "barbra-streisand-woman-in-love"
+    },
+    {
+      "title": "Too Much Heaven",
+      "artist": "Bee Gees",
+      "slug": "bee-gees-too-much-heaven"
+    },
+    {
+      "title": "Blowin' in The Wind",
+      "artist": "Bob Dylan",
+      "slug": "bob-dylan-blowin-in-the-wind"
+    },
+    {
+      "title": "Colpo di Pistola",
+      "artist": "Brunori Sas",
+      "slug": "brunori-sas-colpo-di-pistola"
+    },
+    {
+      "title": "Logico #1",
+      "artist": "Cesare Cremonini",
+      "slug": "cesare-cremonini-logico-1"
+    },
+    {
+      "title": "Hard To Say I'm Sorry",
+      "artist": "Chicago",
+      "slug": "chicago-hard-to-say-i-m-sorry"
+    },
+    {
+      "title": "Do They Know It's Christmas",
+      "slug": "do-they-know-it-s-christmas"
+    },
+    {
+      "title": "Perfect",
+      "artist": "Ed Sheeran",
+      "slug": "ed-sheeran-perfect"
+    },
+    {
+      "title": "Io di Te Non Ho Paura",
+      "artist": "Emma",
+      "slug": "emma-io-di-te-non-ho-paura"
+    },
+    {
+      "title": "Vietato Morire",
+      "artist": "Ermal Meta",
+      "slug": "ermal-meta-vietato-morire"
+    },
+    {
+      "title": "Cose Che Ho Visto",
+      "artist": "Eros Ramazzotti",
+      "slug": "eros-ramazzotti-cose-che-ho-visto"
+    },
+    {
+      "title": "051/222525",
+      "artist": "Fabio Concato",
+      "slug": "fabio-concato-051-222525"
+    },
+    {
+      "title": "La Guerra di Piero",
+      "artist": "Fabrizio De Andrè",
+      "slug": "fabrizio-de-andre-la-guerra-di-piero"
+    },
+    {
+      "title": "Un Matto",
+      "artist": "Fabrizio De Andrè",
+      "slug": "fabrizio-de-andre-un-matto"
+    },
+    {
+      "title": "Chiamami per Nome",
+      "artist": "Fedez e Francesca Michielin",
+      "slug": "fedez-e-francesca-michielin-chiamami-per-nome"
+    },
+    {
+      "title": "In Viaggio",
+      "artist": "Fiorella Mannoia",
+      "slug": "fiorella-mannoia-in-viaggio"
+    },
+    {
+      "title": "Auschwitz",
+      "artist": "Francesco Guccini",
+      "slug": "francesco-guccini-auschwitz"
+    },
+    {
+      "title": "La Marseillaise",
+      "artist": "Francia",
+      "slug": "francia-la-marseillaise"
+    },
+    {
+      "title": "Il Fiume del Passato",
+      "artist": "Frozen 2",
+      "slug": "frozen-2-il-fiume-del-passato"
+    },
+    {
+      "title": "Einigkeit und Recht und Freiheit",
+      "artist": "Germania",
+      "slug": "germania-einigkeit-und-recht-und-freiheit"
+    },
+    {
+      "title": "Il Mio Giorno Migliore",
+      "artist": "Giorgia",
+      "slug": "giorgia-il-mio-giorno-migliore"
+    },
+    {
+      "title": "God Save The Queen",
+      "artist": "Gran Bretagna",
+      "slug": "gran-bretagna-god-save-the-queen"
+    },
+    {
+      "title": "Summer Nights",
+      "artist": "Grease",
+      "slug": "grease-summer-nights"
+    },
+    {
+      "title": "Inno di Mameli",
+      "artist": "Italia",
+      "slug": "italia-inno-di-mameli"
+    },
+    {
+      "title": "Firenze Canzone Triste",
+      "artist": "Ivan Graziani",
+      "slug": "ivan-graziani-firenze-canzone-triste"
+    },
+    {
+      "title": "Devi Morire",
+      "artist": "J-Ax",
+      "slug": "j-ax-devi-morire"
+    },
+    {
+      "title": "Jingle Bells",
+      "slug": "jingle-bells"
+    },
+    {
+      "title": "Happy Xmas (War is Over)",
+      "artist": "John Lennon, Yoko Ono",
+      "slug": "john-lennon-yoko-ono-happy-xmas-war-is-over"
+    },
+    {
+      "title": "Imagine",
+      "artist": "John Lennon",
+      "slug": "john-lennon-imagine"
+    },
+    {
+      "title": "Il Più Grande Spettacolo Dopo il Big Bang",
+      "artist": "Jovanotti",
+      "slug": "jovanotti-il-piu-grande-spettacolo-dopo-il-big-bang"
+    },
+    {
+      "title": "La Vita Vale",
+      "artist": "Jovanotti",
+      "slug": "jovanotti-la-vita-vale"
+    },
+    {
+      "title": "Les Anges Dans Nos Campagnes",
+      "slug": "les-anges-dans-nos-campagnes"
+    },
+    {
+      "title": "All Night Long",
+      "artist": "Lionel Richie",
+      "slug": "lionel-richie-all-night-long"
+    },
+    {
+      "title": "I Giardini di Marzo",
+      "artist": "Lucio Battisti",
+      "slug": "lucio-battisti-i-giardini-di-marzo"
+    },
+    {
+      "title": "T_Innamorerai",
+      "artist": "Marco Masini",
+      "slug": "marco-masini-t-innamorerai"
+    },
+    {
+      "title": "Guerriero",
+      "artist": "Marco Mengoni",
+      "slug": "marco-mengoni-guerriero"
+    },
+    {
+      "title": "In Un Giorno Qualunque",
+      "artist": "Marco Mengoni",
+      "slug": "marco-mengoni-in-un-giorno-qualunque"
+    },
+    {
+      "title": "All I Want for Christmas is You",
+      "artist": "Mariah Carey",
+      "slug": "mariah-carey-all-i-want-for-christmas-is-you"
+    },
+    {
+      "title": "Gli Uomini Non Cambiano",
+      "artist": "Mia Martini",
+      "slug": "mia-martini-gli-uomini-non-cambiano"
+    },
+    {
+      "title": "Stiamo Tutti Bene",
+      "artist": "Mirkoeilcane",
+      "slug": "mirkoeilcane-stiamo-tutti-bene"
+    },
+    {
+      "title": "Le Ragazze",
+      "artist": "Neri per Caso",
+      "slug": "neri-per-caso-le-ragazze"
+    },
+    {
+      "title": "O Tannenbaum",
+      "slug": "o-tannenbaum"
+    },
+    {
+      "title": "Oh Happy Day",
+      "slug": "oh-happy-day"
+    },
+    {
+      "title": "Bambini",
+      "artist": "Paola Turci",
+      "slug": "paola-turci-bambini"
+    },
+    {
+      "title": "Ridere di Te",
+      "artist": "Paolo Vallesi",
+      "slug": "paolo-vallesi-ridere-di-te"
+    },
+    {
+      "title": "E Dimmi che Non Vuoi Morire",
+      "artist": "Patty Pravo",
+      "slug": "patty-pravo-e-dimmi-che-non-vuoi-morire"
+    },
+    {
+      "title": "A Groovy Kind of Love",
+      "artist": "Phil Collins",
+      "slug": "phil-collins-a-groovy-kind-of-love"
+    },
+    {
+      "title": "Eppure Soffia",
+      "artist": "Pierangelo Bertoli",
+      "slug": "pierangelo-bertoli-eppure-soffia"
+    },
+    {
+      "title": "Picnic all'Inferno",
+      "artist": "Piero Pelù",
+      "slug": "piero-pelu-picnic-all-inferno"
+    },
+    {
+      "title": "Shine On You Crazy Diamond",
+      "artist": "Pink Floyd",
+      "slug": "pink-floyd-shine-on-you-crazy-diamond"
+    },
+    {
+      "title": "Quando",
+      "artist": "Pino Daniele",
+      "slug": "pino-daniele-quando"
+    },
+    {
+      "title": "Rotolando Respirando",
+      "artist": "Pooh",
+      "slug": "pooh-rotolando-respirando"
+    },
+    {
+      "title": "We Are The Champions",
+      "artist": "Queen",
+      "slug": "queen-we-are-the-champions"
+    },
+    {
+      "title": "Tutti gli Zeri del Mondo",
+      "artist": "Renato Zero e Mina",
+      "slug": "renato-zero-e-mina-tutti-gli-zeri-del-mondo"
+    },
+    {
+      "title": "Merry Xmas Everybody",
+      "artist": "Robbie Williams",
+      "slug": "robbie-williams-merry-xmas-everybody"
+    },
+    {
+      "title": "Desteapta Te, Romanie!",
+      "artist": "Romania",
+      "slug": "romania-desteapta-te-romanie"
+    },
+    {
+      "title": "Ti Regalerò Una Rosa",
+      "artist": "Simone Cristicchi",
+      "slug": "simone-cristicchi-ti-regalero-una-rosa"
+    },
+    {
+      "title": "Someday at Christmas",
+      "artist": "Stevie Wonder",
+      "slug": "stevie-wonder-someday-at-christmas"
+    },
+    {
+      "title": "And I Love Her",
+      "artist": "The Beatles",
+      "slug": "the-beatles-and-i-love-her"
+    },
+    {
+      "title": "(I Can't Get No) Satisfaction",
+      "artist": "The Rolling Stones",
+      "slug": "the-rolling-stones-i-can-t-get-no-satisfaction"
+    },
+    {
+      "title": "I Nostri Anni",
+      "artist": "Tommaso Paradiso",
+      "slug": "tommaso-paradiso-i-nostri-anni"
+    },
+    {
+      "title": "Tu Scendi dalle Stelle",
+      "slug": "tu-scendi-dalle-stelle"
+    },
+    {
+      "title": "Sunday Bloody Sunday",
+      "artist": "U2",
+      "slug": "u2-sunday-bloody-sunday"
+    },
+    {
+      "title": "Pianeti",
+      "artist": "Ultimo",
+      "slug": "ultimo-pianeti"
+    },
+    {
+      "title": "Gli Altri Siamo Noi",
+      "artist": "Umberto Tozzi",
+      "slug": "umberto-tozzi-gli-altri-siamo-noi"
+    },
+    {
+      "title": "Gloria",
+      "artist": "Umberto Tozzi",
+      "slug": "umberto-tozzi-gloria"
+    },
+    {
+      "title": "Cosa Succede in Città",
+      "artist": "Vasco Rossi",
+      "slug": "vasco-rossi-cosa-succede-in-citta"
+    },
+    {
+      "title": "We Wish You a Merry Christmas",
+      "slug": "we-wish-you-a-merry-christmas"
+    },
+    {
+      "title": "Last Christmas",
+      "artist": "Wham!",
+      "slug": "wham-last-christmas"
+    },
+    {
+      "title": "White Christmas",
+      "slug": "white-christmas"
+    },
+    {
+      "title": "Donne",
+      "artist": "Zucchero",
+      "slug": "zucchero-donne"
+    }
+  ]
 }

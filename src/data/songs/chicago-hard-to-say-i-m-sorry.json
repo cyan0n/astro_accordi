@@ -1,0 +1,1583 @@
+{
+  "title": "Hard To Say I'm Sorry",
+  "artist": "Chicago",
+  "slug": "chicago-hard-to-say-i-m-sorry",
+  "category": null,
+  "sub_category": null,
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": " ",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "7",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "#",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "4",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "                                ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "\"Everybody needs a little time away,\" "
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "       ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I heard her say, \"from each o----ther\""
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "                         ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 8
+        },
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "\"Even lover's need a holiday "
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "far away from each o----ther\""
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Hold me now"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SI",
+          "mod": "4",
+          "value": 11
+        },
+        {
+          "padding": "                  ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "It's hard for me to say I'm sorry"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 6
+        },
+        {
+          "padding": "      ",
+          "tone": "SI",
+          "mod": "4",
+          "value": 11
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  I just want you to stay"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "             ",
+          "tone": "SI",
+          "mod": "",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " After all that we've been through, "
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "      ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "#",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I will make it up to you "
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "mod": "4",
+          "value": 11
+        },
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I promise to"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "          ",
+          "tone": "SI",
+          "mod": "",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And after all that's been said and done,"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "    ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "#",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "      ",
+          "tone": "SI",
+          "mod": "4",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "4",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "You're just the part of me I can't let go"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "                        ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " Couldn't stand to be kept away "
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "     ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "just for the day from your bo---dy"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "                         ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 8
+        },
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Wouldn't wanna be swept away, "
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "      ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "far away from the one that I love"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 6
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "mod": "4",
+          "value": 11
+        },
+        {
+          "padding": "                  ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Hold me now It's hard for me to say I'm sorry"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 6
+        },
+        {
+          "padding": "      ",
+          "tone": "SI",
+          "mod": "4",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  I just want you to know"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "4",
+          "value": 11
+        },
+        {
+          "padding": "                       ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Hold me now I really want to tell you I'm sorry"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "     ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7",
+          "value": 6
+        },
+        {
+          "padding": "        ",
+          "tone": "SI",
+          "mod": "4",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  I could never let you go"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "             ",
+          "tone": "SI",
+          "mod": "",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " After all that we've been through, "
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "      ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "     ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "#",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I will make it up to you "
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "mod": "4",
+          "value": 11
+        },
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I promise to"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "LA",
+          "mod": "",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "          ",
+          "tone": "SI",
+          "mod": "",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "semi": "#",
+          "mod": "",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "And after all that's been said and done,"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "    ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "separator": "/",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "#",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "      ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "You're just the part of me I can't let go"
+    },
+    {
+      "type": "lyric",
+      "lyric": "</div><div class=\"chiave\" name=\"SOL\">"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "    ",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "             ",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "  After all that we've been through, "
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "         ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I will make it up to you "
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "RE",
+          "mod": "4",
+          "value": 2
+        },
+        {
+          "padding": "      ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "I promise to"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "7",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": " ",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "mod": "",
+          "separator": "/",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "separator": "/",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "semi": "#",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "7",
+          "separator": "/",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 4
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "7",
+          "separator": "/",
+          "value": 9
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "You're gonna be the lucky one"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "4",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    }
+  ]
+}

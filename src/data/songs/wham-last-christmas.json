@@ -2,7 +2,8 @@
   "title": "Last Christmas",
   "artist": "Wham!",
   "slug": "wham-last-christmas",
-  "category": "5",
+  "category": null,
+  "sub_category": null,
   "lines": [
     {
       "type": "empty"

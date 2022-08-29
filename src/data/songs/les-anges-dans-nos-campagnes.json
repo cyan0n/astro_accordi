@@ -1,7 +1,8 @@
 {
   "title": "Les Anges Dans Nos Campagnes",
   "slug": "les-anges-dans-nos-campagnes",
-  "category": "5",
+  "category": null,
+  "sub_category": null,
   "lines": [
     {
       "type": "empty"
@@ -477,7 +478,7 @@
     },
     {
       "type": "lyric",
-      "lyric": "in excelsis De_____   o.\r"
+      "lyric": "in excelsis De_____   o."
     },
     {
       "type": "empty"
@@ -537,7 +538,7 @@
     },
     {
       "type": "lyric",
-      "lyric": "Gloria\r"
+      "lyric": "Gloria"
     },
     {
       "type": "tablature",
@@ -559,7 +560,7 @@
     },
     {
       "type": "lyric",
-      "lyric": "in excelsis Deo.\r"
+      "lyric": "in excelsis Deo."
     },
     {
       "type": "tablature",
@@ -613,7 +614,7 @@
     },
     {
       "type": "lyric",
-      "lyric": "Gloria\r"
+      "lyric": "Gloria"
     },
     {
       "type": "tablature",

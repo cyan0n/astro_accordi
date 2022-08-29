@@ -1,7 +1,8 @@
 {
   "title": "Adeste Fideles",
   "slug": "adeste-fideles",
-  "category": "5",
+  "category": null,
+  "sub_category": null,
   "lines": [
     {
       "type": "empty"
@@ -11,739 +12,824 @@
     },
     {
       "type": "tablature",
-      "key": 2,
-      "tabs": [
-        {
-          "padding": "    ",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
-        },
-        {
-          "padding": "    ",
-          "tone": "LA",
-          "mod": "",
-          "value": 9
-        }
-      ]
-    },
-    {
-      "type": "lyric",
-      "lyric": "1. Adeste fideles,"
-    },
-    {
-      "type": "tablature",
-      "key": 2,
+      "key": 5,
       "tabs": [
         {
           "padding": "",
-          "tone": "RE",
+          "tone": "FA",
           "mod": "",
-          "value": 2
+          "value": 5
         },
         {
           "padding": "     ",
-          "tone": "SOL",
+          "tone": "DO",
           "mod": "",
-          "value": 7
-        },
-        {
-          "padding": "",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
-        },
-        {
-          "padding": "",
-          "tone": "LA",
-          "mod": "",
-          "value": 9
-        }
-      ]
-    },
-    {
-      "type": "lyric",
-      "lyric": "laeti trium__phantes,"
-    },
-    {
-      "type": "tablature",
-      "key": 2,
-      "tabs": [
-        {
-          "padding": "  ",
-          "tone": "SI",
-          "minor": "m",
-          "mod": "",
-          "value": 11
-        },
-        {
-          "padding": "",
-          "tone": "MI",
-          "mod": "",
-          "value": 4
+          "value": 0
         },
         {
           "padding": "  ",
-          "tone": "LA",
+          "tone": "FA",
           "mod": "",
-          "value": 9
+          "value": 5
         },
-        {
-          "padding": "        ",
-          "tone": "MI",
-          "mod": "",
-          "value": 4
-        },
-        {
-          "padding": "",
-          "tone": "LA",
-          "mod": "",
-          "value": 9
-        }
-      ]
-    },
-    {
-      "type": "lyric",
-      "lyric": "veni__te, venite in Be ____ thleem!"
-    },
-    {
-      "type": "tablature",
-      "key": 2,
-      "tabs": [
-        {
-          "padding": "",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
-        },
-        {
-          "padding": "    ",
-          "tone": "SOL",
-          "mod": "",
-          "value": 7
-        },
-        {
-          "padding": "",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
-        },
-        {
-          "padding": "",
-          "tone": "LA",
-          "mod": "",
-          "value": 9
-        },
-        {
-          "padding": "  ",
-          "tone": "SI",
-          "minor": "m",
-          "mod": "",
-          "value": 11
-        },
-        {
-          "padding": "",
-          "tone": "LA",
-          "mod": "",
-          "value": 9
-        }
-      ]
-    },
-    {
-      "type": "lyric",
-      "lyric": "Natum vide__te regem angelorum."
-    },
-    {
-      "type": "empty"
-    },
-    {
-      "type": "tablature",
-      "key": 2,
-      "tabs": [
-        {
-          "padding": "       ",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
-        },
-        {
-          "padding": "  ",
-          "tone": "SOL",
-          "mod": "",
-          "value": 7
-        },
-        {
-          "padding": "",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
-        },
-        {
-          "padding": "           ",
-          "tone": "SOL",
-          "mod": "",
-          "value": 7
-        },
-        {
-          "padding": "",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
-        },
-        {
-          "padding": "",
-          "tone": "LA",
-          "mod": "",
-          "value": 9
-        }
-      ]
-    },
-    {
-      "type": "lyric",
-      "lyric": "Rit. Venite ado__remus, venite ado__re_mus,"
-    },
-    {
-      "type": "tablature",
-      "key": 2,
-      "tabs": [
-        {
-          "padding": "  ",
-          "tone": "SOL",
-          "mod": "",
-          "value": 7
-        },
-        {
-          "padding": " ",
-          "tone": "MI",
-          "mod": "",
-          "value": 4
-        },
-        {
-          "padding": "",
-          "tone": "LA",
-          "mod": "",
-          "value": 9
-        },
-        {
-          "padding": "",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
-        },
-        {
-          "padding": "",
-          "tone": "SOL",
-          "mod": "",
-          "value": 7
-        },
-        {
-          "padding": "",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
-        },
-        {
-          "padding": "",
-          "tone": "LA",
-          "mod": "",
-          "value": 9
-        },
-        {
-          "padding": "",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
-        }
-      ]
-    },
-    {
-      "type": "lyric",
-      "lyric": "Venite adore_mus__  Do___minum!"
-    },
-    {
-      "type": "tablature",
-      "key": 2,
-      "tabs": [
         {
           "padding": "      ",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
-        },
-        {
-          "padding": "    ",
-          "tone": "LA",
-          "mod": "",
-          "value": 9
-        },
-        {
-          "padding": "  ",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
-        },
-        {
-          "padding": "    ",
           "tone": "SOL",
-          "mod": "",
+          "mod": "9",
           "value": 7
         },
         {
-          "padding": "",
-          "tone": "RE",
+          "padding": " ",
+          "tone": "DO",
           "mod": "",
-          "value": 2
-        },
-        {
-          "padding": "",
-          "tone": "LA",
-          "mod": "",
-          "value": 9
+          "value": 0
         }
       ]
     },
     {
       "type": "lyric",
-      "lyric": "2. En grege relicto humiles ad  cu_nas"
+      "lyric": "Adeste fideles læti triumphan--tes,"
     },
     {
       "type": "tablature",
-      "key": 2,
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "    ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "    ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "7",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "venite, venite in Bethlehem."
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "      ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "mod": "7",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Natum videte Regem angelo---rum."
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "                     ",
+          "tone": "FA",
+          "mod": "",
+          "separator": "/",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Venite adoremus, venite adoremus,"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
       "tabs": [
         {
           "padding": "  ",
           "tone": "SI",
-          "minor": "m",
+          "semi": "b",
           "mod": "",
-          "value": 11
+          "value": 10
         },
         {
-          "padding": "",
-          "tone": "MI",
+          "padding": "    ",
+          "tone": "DO",
           "mod": "",
-          "value": 4
+          "value": 0
         },
         {
           "padding": "  ",
-          "tone": "LA",
+          "tone": "DO",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "FA",
           "mod": "",
-          "value": 9
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "venite adoremus Do-minum."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "    ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "mod": "9",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "En, grege relicto, humiles ad cu---nas,"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "      ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "    ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "7",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "vocati pastores adprope-rant."
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "mod": "7",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Et nos ovanti gradu festine---mus."
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "                     ",
+          "tone": "FA",
+          "mod": "",
+          "separator": "/",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Venite adoremus, venite adoremus,"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "    ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "venite adoremus Do-minum."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": " ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "    ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
         },
         {
           "padding": "        ",
-          "tone": "MI",
-          "mod": "",
-          "value": 4
+          "tone": "SOL",
+          "mod": "9",
+          "value": 7
         },
         {
-          "padding": "",
-          "tone": "LA",
+          "padding": " ",
+          "tone": "DO",
           "mod": "",
-          "value": 9
+          "value": 0
         }
       ]
     },
     {
       "type": "lyric",
-      "lyric": "voca__ti pastores adpro___perant..."
+      "lyric": "Æterni Parentis splendorem æter--num,"
     },
     {
       "type": "tablature",
-      "key": 2,
+      "key": 5,
       "tabs": [
         {
-          "padding": "",
-          "tone": "RE",
+          "padding": "  ",
+          "tone": "FA",
           "mod": "",
-          "value": 2
+          "value": 5
+        },
+        {
+          "padding": "      ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
         },
         {
           "padding": "    ",
           "tone": "SOL",
-          "mod": "",
+          "mod": "7",
           "value": 7
         },
         {
-          "padding": "",
-          "tone": "RE",
+          "padding": " ",
+          "tone": "DO",
           "mod": "",
-          "value": 2
+          "value": 0
+        },
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "7",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "velatum sub carne videbi-mus,"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "mod": "7",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Deum infantem pannis involu---tum."
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "                     ",
+          "tone": "FA",
+          "mod": "",
+          "separator": "/",
+          "value": 5
         },
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "DO",
           "mod": "",
-          "value": 9
+          "value": 0
         },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Venite adoremus, venite adoremus,"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
         {
           "padding": "  ",
           "tone": "SI",
-          "minor": "m",
+          "semi": "b",
           "mod": "",
-          "value": 11
-        },
-        {
-          "padding": "",
-          "tone": "LA",
-          "mod": "",
-          "value": 9
-        }
-      ]
-    },
-    {
-      "type": "lyric",
-      "lyric": "Et nos ovan_ti gradu festinemus."
-    },
-    {
-      "type": "empty"
-    },
-    {
-      "type": "tablature",
-      "key": 2,
-      "tabs": [
-        {
-          "padding": "       ",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
-        },
-        {
-          "padding": "  ",
-          "tone": "SOL",
-          "mod": "",
-          "value": 7
-        },
-        {
-          "padding": "",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
-        },
-        {
-          "padding": "           ",
-          "tone": "SOL",
-          "mod": "",
-          "value": 7
-        },
-        {
-          "padding": "",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
-        },
-        {
-          "padding": "",
-          "tone": "LA",
-          "mod": "",
-          "value": 9
-        }
-      ]
-    },
-    {
-      "type": "lyric",
-      "lyric": "Rit. Venite ado__remus, venite ado__re_mus,"
-    },
-    {
-      "type": "tablature",
-      "key": 2,
-      "tabs": [
-        {
-          "padding": "  ",
-          "tone": "SOL",
-          "mod": "",
-          "value": 7
-        },
-        {
-          "padding": " ",
-          "tone": "MI",
-          "mod": "",
-          "value": 4
-        },
-        {
-          "padding": "",
-          "tone": "LA",
-          "mod": "",
-          "value": 9
-        },
-        {
-          "padding": " ",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
-        },
-        {
-          "padding": " ",
-          "tone": "SOL",
-          "mod": "",
-          "value": 7
-        },
-        {
-          "padding": " ",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
-        },
-        {
-          "padding": "",
-          "tone": "LA",
-          "mod": "",
-          "value": 9
-        },
-        {
-          "padding": " ",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
-        }
-      ]
-    },
-    {
-      "type": "lyric",
-      "lyric": "Venite adore ______ mus  Do____minum!"
-    },
-    {
-      "type": "empty"
-    },
-    {
-      "type": "tablature",
-      "key": 2,
-      "tabs": [
-        {
-          "padding": "   ",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
+          "value": 10
         },
         {
           "padding": "    ",
-          "tone": "LA",
+          "tone": "DO",
           "mod": "",
-          "value": 9
+          "value": 0
+        },
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "venite adoremus Do-minum."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "     ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "   ",
+          "tone": "SOL",
+          "mod": "9",
+          "value": 7
         },
         {
           "padding": " ",
-          "tone": "RE",
+          "tone": "DO",
           "mod": "",
-          "value": 2
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Pro nobis egenum et fœno cuban--tem"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
         },
         {
           "padding": "     ",
           "tone": "SOL",
-          "mod": "",
+          "mod": "7",
           "value": 7
         },
         {
-          "padding": "",
-          "tone": "RE",
+          "padding": "  ",
+          "tone": "DO",
           "mod": "",
-          "value": 2
+          "value": 0
         },
         {
-          "padding": "",
-          "tone": "LA",
-          "mod": "",
-          "value": 9
+          "padding": "  ",
+          "tone": "DO",
+          "mod": "7",
+          "value": 0
         }
       ]
     },
     {
       "type": "lyric",
-      "lyric": "3. Deum de Deo, lumen de___  lumine,"
+      "lyric": "piis foveamus amplexi-bus;"
     },
     {
       "type": "tablature",
-      "key": 2,
+      "key": 5,
       "tabs": [
         {
           "padding": "",
-          "tone": "SI",
-          "minor": "m",
+          "tone": "FA",
           "mod": "",
-          "value": 11
+          "value": 5
         },
         {
-          "padding": "",
-          "tone": "MI",
+          "padding": "     ",
+          "tone": "SI",
+          "semi": "b",
           "mod": "",
-          "value": 4
+          "value": 10
         },
         {
           "padding": "   ",
-          "tone": "LA",
+          "tone": "FA",
           "mod": "",
-          "value": 9
+          "value": 5
+        },
+        {
+          "padding": "         ",
+          "tone": "SOL",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "mod": "7",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sic nos amantem quis non redama---ret?"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "mod": "",
+          "value": 5
+        },
+        {
+          "padding": "                     ",
+          "tone": "FA",
+          "mod": "",
+          "separator": "/",
+          "value": 5
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "mod": "",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Venite adoremus, venite adoremus,"
+    },
+    {
+      "type": "tablature",
+      "key": 5,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
         },
         {
           "padding": "    ",
-          "tone": "MI",
+          "tone": "DO",
           "mod": "",
-          "value": 4
-        },
-        {
-          "padding": "",
-          "tone": "LA",
-          "mod": "",
-          "value": 9
-        }
-      ]
-    },
-    {
-      "type": "lyric",
-      "lyric": "ges_tant puellae viscera."
-    },
-    {
-      "type": "tablature",
-      "key": 2,
-      "tabs": [
-        {
-          "padding": "",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
-        },
-        {
-          "padding": " ",
-          "tone": "SOL",
-          "mod": "",
-          "value": 7
-        },
-        {
-          "padding": "",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
-        },
-        {
-          "padding": "",
-          "tone": "LA",
-          "mod": "",
-          "value": 9
-        },
-        {
-          "padding": "",
-          "tone": "SI",
-          "minor": "m",
-          "mod": "",
-          "value": 11
-        },
-        {
-          "padding": "   ",
-          "tone": "LA",
-          "mod": "",
-          "value": 9
-        }
-      ]
-    },
-    {
-      "type": "lyric",
-      "lyric": "Deum ve__rum genitum non factum. "
-    },
-    {
-      "type": "empty"
-    },
-    {
-      "type": "tablature",
-      "key": 2,
-      "tabs": [
-        {
-          "padding": "       ",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
+          "value": 0
         },
         {
           "padding": "  ",
-          "tone": "SOL",
-          "mod": "",
-          "value": 7
+          "tone": "DO",
+          "mod": "7",
+          "value": 0
         },
         {
           "padding": "",
-          "tone": "RE",
+          "tone": "FA",
           "mod": "",
-          "value": 2
-        },
-        {
-          "padding": "           ",
-          "tone": "SOL",
-          "mod": "",
-          "value": 7
+          "value": 5
         },
         {
           "padding": "",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
+          "tone": "DO",
+          "mod": "7",
+          "value": 0
         },
         {
           "padding": "",
-          "tone": "LA",
+          "tone": "FA",
           "mod": "",
-          "value": 9
+          "value": 5
         }
       ]
     },
     {
       "type": "lyric",
-      "lyric": "Rit. Venite ado__remus, venite ado__re_mus,"
-    },
-    {
-      "type": "tablature",
-      "key": 2,
-      "tabs": [
-        {
-          "padding": "  ",
-          "tone": "SOL",
-          "mod": "",
-          "value": 7
-        },
-        {
-          "padding": " ",
-          "tone": "MI",
-          "mod": "",
-          "value": 4
-        },
-        {
-          "padding": "",
-          "tone": "LA",
-          "mod": "",
-          "value": 9
-        },
-        {
-          "padding": " ",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
-        },
-        {
-          "padding": " ",
-          "tone": "SOL",
-          "mod": "",
-          "value": 7
-        },
-        {
-          "padding": " ",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
-        },
-        {
-          "padding": "",
-          "tone": "LA",
-          "mod": "",
-          "value": 9
-        },
-        {
-          "padding": " ",
-          "tone": "RE",
-          "mod": "",
-          "value": 2
-        }
-      ]
-    },
-    {
-      "type": "lyric",
-      "lyric": "Venite adore ______ mus  Do____minum!"
+      "lyric": "venite adoremus Do-minum."
     }
   ]
 }

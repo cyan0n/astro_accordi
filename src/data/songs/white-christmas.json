@@ -1,7 +1,8 @@
 {
   "title": "White Christmas",
   "slug": "white-christmas",
-  "category": "5",
+  "category": null,
+  "sub_category": null,
   "lines": [
     {
       "type": "empty"
@@ -37,20 +38,14 @@
     },
     {
       "type": "lyric",
-      "lyric": "I'm dreaming of a White Christam,"
+      "lyric": "I'm dreaming of a White Christmas,"
     },
     {
       "type": "tablature",
       "key": 7,
       "tabs": [
         {
-          "padding": "",
-          "tone": "DO",
-          "mod": "",
-          "value": 0
-        },
-        {
-          "padding": "          ",
+          "padding": "            ",
           "tone": "RE",
           "mod": "7",
           "value": 2
@@ -136,14 +131,14 @@
           "value": 7
         },
         {
-          "padding": "             ",
+          "padding": "              ",
           "tone": "LA",
           "minor": "m",
           "mod": "",
           "value": 9
         },
         {
-          "padding": "  ",
+          "padding": " ",
           "tone": "SI",
           "minor": "m",
           "mod": "7",

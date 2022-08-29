@@ -1,0 +1,1416 @@
+{
+  "title": "In Viaggio",
+  "artist": "Fiorella Mannoia",
+  "slug": "fiorella-mannoia-in-viaggio",
+  "category": null,
+  "sub_category": null,
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "Intro:"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "7+",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "SOL",
+          "minor": "m",
+          "mod": "7",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Domani partirai"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "non ti posso accompagnare"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "sarai sola nel viaggio"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "io non posso venire"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "il tempo sarà lungo"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "e la tua strada incerta"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "il calore del mio amore"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "sarà la tua coperta"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ho temuto questo giorno"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "è arrivato così in fretta"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e adesso devi andare"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "la vita non aspetta"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "guardo le mie mani"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ora che siamo sole"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "non ho altro da offrirti"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "solo le mie parole"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Rivendica il diritto ad essere felice"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "     ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "4",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "non dar retta alla gente"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "non sa quello che dice"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e non aver paura"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ma non ti fidare"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "se il gioco è troppo facile"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "avrai qualcosa da pagare"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ed io ti penserò in silenzio"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "4",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "nelle notti d'estate"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "nell'ora del tramonto"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "                    ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "quando si oscusa il mondo"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "4",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "l'ora muta delle fate"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "           ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "4",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e parlerò al mio cuore, più forte"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "4",
+          "value": 10
+        },
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "perché tu lo possa sentire"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "                     ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "è questo il nostro accordo"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "        ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "prima di partire"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "prima di partire"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": "               ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "domani ... non ti voltare"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "add9",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7/4",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ama la tua terra non la tradire"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "      ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "4",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "non badare alle offese"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "lasciali dire"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ricorda che l'umiltà"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "apre tutte le porte"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e che la conoscenza"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "ti renderà più forte"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Lo sai che l'onestà"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "non è un concetto vecchio"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "4",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "non vergognarti mai"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "quando ti guardi nello specchio"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "non invocare aiuto nelle notte di tempesta"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e non ti sottomettere tieni alta la testa"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ama, la tua terra"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "   ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ama, non la tradire"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "non frenare l'allegria"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "non tenerla tra le dita"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "  ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "         ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ricorda che l'ironia ti  salverà la vita"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7/4",
+          "value": 10
+        },
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ti salverà..."
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "4",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ed io ti penserò    in silenzio"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "4",
+          "value": 10
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "nelle notti d'estate"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "nell'ora del tramonto"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "quella muta delle  fate"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e parlerò al mio cuore"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        },
+        {
+          "padding": "            ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "4",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "perché, domani partirai"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "lyric",
+      "lyric": "in silenzio"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "                   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "4",
+          "value": 10
+        },
+        {
+          "padding": "   ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "ma in una notte di estate"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "io ti verrò a cercare"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "         ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "io ti verrò a parlare"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "e griderò al mio cuore"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "   ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "6",
+          "value": 8
+        },
+        {
+          "padding": "                 ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 10
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "mod": "",
+          "value": 2
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "perché... tu lo possa sentire"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "       ",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7",
+          "value": 5
+        },
+        {
+          "padding": "   ",
+          "tone": "DO",
+          "minor": "m",
+          "mod": "7",
+          "value": 0
+        },
+        {
+          "padding": "",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": " ",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "7+",
+          "value": 8
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "si, lo possa sentire"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "FA",
+          "minor": "m",
+          "mod": "7/4",
+          "value": 5
+        },
+        {
+          "padding": " ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "separator": "/",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "SOL",
+          "mod": "",
+          "value": 7
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "semi": "b",
+          "mod": "",
+          "value": 8
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "7/4",
+          "value": 10
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "semi": "b",
+          "mod": "",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 3,
+      "tabs": [
+        {
+          "padding": "                    ",
+          "tone": "MI",
+          "semi": "b",
+          "mod": "",
+          "value": 3
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "tu la possa sentire... "
+    }
+  ]
+}

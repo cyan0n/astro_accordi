@@ -1,0 +1,1302 @@
+{
+  "title": "Guerriero",
+  "artist": "Marco Mengoni",
+  "slug": "marco-mengoni-guerriero",
+  "category": null,
+  "sub_category": null,
+  "lines": [
+    {
+      "type": "empty"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "        ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "                   ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " Levo questa spada alta verso il cielo"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "                          ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Giuro sarò roccia contro il fuoco e il gelo"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "                ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Solo sulla cima tenderò i predoni"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "          ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Arriveranno in molti e solcheranno il mare"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "                ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Oltre queste mura troverò la gioia"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "O forse la mia fine comunque sarà gloria"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "               ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E non lotterò mai per un compenso"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Lotto per amore, lotterò per questo"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "          ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "                     ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " Io sono un guerriero veglio quando è notte"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ti difenderò da incubi e    tristezze"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ti riparerò da inganni e maldicenze"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "         ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E ti abbraccerò per darti forza  sempre"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "               ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ti darò certezze contro le paure"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "        ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": " ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Per vedere il mondo oltre quelle alture"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "LA",
+          "mod": "add9",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Non temere nulla io sarò al tuo fianco"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        },
+        {
+          "padding": "                     ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "  ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Con il mio mantello asciugherò il tuo pianto"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "                   ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E amore il mio grande amore che mi credi"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "                    ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Vinceremo contro tutti e resteremo in piedi"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "                  ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E resterò al tuo fianco fino a che vorrai"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "                ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ti difenderò da tutto, non temere mai"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "                   ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E amore il mio grande amore che mi credi"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "                    ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Vinceremo contro tutti e resteremo in piedi"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "                 ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E resterò al tuo fianco fino a che vorrai"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "               ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ti difenderò da tutto, non temere mai"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "                   ",
+          "tone": "LA",
+          "mod": "7+",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Non temere il drago fermerò il suo fuoco"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "SI",
+          "mod": "6",
+          "value": 11
+        },
+        {
+          "padding": "                  ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Niente può colpirti dietro questo scudo"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "              ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "mod": "7+",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Lotterò con forza contro tutto il male"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "               ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E quando cadrò tu non disperare"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "    ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "  ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "  ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": " ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Per te io mi  rialzerò"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "           ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "                  ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " Io sono un guerriero e troverò le forze"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "              ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Lungo il tuo cammino sarò al tuo fianco mentre"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "                ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ti darò riparo contro le tempeste"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "         ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E ti terrò per mano per scaldarti  sempre"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "          ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "                  ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Attraverseremo insieme questo regno"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "       ",
+          "tone": "SOL",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "separator": "/",
+          "value": 8
+        },
+        {
+          "padding": "",
+          "tone": "RE",
+          "semi": "#",
+          "mod": "",
+          "value": 3
+        },
+        {
+          "padding": "",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E attenderò con te la fine dell'inverno"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "LA",
+          "mod": "add9",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Dalla notte al giorno, da occidente a oriente"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "            ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Io sarò con te e sarò il tuo guerriero"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "                   ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E amore il mio grande amore che mi credi"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "                    ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Vinceremo contro tutti e resteremo in piedi"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "                  ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E resterò al tuo fianco fino a che vorrai"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "                ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ti difenderò da tutto, non temere mai"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "               ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "                  ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E amore il mio grande amore che mi credi"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "                    ",
+          "tone": "SI",
+          "mod": "",
+          "value": 11
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Vinceremo contro tutti e resteremo in piedi"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "                 ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        },
+        {
+          "padding": "                  ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E resterò al tuo fianco fino a che vorrai"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "                ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        },
+        {
+          "padding": "               ",
+          "tone": "DO",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ti difenderò da tutto, non temere mai"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "           ",
+          "tone": "SI",
+          "mod": "add9",
+          "value": 11
+        },
+        {
+          "padding": "             ",
+          "tone": "LA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "7/5-",
+          "value": 10
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Ci saranno luci accese di speranze"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "             ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "E ti abbraccerò per darti forza sempre"
+    },
+    {
+      "type": "empty"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        },
+        {
+          "padding": "        ",
+          "tone": "FA",
+          "semi": "#",
+          "minor": "m",
+          "mod": "",
+          "value": 6
+        },
+        {
+          "padding": "                           ",
+          "tone": "LA",
+          "mod": "",
+          "value": 9
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": " Giurò sarò roccia contro il fuoco e il gelo"
+    },
+    {
+      "type": "tablature",
+      "key": 4,
+      "tabs": [
+        {
+          "padding": "                                   ",
+          "tone": "MI",
+          "mod": "",
+          "value": 4
+        }
+      ]
+    },
+    {
+      "type": "lyric",
+      "lyric": "Veglio su di te, io sono il tuo guerriero"
+    }
+  ]
+}
