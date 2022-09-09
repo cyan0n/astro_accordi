@@ -364,11 +364,6 @@
   "6": {
     "1": [
       {
-        "title": "La Guerra di Piero",
-        "artist": "Fabrizio De Andrè",
-        "slug": "fabrizio-de-andre-la-guerra-di-piero"
-      },
-      {
         "title": "La Canzone del Bambino nel Vento",
         "artist": "Francesco Guccini",
         "slug": "francesco-guccini-la-canzone-del-bambino-nel-vento"
@@ -401,7 +396,7 @@
       "slug": "adeste-fideles"
     },
     {
-      "title": "Perché?",
+      "title": "Perché?",
       "artist": "Alex Britti",
       "slug": "alex-britti-perche"
     },
